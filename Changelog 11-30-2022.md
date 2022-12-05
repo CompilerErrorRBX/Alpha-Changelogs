@@ -58,11 +58,10 @@ ________
 - Added new small town around the Hospital.
 - Flattened the mountain where the radio tower was and temporarily removed the radio tower.
 - Added small neighborhoods throughout the map.
+- Added a new neighborhood in middle of map.
+- Moved Mansion to middle of map.
 
 ### :exclamation: `Change` Added Clothing Tiers
-Added a new neighborhood in middle of map.]
-Moved Mansion to middle of map.]
-Added new town near hospital
 Added a three tiered system to clothing.
 - Shirt Tiers:
   - Tier 1 have 4 slots and 2kg carry capacity.
