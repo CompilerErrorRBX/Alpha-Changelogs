@@ -5,6 +5,8 @@
 ## :speech_balloon: Patch Notes
 This update we focused heavily on preparing the game for future unofficial server ownership and managment by our players. We want to provide our community with the tools to make their unique survival experience possible.
 
+Additionally a lot of time was put into making the map feel more interesting and new areas were added.
+
 ________
 
 ## :star2: New Items
@@ -19,31 +21,11 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
+### :white_check_mark: `Feature` Added Loading Screen
+Players are now presented with a loading screen while they wait for the game to start.
+
 ### :white_check_mark: `Feature` Server Configuration
 Server configuration has been added and allows server owners to configure their server the way they want it. There's more to come for this feature, but this is a great start.
-
-- Atmosphere Settings
-  - Time of Day
-  - Day Length
-- Gameplay Settings
-  - Loot Drop on Death Toggle
-  - PVP Toggle
-  - Damage Hitmarker Toggle
-  - Camera Mode Options
-    - First Person Only
-    - Third Person Only
-    - Both
-  - Player Data Saving Toggle
-  - Squad Friendlyfire Toggle
-  - Squadmate Nametag Toggle
-  - Squadmate Heath on Nametag Toggle
-  - Squadmate Highlight Toggle
-  - Squadmate Betrayal Protection Duration
-- Loot Settings
-  - Respawn Time
-  - Minimum Player Radius for Respawn
-  - Player Scaling Emptiness Modifier
-  - Emptiness Multiplier
   
 ### :white_check_mark: `Feature` Server Player Management
 Player management dashboard is live! This dashboard allows server owners and their designated moderators to perform various actions on their players. The dashboard also displays prior moderation logs for the specified player.
@@ -72,6 +54,11 @@ ________
 
 ## :balance_scale: Changes
 
+### :exclamation: `Change` Various Map Refactoring and Additions
+- Added new small town around the Hospital.
+- Flattened the mountain where the radio tower was and temporarily removed the radio tower.
+- Added small neighborhoods throughout the map.
+
 ### :exclamation: `Change` Added Clothing Tiers
 Added a new neighborhood in middle of map.]
 Moved Mansion to middle of map.]
@@ -87,6 +74,10 @@ Added a three tiered system to clothing.
   - Tier 3 have 8 slots and 4.5kg carry capacity.
 
 Additionally, all existing clothing have been updated to reflect one of these tiers.
+
+### :exclamation: `Change` Removed Large Backpack spawns from zombies.
+We originally had large backpacks spawning on zombies so that we had a place for them to spawn.
+This was early on in the game's development. We've removed this spawn since there are far better places for them to spawn.
 
 ________
 
