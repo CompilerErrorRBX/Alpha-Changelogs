@@ -1,6 +1,7 @@
 # :bookmark_tabs:  Changelog 11/30/2022 - 12/XX/2022
 
 ## :red_circle: Status `Unreleased`
+<!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
 This update we focused heavily on preparing the game for future unofficial server ownership and managment by our players. We want to provide our community with the tools to make their unique survival experience possible.
@@ -42,13 +43,15 @@ Player management dashboard is live! This dashboard allows server owners and the
 - Game Ban
   > Available only to offical game staff.
 
-### :arrow_up_small: `Improvement` NPC Hunt Logic
-NPCs used to keep track of where their last target was for up to 6 seconds after losing "line of sight." Instead, now, they will keep short-term records of where their target went based on noise levels and actions.
+### :arrow_up_small: `Improvement` Ground Item Scrapping
+Items can now be scrapped from the ground.
 
-Additionally, NPCs now handle breaking open doors more smoothly.
-
-### :arrow_up_small: `Improvement` NPC Optimizations
-Performance improvements to how NPCs are moved
+### :arrow_up_small: `Improvement` NPC Improvements
+- Improved NPC interpolation logic.
+  > NPCs are now interpolated by priority by default. Can be turned off in Debug Settings.
+- Improved NPC player tracking.
+- Improced NPC chase logic.
+- Zombies now have glowing eyes.
 
 ________
 
@@ -82,4 +85,6 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a defect which made NPCs ignore the "Ragdolls" user setting.
+- Fixed a defect which made inventories unusable when picked up in a certain way.
+- Fixed a defect where looted corpse inventories weren't removed from the player's UI upon despawn.
 
