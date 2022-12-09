@@ -1,7 +1,7 @@
-# :bookmark_tabs:  Changelog 11/30/2022 - 12/XX/2022
+# :bookmark_tabs:  Changelog 11/30/2022 - 12/09/2022
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 This update we focused heavily on preparing the game for future unofficial server ownership and managment by our players. We want to provide our community with the tools to make their unique survival experience possible.
