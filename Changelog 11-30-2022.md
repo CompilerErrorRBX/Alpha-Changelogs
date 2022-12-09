@@ -22,6 +22,9 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
+### :white_check_mark: `Feature` Item Placement
+You can now manually place your items on the ground the way you want to.
+
 ### :white_check_mark: `Feature` Added Loading Screen
 Players are now presented with a loading screen while they wait for the game to start.
 
@@ -43,6 +46,15 @@ Player management dashboard is live! This dashboard allows server owners and the
 - Game Ban
   > Available only to offical game staff.
 
+### :arrow_up_small: `Improvement` Melee Experience
+Melee should feel a lot more responsive and accurate now.
+
+### :arrow_up_small: `Improvement` Crafting Experience
+The crafting interface experience left a lot to be desired. We focused on user experience here and ways to make the interface feel more responsive.
+- Added support for automatic sub-recipe crafting to the system.
+  > In the case where a craft requires another crafted item to make, it will first queue the required item craft and then the one you're trying to make.
+- Improved recipe sorting to put similar items closer together.
+
 ### :arrow_up_small: `Improvement` Ground Item Scrapping
 Items can now be scrapped from the ground.
 
@@ -63,6 +75,7 @@ ________
 - Added small neighborhoods throughout the map.
 - Added a new neighborhood in middle of map.
 - Moved Mansion to middle of map.
+- Added military bunker.
 
 ### :exclamation: `Change` Added Clothing Tiers
 Added a three tiered system to clothing.
