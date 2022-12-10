@@ -26,5 +26,6 @@ ________
 ________
 
 ## :bug: Bugfixes
+- Fixed a few bugs with squad tags 🤞.
 - Fixed a bug where NPCs didn't respawn when they fell off the map.
 - Fixed a bug where some NPC information wasn't cleaned up when they died.
