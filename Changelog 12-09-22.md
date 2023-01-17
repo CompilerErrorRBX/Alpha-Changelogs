@@ -1,7 +1,7 @@
-# :bookmark_tabs:  Changelog 12/09/2022 - 01/XX/2023
+# :bookmark_tabs:  Changelog 01/01/2023 - 01/17/2023
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 
