@@ -32,6 +32,12 @@ ________
 ### :exclamation: `Change` Brightened moonlight slightly
 - Shadows and distance are still dark, but the ground around the player in the grass is a bit brighter.
 
+### :exclamation: `Change` Medical Items
+- Bandages no longer heal.
+- Dressed bandages healing reduced (20HP in 4s > 10HP in 4s)
+- Small medkit healing reduced (50HP in 5s > 40HP in 5s)
+- Large medkit healing change (100HP in 10s > 100HP in 12s) (10HP/s > 8HP/s)
+
 ________
 
 ## :bug: Bugfixes
