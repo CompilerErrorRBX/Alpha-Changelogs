@@ -10,6 +10,12 @@ ________
 ## :star2: New Items
 - :new: Press Vest, FBI Vest (Skin), and Police Vest
   > Reworked the police vest model and added a press vest and FBI vest.
+- :new: Sap
+  > Obtained by gathering conifer trees.
+  > Used in crafting healing salve.
+- :new: Healing Salve
+  > Fast use healing item.
+  > Heals for 7HP and stops one level of bleeding
 
 ________
 
@@ -41,3 +47,4 @@ ________
 ________
 
 ## :bug: Bugfixes
+- Fixed a bug which made zombie's vision very short.
