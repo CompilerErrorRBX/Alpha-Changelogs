@@ -50,4 +50,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Fixed a bug which made zombie's vision very short.
+- Fixed a bug which made zombie's max vision distance very short.
