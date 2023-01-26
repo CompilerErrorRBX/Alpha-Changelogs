@@ -44,6 +44,9 @@ ________
 - Small medkit healing reduced (50HP in 5s > 40HP in 5s)
 - Large medkit healing change (100HP in 10s > 100HP in 12s) (10HP/s > 8HP/s)
 
+### :exclamation: `Change` Reduced zombie vision range
+- We felt zombies could see a bit too far when they weren't bugged so we reduced their vision distance on players by about 15%.
+
 ________
 
 ## :bug: Bugfixes
