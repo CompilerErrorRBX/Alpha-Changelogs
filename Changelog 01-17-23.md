@@ -47,6 +47,9 @@ ________
 ### :exclamation: `Change` Reduced zombie vision range
 - We felt zombies could see a bit too far when they weren't bugged so we reduced their vision distance on players by about 15%.
 
+### :exclamation: `Change` Arrow crafting recipe quantity reduction
+- Getting 4 arrows per stick felt a bit excessive so we've reduced this to 1 per stick.
+
 ________
 
 ## :bug: Bugfixes
