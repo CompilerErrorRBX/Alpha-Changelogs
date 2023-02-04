@@ -26,11 +26,20 @@ ________
 ### :arrow_up_small: `Improvement` Day Time Length Increased
 - We've added configuration around a bias toward day time on the day cycle. Day time is now significantly longer than night.
 
+### :arrow_up_small: `Improvement` Zombie Horde Movement
+- Less spinny
+  > We felt that zombies were a bit too "spiny" when a horde surrounded a player while they were up on top of something. 
+  > Now they will more likely face the player than spin.
+
 ________
 
 ## :balance_scale: Changes
 
 ### :exclamation: `Change` Honey Provides Antibiotics
+
+### :exclamation: `Change` Camping Axe
+- Added a slight move speed debuff of 5% while holding the camping axe.
+- Increased swing stamina consumption 3 > 8
 
 ### :exclamation: `Change` Arrows now only require sticks to craft
 - We felt that arrows were a bit too difficult to craft so we've made them much cheaper.
@@ -46,6 +55,7 @@ ________
 
 ### :exclamation: `Change` Reduced zombie vision range
 - We felt zombies could see a bit too far when they weren't bugged so we reduced their vision distance on players by about 15%.
+  > This was applied after fixing the bug where they couldn't see nearly as far as they were meant to.
 
 ### :exclamation: `Change` Arrow crafting recipe quantity reduction
 - Getting 4 arrows per stick felt a bit excessive so we've reduced this to 1 per stick.
@@ -53,4 +63,5 @@ ________
 ________
 
 ## :bug: Bugfixes
+- Fixed a bug which made it impossible to interact with some containers (I believe this is fixed as of 2/4/2023)
 - Fixed a bug which made zombie's max vision distance very short.
