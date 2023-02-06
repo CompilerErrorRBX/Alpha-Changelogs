@@ -36,6 +36,9 @@ ________
 - Players can be shot out of cars now.
   > Reworked vehicle collision meshes with simplified collision geometry which should result in far better bullet hit registration around vehicles.
 
+### :arrow_up_small: `Improvement` Truck and Sedan Reworks
+- Reworked the 
+
 ________
 
 ## :balance_scale: Changes
@@ -70,3 +73,5 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug which made it impossible to interact with some containers (I believe this is fixed as of 2/4/2023)
 - Fixed a bug which made zombie's max vision distance very short.
+- Fixed a bug where purified water gave caffeine.
+- Fixed a bug where the truck would spin after a player exited while turning.
