@@ -30,7 +30,7 @@ ________
 - Less spinny
   > We felt that zombies were a bit too "spiny" when a horde surrounded a player while they were up on top of something. 
   > Now they will more likely face the player than spin.
-  > As a result of this change, zombies are far more likely to get stuck on things. I might add pathfinding to them soon.
+  > As a result of this change, zombies are far more likely to get stuck on things.
 
 ### :arrow_up_small: `Improvement` Vehicle Collisions
 - Players can be shot out of cars now.
