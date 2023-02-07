@@ -50,6 +50,7 @@ ________
 ### :exclamation: `Change` Military Zombies
 - Military zombies are now always sprinters.
 - Police zombies no longer spawn in military zombie spawns.
+- Military zombies have 25% more HP (40 > 60).
 
 ### :exclamation: `Change` Honey Provides Antibiotics
 
