@@ -21,7 +21,8 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-### :white_check_mark: `Feature` 
+### :white_check_mark: `Feature` Zombie Vaulting
+- Zombies can vault over short walls now.
 
 ### :arrow_up_small: `Improvement` Day Time Length Increased
 - We've added configuration around a bias toward day time on the day cycle. Day time is now significantly longer than night.
@@ -75,3 +76,5 @@ ________
 - Fixed a bug which made zombie's max vision distance very short.
 - Fixed a bug where purified water gave caffeine.
 - Fixed a bug where the truck would spin after a player exited while turning.
+- Fixed texturing on the bow.
+- Fixed a bug where certain parts that were meant to be invisible weren't.
