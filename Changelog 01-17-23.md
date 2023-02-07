@@ -24,6 +24,9 @@ ________
 ### :white_check_mark: `Feature` Zombie Vaulting
 - Zombies can vault over short walls now.
 
+### :white_check_mark: `Feature` Sprinting Zombies
+- Some zombies are sprinters, these are faster than players and pose a larger threat than the regular zombies.
+
 ### :arrow_up_small: `Improvement` Day Time Length Increased
 - We've added configuration around a bias toward day time on the day cycle. Day time is now significantly longer than night.
 
@@ -43,6 +46,10 @@ ________
 ________
 
 ## :balance_scale: Changes
+
+### :exclamation: `Change` Military Zombies
+- Military zombies are now always sprinters.
+- Police zombies no longer spawn in military zombie spawns.
 
 ### :exclamation: `Change` Honey Provides Antibiotics
 
