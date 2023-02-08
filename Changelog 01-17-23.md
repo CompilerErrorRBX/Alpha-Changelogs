@@ -15,7 +15,9 @@ ________
   > Used in crafting healing salve.
 - :new: Healing Salve
   > Fast use healing item.
-  > Heals for 7HP and stops one level of bleeding
+  > Heals for 7HP and stops one level of bleeding.
+- :new: Clothing
+  - Hunting outfit in various colors, Prison Guard uniform, Hospital Gown.
 
 ________
 
@@ -39,9 +41,6 @@ ________
 ### :arrow_up_small: `Improvement` Vehicle Collisions
 - Players can be shot out of cars now.
   > Reworked vehicle collision meshes with simplified collision geometry which should result in far better bullet hit registration around vehicles.
-
-### :arrow_up_small: `Improvement` Truck and Sedan Reworks
-- Reworked the 
 
 ________
 
