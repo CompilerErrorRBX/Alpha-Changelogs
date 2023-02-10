@@ -15,12 +15,15 @@ ________
 
 ### :white_check_mark: `Feature` 
 
-### :arrow_up_small: `Improvement` 
+### :arrow_up_small: `Improvement` Zombie Performance
+- Improved zombie movement and flocking logic performance by 80% :green_circle:
+- Reduced zombie network usage by 90% :red_circle:
 ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` 
+### :exclamation: `Change` Camping Axe Weight
+- Increased camping axe weight from 0.7kg -> 2.5kg.
 
 ________
 
