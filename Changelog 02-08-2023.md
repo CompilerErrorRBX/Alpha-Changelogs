@@ -28,4 +28,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- 
+- Fixed a bug which made cars behave weirdly when a passenger entered for the first time.
