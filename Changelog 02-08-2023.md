@@ -28,4 +28,5 @@ ________
 ________
 
 ## :bug: Bugfixes
+- Fixed a bug which caused inventories to bug out and disappear when a player tried to pick up an inventory item while their inventory was full. 
 - Fixed a bug which made cars behave weirdly when a passenger entered for the first time.
