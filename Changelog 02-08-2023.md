@@ -20,7 +20,7 @@ ________
 ### :arrow_up_small: `Improvement` Zombie Performance
 - Improved zombie stimulus lookup time by 98% on average.
 - Improved zombie movement and flocking logic performance by 80%.
-- Reduced zombie network usage by 90%.
+- Reduced zombie network usage by 75%.
 ________
 
 ## :balance_scale: Changes
