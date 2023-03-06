@@ -28,6 +28,11 @@ ________
 ### :exclamation: `Change` Camping Axe Weight
 - Increased camping axe weight from 0.7kg -> 2.5kg.
 
+### :exclamation: `Change` Map Changes
+- Added food canning POI.
+- Added various neighborhoods.
+- Started on lobby area.
+
 ________
 
 ## :bug: Bugfixes
