@@ -21,6 +21,9 @@ ________
 - Improved zombie stimulus lookup time by 98% on average.
 - Improved zombie movement and flocking logic performance by 80%.
 - Reduced zombie network usage by 75%.
+
+### :arrow_up_small: `Improvement` Better Location Saving
+- Player location is now captured as they're leaving the place instead of only once every 30 seconds.
 ________
 
 ## :balance_scale: Changes
