@@ -5,8 +5,6 @@
 
 ## :speech_balloon: Patch Notes
 This update we wanted to put a lot of focus into the zombies. We've noticed some scalability issues during testing sessions and those need to be addressed before we begin open weekend testing. This is not the only requirement to get us to open weekend testing but it is a very good step forward.
-
-Additionally we also wanted to continue towards our goal of open weekend testing so we began work on the game's lobby and server selection logic.
 ________
 
 ## :star2: New Items
