@@ -19,6 +19,7 @@ ________
 - Improved zombie stimulus lookup time by 98% on average.
 - Improved zombie movement and flocking logic performance by 80%.
 - Reduced zombie network usage by 75%.
+
 ________
 
 ## :balance_scale: Changes
@@ -30,6 +31,11 @@ ________
 - Added food canning POI.
 - Added various neighborhoods.
 - Started on lobby area.
+- Added Radio Tower.
+
+### :exclamation: `Change` Gas Mask Effects
+- Added breathing sound.
+- Added slight sound muffling.
 
 ________
 
