@@ -20,6 +20,10 @@ ________
 - Improved zombie movement and flocking logic performance by 80%.
 - Reduced zombie network usage by 75%.
 
+### :arrow_up_small: `Improvement` Car Improvements
+- Added Horn (H by default)
+- Added Headlights (L by default)
+
 ________
 
 ## :balance_scale: Changes
