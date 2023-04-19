@@ -13,13 +13,15 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-### :white_check_mark: `Feature` 
+### :white_check_mark: `Feature` Added bleeding effect
+- Blood droplets roll down your screen (off to the sides) with a red border.
 
 ### :arrow_up_small: `Improvement` Zombie Performance
 - Improved zombie stimulus lookup time by 98% on average.
 - Improved zombie movement and flocking logic performance by 80%.
 - Reduced zombie network usage by 75%.
 - Added over 100 new sounds to zombies.
+- Overall improvement improved by ~10x.
 
 ### :arrow_up_small: `Improvement` Car Improvements
 - Added Horn (H by default)
