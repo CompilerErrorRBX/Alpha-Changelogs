@@ -23,6 +23,9 @@ ________
 - Added over 100 new sounds to zombies.
 - Overall improvement improved by ~10x.
 
+### :arrow_up_small: `Improvement` Zombie Behavior
+- Reduced the amount of spinning that zombies do.
+
 ### :arrow_up_small: `Improvement` Car Improvements
 - Added Horn (H by default)
 - Added Headlights (L by default)
