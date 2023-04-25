@@ -16,6 +16,8 @@ ________
 ### :white_check_mark: `Feature` Added bleeding effect
 - Blood droplets roll down your screen (off to the sides) with a red border.
 
+### :white_check_mark: `Feature` Added sound effect for critically low health.
+
 ### :arrow_up_small: `Improvement` Zombie Performance
 - Improved zombie stimulus lookup time by 98% on average.
 - Improved zombie movement and flocking logic performance by 80%.
