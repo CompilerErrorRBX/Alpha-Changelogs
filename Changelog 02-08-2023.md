@@ -23,7 +23,7 @@ ________
 - Improved zombie movement and flocking logic performance by 80%.
 - Reduced zombie network usage by 75%.
 - Added over 100 new sounds to zombies.
-- Overall improvement improved by ~10x.
+- Overall zombiie performance improved by ~10x.
 
 ### :arrow_up_small: `Improvement` Zombie Behavior
 - Reduced the amount of spinning that zombies do.
