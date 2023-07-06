@@ -1,14 +1,10 @@
-# :bookmark_tabs:  Changelog 02/08/2023 - 02/XX/2023
+# :bookmark_tabs:  Changelog 02/08/2023 - 07/06/2023
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 This update we wanted to put a lot of focus into the zombies. We've noticed some scalability issues during testing sessions and those need to be addressed before we begin open weekend testing. This is not the only requirement to get us to open weekend testing but it is a very good step forward.
-________
-
-## :star2: New Items
-- :new: 
 ________
 
 ## :loudspeaker: Features and Improvements
@@ -27,6 +23,9 @@ ________
 
 ### :arrow_up_small: `Improvement` Zombie Behavior
 - Reduced the amount of spinning that zombies do.
+  
+### :white_check_mark: `Feature` Zombie Loot
+- Zombies now spawn a drop bag when they have loot, loot is totally random and not related to the equipment on the zombie.
 
 ### :arrow_up_small: `Improvement` Car Improvements
 - Added Horn (H by default)
@@ -43,7 +42,9 @@ ________
 - Added food canning POI.
 - Added various neighborhoods.
 - Started on lobby area.
-- Added Radio Tower.
+- Added Radio Towers and radio station.
+- Refactored Redfield layout.
+- Buffed loot at prison.
 
 ### :exclamation: `Change` Gas Mask Effects
 - Added breathing sound.
@@ -56,3 +57,4 @@ ________
 - Fixed a bug which made cars behave weirdly when a passenger entered for the first time.
 - Fixed a bug which prevented slider based settings from loading properly.
 - Fixed a bug which made some zombies go invisible for players who joined the game after the server started.
+- Fixed scope sway.
