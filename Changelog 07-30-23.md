@@ -15,7 +15,10 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-### :white_check_mark: `Feature`
+### :white_check_mark: `Feature` Concussion Status Effect
+> Causes brief vision impact, ear ringing, and weapon flinch upon starting.
+- Bullet Headshots result in a concussion 100% of the time, with a duration that is based on the damage dealt `(max 2s)`.
+- Melee headshots have a percentage chance to cause concussion, with a duration that is based on damage dealt `(max 2s)`.
 
 ### :arrow_up_small: `Improvement`
 
@@ -24,14 +27,15 @@ ________
 ## :balance_scale: Changes
 
 ### :exclamation: `Change` Medical Items
-- Decreased `Healing Salve` healing from 7hp -> 5hp.
-- Increased `Healing Salve` healing duration from 2s -> 10s. (0.5hp / second)
-- Increased `Dressed Bandage` healing duration from 4s -> 10s. (1hp / second)
-- Increased `Small Medkit` healing duration from 5s -> 20s. (2hp / second)
-- Increased `Large Medkit` healing duration from 12.5s -> 20s. (5hp / second)
-- Increased `Bandage` use time from 1.5s -> 3s.
+- Decreased `Healing Salve` healing from `7hp -> 5hp`.
+- Increased `Healing Salve` healing duration from `2s -> 10s (0.5hp / second)`.
+- Increased `Dressed Bandage` healing duration from `4s -> 10s (1hp / second)`.
+- Increased `Small Medkit` healing duration from `5s -> 20s (2hp / second)`.
+- Increased `Large Medkit` healing duration from `12.5s -> 20s (5hp / second)`.
+- Increased `Bandage` use time from `1.5s -> 3s`.
 
 ________
 
 ## :bug: Bugfixes
-- 
+- Fixed a bug which made healing items heal twice as much as intended.
+- Fixed PVP melee.
