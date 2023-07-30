@@ -6,7 +6,7 @@
 ## :speech_balloon: Patch Notes
 In this patch we focused on making players a bit less tanky. We found that healing items were a bit more effective than we were looking for with this game, so we slowed down healing across the board.
 
-## :star2: New Items
+## :fire: New Items
 - Added `Tourniquet`.
   > Alternative to bandages, stops 3 stages of bleeding, consumes in 3 seconds.
   > Bandage, by contrast, stops 1 stage of bleeding and consumes in 3 seconds (See medical item changes in the changes section).
