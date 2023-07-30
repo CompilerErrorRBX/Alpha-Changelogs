@@ -37,6 +37,7 @@ ________
 - Increased `Small Medkit` healing duration from `5s -> 20s (2hp / second)`.
 - Increased `Large Medkit` healing duration from `12.5s -> 20s (5hp / second)`.
 - Increased `Bandage` use time from `1.5s -> 3s`.
+- Increased `Leg Splint` use time from `6s -> 5s`.
 
 > We felt that overall, players should need to disengage from combat before healing so when a player is damaged while healing, the healing will cease.
 - Healing is stopped when a player takes damage from an attack.
