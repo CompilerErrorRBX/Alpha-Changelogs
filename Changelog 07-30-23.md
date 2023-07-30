@@ -1,7 +1,7 @@
-# :bookmark_tabs:  Changelog 07/29/2023 - XX/XX/2023
+# :bookmark_tabs:  Changelog 07/29/2023 - 07/30/2023
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 In this patch we focused on making players a bit less tanky. We found that healing items were a bit more effective than we were looking for with this game, so we slowed down healing across the board.
@@ -11,7 +11,7 @@ In this patch we focused on making players a bit less tanky. We found that heali
   > Alternative to bandages, stops 3 stages of bleeding, consumes in 3 seconds.
   > Bandage, by contrast, stops 1 stage of bleeding and consumes in 3 seconds (See medical item changes in the changes section).
 
-- Added `Shovel`, `BaseballBat`, `Machete`, `Cleaver`.
+- Added `Shovel`, `Crowbar`, `Machete`, `Cleaver`.
   > We want to continue to add more melee weapons, we started with a few low-hanging options.
 
 ________
@@ -24,7 +24,9 @@ ________
 - Melee headshots have a percentage chance to cause concussion, with a duration that is based on damage dealt `(max 2s)`.
 
 
-### :arrow_up_small: `Improvement`
+### :arrow_up_small: `Improvement` Consumable Item Use Time
+> Consumable items used to play an animation and once the animation ended your gun would be available again.
+> Now, instead, we disable your weapon for the full duration of using the item (unless cancelled).
 
 ________
 
