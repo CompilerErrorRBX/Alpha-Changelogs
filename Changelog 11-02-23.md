@@ -1,0 +1,40 @@
+# :bookmark_tabs:  Changelog 11/02/2023 - xx/xx/2023
+
+## :red_circle: Status `Unreleased`
+<!-- ## :green_circle: Status `Released` -->
+
+## :speech_balloon: Patch Notes
+Patch Notes
+
+## :fire: New Items
+- Added `ITEM NAME HERE`.
+
+________
+
+## :loudspeaker: Features and Improvements
+
+### :white_check_mark: `Feature` NEW FEATURE
+> Feature details
+
+### :arrow_up_small: `Improvement` Partial Zombie Rewrite
+> We felt that the zombies had gotten into a bad spot over the past several months of development.
+> This patch we took some time to improve their movement logic and prevent some weird behaviors they had.
+- Zombies now have thickness so they can't pass through windows and small holes like they used to.
+- Zombies move in groups a bit more fluidly and bounce around less.
+- Zombies should path around obstacles a bit better (not pathfinding)
+- Temporarily removed zombie vaulting during this stage of the rewrite.
+
+### :arrow_up_small: `Improvement` Minor Performance Improvements
+> Did some work to clean up some old logic that wasn't performing quite as well as we'd like it to be.
+- Yields a performance improvement of roughly 12% from quick benchmarking
+
+________
+
+## :balance_scale: Changes
+
+### :exclamation: `Change` CHANGE
+
+________
+
+## :bug: Bugfixes
+- Bug that was fixed
