@@ -24,10 +24,12 @@ ________
 - Zombies move in groups a bit more fluidly and bounce around less.
 - Zombies should path around obstacles a bit better (not pathfinding)
 - Temporarily removed zombie vaulting during this stage of the rewrite.
+- Zombies will now break down doors when they run into them while chasing.
+- Zombies track players after losing line of sight for a short period of time.
 
 ### :arrow_up_small: `Improvement` Minor Performance Improvements
 > Did some work to clean up some old logic that wasn't performing quite as well as we'd like it to be.
-- Yields a performance improvement of roughly 12% from quick benchmarking
+- Yields a performance improvement of roughly 18% from quick benchmarking
 
 ________
 
@@ -41,3 +43,4 @@ ________
 - Fixed a bug which broke player respawning.
 - Fixed a bug which caused the zombies to become invisible.
 - Fixed a bug which sometimes caused an interaction to fail an interal distance check when it shouldn't.
+- Fixed a memory leak caused by duplicate sound generation.
