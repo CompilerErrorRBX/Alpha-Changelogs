@@ -13,6 +13,9 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
+### :white_check_mark: `Feature` Server Player Counter
+> Added a label to the top left of the screen which shows how many players are in the game.
+
 ### :white_check_mark: `Feature` Ladder Interactions
 > We've felt for quite a while now that the "touch ladder to climb" system was very difficult to use.
 > So we've changed the system to be interaction based which should give players much more control.
