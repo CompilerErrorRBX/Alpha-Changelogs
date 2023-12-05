@@ -1,14 +1,10 @@
-# :bookmark_tabs:  Changelog 11/02/2023 - xx/xx/2023
+# :bookmark_tabs:  Changelog 11/02/2023 - 12/05/2023
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
-Patch Notes
-
-## :fire: New Items
-- Added `ITEM NAME HERE`.
-
+Mostly fixes and attempts to improve the zombie logic in this update. A big change for this update was making ladders interactable.
 ________
 
 ## :loudspeaker: Features and Improvements
@@ -33,17 +29,9 @@ ________
 ### :arrow_up_small: `Improvement` Minor Performance Improvements
 > Did some work to clean up some old logic that wasn't performing quite as well as we'd like it to be.
 - Yields a performance improvement of roughly 18% from quick benchmarking
-
-________
-
-## :balance_scale: Changes
-
-### :exclamation: `Change` CHANGE
-
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug which broke player respawning.
-- Fixed a bug which caused the zombies to become invisible.
 - Fixed a bug which sometimes caused an interaction to fail an interal distance check when it shouldn't.
 - Fixed a memory leak caused by duplicate sound generation.
