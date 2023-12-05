@@ -8,31 +8,31 @@ In this update we focused on adding more content to the game and tuning it more 
 
 ________
 
-## :fire: New Items
+## :gun: New Items
 
-### :gun: Bolt Cutters
+### Bolt Cutters
 - Melee Weapon, also useful for dealing with barbed wire.
 
-### :gun: Plastic Scrap
+### Plastic Scrap
 - Stack size 200, crafting component.
 
-### :gun: Glass Scrap
+### Glass Scrap
 - Stack size 200, crafting component.
 
 ________
 
-## :hammer: New Crafting Recipes
+## :thread: New Crafting Recipes
 
-### :thread: Large Medkit Recipe
+### Large Medkit Recipe
 - Ingredients: 4x `Dressed Bandage`, 2x `Duct Tape`, 1x `Saline Solution`
 
-### :thread: Small Medkit Recipe
+### Small Medkit Recipe
 - Ingredients: 8x `Healing Salve`, 1x `Duct Tape`, 1x `Saline Solution`
 
-### :thread: Dressed Bandage Recipe
+### Dressed Bandage Recipe
 - Ingredients: 2x `Healing Salve`, 1x `Saline Solution`
 
-### :thread: Duct Tape Recipe
+### Duct Tape Recipe
 - Ingredients: 5x `Scrap Cloth`, 1x `Sap`
 
 ________
