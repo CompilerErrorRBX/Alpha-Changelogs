@@ -10,6 +10,12 @@ ________
 
 ## :gun: New Items
 
+### Beartrap
+- Can be placed anywhere that it fits, deploys when any player steps on it. Once deployed can be picked up again.
+
+### Anti-Personnel Landmine
+- Buried landmine designed for use against players. Can only be placed on natural ground. Deploys when any player steps on it.
+
 ### Bolt Cutters
 - Melee Weapon, also useful for dealing with barbed wire.
 
@@ -90,4 +96,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug where some blood effects were shown with blood disabled.
