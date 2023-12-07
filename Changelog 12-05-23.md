@@ -69,18 +69,18 @@ ________
 
 ### :exclamation: `Change` Bandages
 - Bandages heal for 2 HP now
-- Crafting recipe requires 3 `Scrap Cloth` instead of 1
-- Scraps into 3x `Scrap Cloth`
+- Crafting recipe requires 3 `Cloth Scrap` instead of 1
+- Scraps into 3x `Cloth Scrap`
 
 ### :exclamation: `Change` Healing Salve
-- Crafting recipe requires 6 `Scrap Cloth` instead of 3
-- Scraps into 6x `Scrap Cloth`
+- Crafting recipe requires 6 `Cloth Scrap` instead of 3
+- Scraps into 6x `Cloth Scrap`
 - Reduces infection time by 30 seconds
 
 ### :exclamation: `Change` Leg Splint
-- Crafting recipe requires 12 `Cloth` instead of 4
-- Scraps into 6 `Cloth`
-- Scraps into 2x `Stick` and 12x `Cloth`
+- Crafting recipe requires 12 `Cloth Scrap` instead of 4
+- Scraps into 6 `Cloth Scrap`
+- Scraps into 2x `Stick` and 12x `Cloth Scrap`
 
 ### :exclamation: `Change` Various Item Changes
 - `Salt Packet` Increased stack size from 64 -> 200
