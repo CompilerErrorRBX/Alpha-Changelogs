@@ -16,8 +16,14 @@ ________
 ### Anti-Personnel Landmine
 - Buried landmine designed for use against players. Can only be placed on natural ground. Deploys when any player steps on it.
 
-### Bolt Cutters
-- Melee Weapon, also useful for dealing with barbed wire.
+### Composite Fiber
+- Crafting Component
+
+### Advanced Composite Fiber
+- Crafting Component
+
+### Spring
+- Crafting Component
 
 ### Plastic Scrap
 - Stack size 200, crafting component.
@@ -41,12 +47,40 @@ ________
 ### Duct Tape Recipe
 - Ingredients: 5x `Scrap Cloth`, 1x `Sap`
 
+### Spring Recipe
+- Ingredients: 5x `Scrap Metal`
+
+### Composite Fiber Recipe
+- Ingredients: 1x `Duct Tape`, 10x `Scrap Metal`, 2x `Scrap Glass`
+
+### Advanced Composite Fiber Recipe
+- Ingredients: 5x `Composite Fiber`, 10x `Scrap Glass`, 2x `Scrap Metal`, 10x `Scrap Plastic`
+
+### Beartrap Recipe
+- Ingredients: 50x `Scrap Metal`, 4x `Spring`
+
+### Anti-Personnel Landmine Recipe
+- Ingredients: 1x `Duct Tape`, 1x `Frag Grenade`, 25x `Scrap Metal`, 4x `Spring`
+
+### Backpack Recipes
+- All three tiers can be crafted.
+
+### Vest Recipes
+- Both tiers of vests can be crafted.
+
 ________
 
 ## :loudspeaker: Features and Improvements
 
-### :white_check_mark: `Feature` NEW FEATURE
-> Feature details
+### :white_check_mark: `Feature` Equipment Airdrops
+- Can be purchased in the shop under the boosts tab.
+- Alternatively, can be called in from the map.
+- Spawn rates:
+![image](https://github.com/CompilerErrorRBX/Alpha-Changelogs/assets/10750096/510f5df8-8b26-4788-9973-86a1920ff2da)
+
+
+### :white_check_mark: `Feature` Shop
+- Used for purchasing an equipment airdrop, and more later.
 
 ### :arrow_up_small: `Improvement` Interaction Improvements
 > We found that interacting with certain objects was very difficult, as the system was unable to validate that you actually had line of sight to larger objects like cars and desks, so we've attempted to improve the logic around determining if you can truly see what you're interacting with. This is still imperfect, but it should make many previously impossible interactions possible.
@@ -55,6 +89,12 @@ ________
 ### :arrow_up_small: `Improvement` Scrap context menu action no longer closes context menu
 > Trying to scrap many items was very burdensome since it required you to right click on the item
 > and then click scrap over and over. Instead of that, we've made it so the context menu stays open and you can keep on clicking.
+
+### :arrow_up_small: `Improvement` Player graves remove when emptied.
+
+### :arrow_up_small: `Improvement` Nearby explosions cause concussions.
+
+### :arrow_up_small: `Improvement` New ACOG reticle.
 
 ________
 
@@ -93,7 +133,19 @@ ________
 - All clothing items give 12x `Cloth Scrap` instead of 2x
 - Nearly all items can be scrapped into basic components
 
+### :exclamation: `Change` Various Zombie Changes
+- Basic zombies no long run, only sprinters zombies run now.
+
+### :exclamation: `Change` Various Zombie Item Changes
+- `Military Vest` no longer spawns on zombies
+- `Military Helmet` no longer spawns on zombies
+- `Police Vest` no longer spawns on zombies
+
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug where some blood effects were shown with blood disabled.
+- Fixed a bug where after scrapping an equipped inventory item, the inventory UI for that item was never cleaned up.
+- Fixed a bug where zombies would go invisible sometimes. (🤞 I hope 🤞)
+- Fixed a bug where sometimes when a player joined their camera would not attach to their character.
+- Fixed a bug where the MRAD would never spawn.
