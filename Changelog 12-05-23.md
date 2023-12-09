@@ -1,10 +1,12 @@
 # :bookmark_tabs:  Changelog 12/05/2023 - xx/xx/2023
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 In this update we focused on adding more content to the game and tuning it more towards our vision for the final product we want this game to be.
+
+We put a lot of effort into driving players towards crafting. We really want to encourage the behavior of scrapping and recycling the materials found around the game world, so nearly every item always has a use in its basic scrapped components.
 
 ________
 
