@@ -1,4 +1,4 @@
-# :bookmark_tabs:  Changelog 12/05/2023 - xx/xx/2023
+# :bookmark_tabs:  Changelog 12/05/2023 - 12/08/2023
 
 <!-- ## :red_circle: Status `Unreleased` -->
 ## :green_circle: Status `Released`
