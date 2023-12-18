@@ -46,3 +46,5 @@ ________
 - Fixed a bug where zombies would turn away from their target as they got near to it.
 - Fixed a bug where zombies would walk into a wall and never move again (hopefully 🤞)
 - Fixed a bug where zombies could only be hit in the head by a melee weapon.
+- Fixed several ladders around the map that could not be entered from the top.
+- Fixed the Supply Box loot container near the Bunker.
