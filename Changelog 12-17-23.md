@@ -35,8 +35,9 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Reduced recoil on M249
 
+### :exclamation: `Change` Reduced recoil on SCAR
 ________
 
 ## :bug: Bugfixes
