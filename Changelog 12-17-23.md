@@ -48,6 +48,9 @@ ________
 ### :white_check_mark: `Feature` Bicycles
 > In anticipation for the vehicle update, which will make vehicles more difficult to obtain, we've added bicycles.
 
+### :arrow_up_small: `Improvement` New 3rd Person Flashlight Animations
+> THANKS NIC!
+
 ### :arrow_up_small: `Improvement` Weapon fire mode is maintained
 > Previously, when swapping or dropping a weapon the weapon would return to whatever its default firemode was (which was often indeterminant).
 > Now, instead, the system defaults all automatic weapons to auto, and remembers the fire mode that you (of the player you took the weapon from) set it to.
