@@ -27,6 +27,16 @@ ________
 
 ________
 
+## :world_map: Map Changes
+
+### Winter Wonderland
+- We've converted the map over to a wintery style.
+
+### Added Snowmen
+> We've thrown lootable snowmen around the map. You'll be able to loot candies, and snowballs from them.
+
+________
+
 ## :loudspeaker: Features and Improvements
 
 ### :white_check_mark: `Feature` FEATURE
