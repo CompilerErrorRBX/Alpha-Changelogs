@@ -71,6 +71,8 @@ ________
 ### :exclamation: `Change` Reduced recoil on SCAR
 - Reduced recoil by `20%`
 
+### :exclamation: `Change` Added flare particles to airdrop
+
 ________
 
 ## :bug: Bugfixes
