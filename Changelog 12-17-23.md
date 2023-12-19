@@ -18,6 +18,12 @@ ________
 ### Chocolate Bar
 - Satiates 5 hunger and rapidly provides 8 stamina.
 
+### Elf Costume
+- Elf hat, coat, and pants
+
+### Santa Costume
+- Santa hat, coat, and pants
+
 ________
 
 ## :thread: New Crafting Recipes
@@ -39,7 +45,8 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Bicycles
+> In anticipation for the vehicle update, which will make vehicles more difficult to obtain, we've added bicycles.
 
 ### :arrow_up_small: `Improvement` Weapon fire mode is maintained
 > Previously, when swapping or dropping a weapon the weapon would return to whatever its default firemode was (which was often indeterminant).
