@@ -9,8 +9,14 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### Snowballs
+- Snowball fight!
+
+### Peppermint Candy
+- Yummy! Gives stamina and hunger satiation.
+
+### Chocolate Bar
+- Satiates 5 hunger and rapidly provides 8 stamina.
 
 ________
 
@@ -23,8 +29,11 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-
 ### :white_check_mark: `Feature` FEATURE
+
+### :arrow_up_small: `Improvement` Weapon loudness modifiers
+- Suppressed weapons are now less audible to zombies.
+- Bow and Arrow is far less audible to zombies.
 
 ### :arrow_up_small: `Improvement` Added additional server info
 - Added server FPS indicator.
