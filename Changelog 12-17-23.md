@@ -31,6 +31,10 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
+### :arrow_up_small: `Improvement` Weapon fire mode is maintained
+> Previously, when swapping or dropping a weapon the weapon would return to whatever its default firemode was (which was often indeterminant).
+> Now, instead, the system defaults all automatic weapons to auto, and remembers the fire mode that you (of the player you took the weapon from) set it to.
+
 ### :arrow_up_small: `Improvement` Weapon loudness modifiers
 - Suppressed weapons are now less audible to zombies.
 - Bow and Arrow is far less audible to zombies.
