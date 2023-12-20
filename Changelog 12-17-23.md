@@ -64,6 +64,8 @@ ________
 - Added server region indicator.
 - Added server version indicator.
 
+### :arrow_up_small: `Improvement` Added ambient noises and music
+
 ________
 
 ## :balance_scale: Changes
@@ -74,7 +76,11 @@ ________
 ### :exclamation: `Change` Reduced recoil on SCAR
 - Reduced recoil by `20%`
 
-### :exclamation: `Change` Added flare particles to airdrop
+### :exclamation: `Change` Airdrop changes
+- Added flare particles to airdrop
+- Increased volume of airdrop plane
+
+### :exclamation: `Change` Reduced audible distance of zombie growls
 
 ________
 
