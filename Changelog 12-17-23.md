@@ -54,7 +54,7 @@ ________
 ### :arrow_up_small: `Improvement` Zombie Network Usage Improved
 - Reduced network usage by up to `66%`
 
-### :arrow_up_small: `Improvement` New 3rd Fist Animations
+### :arrow_up_small: `Improvement` New 3rd Person Fist Animations
 > THANKS NIC!
 
 ### :arrow_up_small: `Improvement` New 3rd Person Flashlight Animations
