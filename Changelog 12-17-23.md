@@ -9,6 +9,9 @@ ________
 
 ## :gun: New Items
 
+### Chem Light
+- Holdable, deployable light source.
+
 ### Snowballs
 - Snowball fight!
 
@@ -47,6 +50,12 @@ ________
 
 ### :white_check_mark: `Feature` Bicycles
 > In anticipation for the vehicle update, which will make vehicles more difficult to obtain, we've added bicycles.
+
+### :arrow_up_small: `Improvement` Zombie Network Usage Improved
+- Reduced network usage by up to `66%`
+
+### :arrow_up_small: `Improvement` New 3rd Fist Animations
+> THANKS NIC!
 
 ### :arrow_up_small: `Improvement` New 3rd Person Flashlight Animations
 > THANKS NIC!
