@@ -1,9 +1,10 @@
-# :bookmark_tabs:  Changelog 12/17/2023 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 12/17/2023 - 12/26/2023
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+Christmas update to the map, with some Christmas items. We also fixed several bugs and improved the pacing of the game.
 
 ________
 
@@ -26,6 +27,10 @@ ________
 
 ### Santa Costume
 - Santa hat, coat, and pants
+
+### Laser Sight
+- Underbarrel Attachment
+- Improves hipfire accuracy
 
 ________
 
@@ -79,6 +84,8 @@ ________
 
 ## :balance_scale: Changes
 
+### :exclamation: `Change` Increased spawn rate of weapons in houses.
+
 ### :exclamation: `Change` Reduced recoil on M249
 - Reduced recoil by `30%`
 
@@ -91,6 +98,8 @@ ________
 
 ### :exclamation: `Change` Reduced audible distance of zombie growls
 
+### :exclamation: `Change` Suppressed weapons now have smoke particles and bullet tracers
+
 ________
 
 ## :bug: Bugfixes
@@ -98,7 +107,6 @@ ________
 - Fixed a bug where ammo did not properly update when moved around in an inventory.
 - Fixed a bug where players could spawn in the spawn box (hopefully 🤞)
 - Fixed a bug where zombies would turn away from their target as they got near to it.
-- Fixed a bug where zombies would walk into a wall and never move again (hopefully 🤞)
 - Fixed a bug where zombies could only be hit in the head by a melee weapon.
 - Fixed several ladders around the map that could not be entered from the top.
 - Fixed the Supply Box loot container near the Bunker.
