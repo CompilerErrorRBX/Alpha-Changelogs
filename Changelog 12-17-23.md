@@ -34,13 +34,6 @@ ________
 
 ________
 
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
-
-________
-
 ## :world_map: Map Changes
 
 ### Winter Wonderland
