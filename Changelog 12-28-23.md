@@ -39,4 +39,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which was preventing zombie footstep sounds from playing.
