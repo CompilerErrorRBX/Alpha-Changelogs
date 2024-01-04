@@ -36,7 +36,7 @@ ________
 > We wanted to give the players more information when item quantities in their inventories change.
 > This provides additional details about inventory modifications.
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Quick Use and Quick Craft slot item references save
 
 ________
 
