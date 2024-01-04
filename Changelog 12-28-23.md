@@ -23,6 +23,14 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
+### :white_check_mark: `Feature` Added Whistling
+- Attracks nearby zombies.
+
+### :white_check_mark: `Feature` Added Favorite Craftin Recipes
+- Players can mark recipes as favorites for quick referencing.
+
+### :white_check_mark: `Feature` Added Quick Crafting Slots
+- Players can drag/drop items onto quick crafting slots and quickly craft those items from their inventory screen.
 
 ### :white_check_mark: `Feature` Added item quantity change announcement messages
 > We wanted to give the players more information when item quantities in their inventories change.
@@ -40,3 +48,4 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which was preventing zombie footstep sounds from playing.
+- Fixed a bug where military zombies didn't sprint.
