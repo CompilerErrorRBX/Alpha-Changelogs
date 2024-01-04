@@ -26,7 +26,7 @@ ________
 ### :white_check_mark: `Feature` Added Whistling
 - Attracks nearby zombies.
 
-### :white_check_mark: `Feature` Added Favorite Craftin Recipes
+### :white_check_mark: `Feature` Added Favorite Crafting Recipes
 - Players can mark recipes as favorites for quick referencing.
 
 ### :white_check_mark: `Feature` Added Quick Crafting Slots
