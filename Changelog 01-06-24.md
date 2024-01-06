@@ -40,3 +40,4 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug where no sound was played for other players when a player hit a zombie with a vehicle.
+- Fixed a bug where blood splat sounds never played.
