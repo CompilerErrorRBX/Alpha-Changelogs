@@ -28,6 +28,8 @@ ________
 
 ### :arrow_up_small: `Improvement` Player's name is displayed on their grave now.
 
+### :arrow_up_small: `Improvement` Player gear is no longer removed from their ragdoll upon death.
+
 ________
 
 ## :balance_scale: Changes
