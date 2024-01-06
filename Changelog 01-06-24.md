@@ -26,7 +26,7 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Player's name is displayed on their grave now.
 
 ________
 
