@@ -41,3 +41,8 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug where no sound was played for other players when a player hit a zombie with a vehicle.
 - Fixed a bug where blood splat sounds never played.
+- Fixed a bug where most sounds didn't play.
+- Fixed a bug where players could not move after rejoining.
+- Fixed a bug where players could not interact with almost everything after rejoining.
+- Fixed a bug where getting out of a car would sometimes kill the player.
+- Fixed a bug where zombies were T-posed sometimes.
