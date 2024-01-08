@@ -46,3 +46,6 @@ ________
 - Fixed a bug where players could not interact with almost everything after rejoining.
 - Fixed a bug where getting out of a car would sometimes kill the player.
 - Fixed a bug where zombies were T-posed sometimes.
+- Fixed a bug where bullets didn't hit terrain.
+- Fixed a bug where melee didn't hit terrain.
+- Fixed a bug where whistle sounds didn't play.
