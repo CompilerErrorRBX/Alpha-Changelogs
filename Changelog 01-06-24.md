@@ -49,3 +49,4 @@ ________
 - Fixed a bug where bullets didn't hit terrain.
 - Fixed a bug where melee didn't hit terrain.
 - Fixed a bug where whistle sounds didn't play.
+- Fixed a bug where saving data failed due to a bad datatype being stored.
