@@ -34,7 +34,8 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Satisfied Status Effect Changes
+- While hunger and thirst are above 50, gain an extra 0.5 stamina regen per second.
 
 ________
 
