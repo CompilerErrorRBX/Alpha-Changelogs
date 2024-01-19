@@ -30,6 +30,8 @@ ________
 
 ### :arrow_up_small: `Improvement` Player gear is no longer removed from their ragdoll upon death.
 
+### :arrow_up_small: `Improvement` Reductions to memory usage on the client.
+
 ________
 
 ## :balance_scale: Changes
@@ -51,3 +53,4 @@ ________
 - Fixed a bug where melee didn't hit terrain.
 - Fixed a bug where whistle sounds didn't play.
 - Fixed a bug where saving data failed due to a bad datatype being stored.
+- Fixed a bug where items would craft for free when taking from other inventory sources.
