@@ -23,8 +23,8 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Added zombie staggering
+- Zombies are stunned temporarily upon taking damage.
 
 ### :arrow_up_small: `Improvement` Player's name is displayed on their grave now.
 
@@ -59,4 +59,5 @@ ________
 - Fixed a bug where saving data failed due to a bad datatype being stored.
 - Fixed a bug where items would craft for free when taking from other inventory sources.
 - Fixed a bug where items could be crafted for a single quantity of an item when more was required.
-
+- Fixed a bug where only ammo from a single stack was loaded into a gun (causing an inaccurate ammo in gun display and thus "premature" reload)
+- Fixed a bug where quick use slot items would sometimes remove other items in a quick use slot.
