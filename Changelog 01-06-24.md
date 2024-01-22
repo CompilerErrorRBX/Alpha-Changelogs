@@ -32,6 +32,10 @@ ________
 
 ### :arrow_up_small: `Improvement` Reductions to memory usage on the client.
 
+### :arrow_up_small: `Improvement` Improved server memory usage.
+
+### :arrow_up_small: `Improvement` Added indicator to items linked to quick use slots.
+
 ________
 
 ## :balance_scale: Changes
@@ -54,3 +58,5 @@ ________
 - Fixed a bug where whistle sounds didn't play.
 - Fixed a bug where saving data failed due to a bad datatype being stored.
 - Fixed a bug where items would craft for free when taking from other inventory sources.
+- Fixed a bug where items could be crafted for a single quantity of an item when more was required.
+
