@@ -33,6 +33,10 @@ ________
 ### :white_check_mark: `Feature` Added zombie staggering
 - Zombies are stunned temporarily upon taking damage.
 
+### :white_check_mark: `Feature` Added POI labels to the map.
+
+### :white_check_mark: `Feature` Pinging with the map open pings where the player's mouse is on the map.
+
 ### :arrow_up_small: `Improvement` Player's name is displayed on their grave now.
 
 ### :arrow_up_small: `Improvement` Player gear is no longer removed from their ragdoll upon death.
