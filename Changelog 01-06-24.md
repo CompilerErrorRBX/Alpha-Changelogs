@@ -9,15 +9,21 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- Compass
+### Compass
+- Provides navigation assistance and shows ping directions.
+
+### Logs
+- Future use in building.
+
+### Chopped Logs
+- Future use in building.
 
 ________
 
 ## :thread: New Crafting Recipes
 
-### RECIPE
-- DETAILS
+### Chopped Logs
+- Future use in building.
 
 ________
 
@@ -37,6 +43,9 @@ ________
 
 ### :white_check_mark: `Feature` Pinging with the map open pings where the player's mouse is on the map.
 
+### :white_check_mark: `Feature` Weapons that aren't in use are now shown on the player's body.
+- This can be toggled in the Settings menu under the Video tab.
+
 ### :arrow_up_small: `Improvement` Player's name is displayed on their grave now.
 
 ### :arrow_up_small: `Improvement` Player gear is no longer removed from their ragdoll upon death.
@@ -48,6 +57,12 @@ ________
 ### :arrow_up_small: `Improvement` Added indicator to items linked to quick use slots.
 
 ### :arrow_up_small: `Improvement` Equipment order on primary/secondary weapons is saved and loaded.
+
+### :arrow_up_small: `Improvement` Normalized music volume.
+
+### :arrow_up_small: `Improvement` Optimized weapon change performance.
+> We noticed that the game would choke a bit when you switched to a different equipped weapon.
+> We've optimized this and weapon changing is approximately 80% more performant.
 
 ________
 
