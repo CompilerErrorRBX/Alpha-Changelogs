@@ -10,7 +10,7 @@ ________
 ## :gun: New Items
 
 ### ITEM
-- DETAILS
+- Compass
 
 ________
 
@@ -22,6 +22,13 @@ ________
 ________
 
 ## :loudspeaker: Features and Improvements
+
+### :white_check_mark: `Feature` Added location pings
+- Creates a ping at the player's mouse position that is shared with the player's squad.
+
+### :white_check_mark: `Feature` Added Compass
+- Shows what direction you're facing (in degrees).
+- Displays location pings as well.
 
 ### :white_check_mark: `Feature` Added zombie staggering
 - Zombies are stunned temporarily upon taking damage.
@@ -35,6 +42,8 @@ ________
 ### :arrow_up_small: `Improvement` Improved server memory usage.
 
 ### :arrow_up_small: `Improvement` Added indicator to items linked to quick use slots.
+
+### :arrow_up_small: `Improvement` Equipment order on primary/secondary weapons is saved and loaded.
 
 ________
 
@@ -61,3 +70,5 @@ ________
 - Fixed a bug where items could be crafted for a single quantity of an item when more was required.
 - Fixed a bug where only ammo from a single stack was loaded into a gun (causing an inaccurate ammo in gun display and thus "premature" reload)
 - Fixed a bug where quick use slot items would sometimes remove other items in a quick use slot.
+- Fixed a bug where items in an inventory were removed when scrapping the item that owned the inventory.
+- Fixed a bug where an inventory would be wiped when dropped and picked up in certain cases.
