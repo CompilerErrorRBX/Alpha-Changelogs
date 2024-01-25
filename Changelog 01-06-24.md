@@ -1,9 +1,18 @@
-# :bookmark_tabs:  Changelog xx/xx/xxxx - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 01/06/2024 - 01/24/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+> In this patch we focused on delivering a more interesting experience with zombies, squads, and overall performance improvements.
+> 
+> We redesigned our trees to optimize for part count and less expensive collision meshes.
+> This resulted in a 20,000 part decrease in the game overall (about 10% overall part reduction)
+> 
+> Additionally we spent some time reworking most of the actions involved with switching weapons.
+> There's always been a very noticable lag spike upon changing weapons, we took several steps to alleviate most of that performance impact.
+>
+> We also wanted to retune how visibilty felt in the game, since we removed all of our trees and started over,
+> this was a good time to add more openness across the map. This should help make players question if they can just run between cover locations.
 
 ________
 
@@ -28,6 +37,9 @@ ________
 ________
 
 ## :loudspeaker: Features and Improvements
+
+### :white_check_mark: `Feature` Tree Cutting
+- Melee trees using Axes to chop them.
 
 ### :white_check_mark: `Feature` Added location pings
 - Creates a ping at the player's mouse position that is shared with the player's squad.
@@ -67,8 +79,14 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` Satisfied Status Effect Changes
+### :exclamation: `Change` Satisfied Status Effect Changes.
 - While hunger and thirst are above 50, gain an extra 0.5 stamina regen per second.
+
+### :exclamation: `Change` Repainted trees on the map.
+
+### :exclamation: `Change` Expanded the two main towns.
+
+### :exclamation: `Change` Various terrain adjustments.
 
 ________
 
