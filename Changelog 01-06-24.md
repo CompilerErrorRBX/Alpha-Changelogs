@@ -31,6 +31,7 @@ ________
 
 ### :white_check_mark: `Feature` Added location pings
 - Creates a ping at the player's mouse position that is shared with the player's squad.
+- Pinging with the map open pings where the player's mouse is on the map.
 
 ### :white_check_mark: `Feature` Added Compass
 - Shows what direction you're facing (in degrees).
@@ -40,8 +41,6 @@ ________
 - Zombies are stunned temporarily upon taking damage.
 
 ### :white_check_mark: `Feature` Added POI labels to the map.
-
-### :white_check_mark: `Feature` Pinging with the map open pings where the player's mouse is on the map.
 
 ### :white_check_mark: `Feature` Weapons that aren't in use are now shown on the player's body.
 - This can be toggled in the Settings menu under the Video tab.
