@@ -32,7 +32,8 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Increased Shotgun Pellet Speed and Range
+- About a 100% increase to range, and 60% increase to pellet speed.
 
 ________
 
