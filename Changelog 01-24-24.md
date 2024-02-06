@@ -28,12 +28,15 @@ ________
 
 ### :arrow_up_small: `Improvement` Various memory usage improvements
 
+### :arrow_up_small: `Improvement` Added new animations for the MP-133
+
 ________
 
 ## :balance_scale: Changes
 
 ### :exclamation: `Change` Increased Shotgun Pellet Speed and Range
 - About a 100% increase to range, and 60% increase to pellet speed.
+
 
 ________
 
