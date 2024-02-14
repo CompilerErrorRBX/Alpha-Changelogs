@@ -37,7 +37,6 @@ ________
 ### :exclamation: `Change` Increased Shotgun Pellet Speed and Range
 - About a 100% increase to range, and 60% increase to pellet speed.
 
-
 ________
 
 ## :bug: Bugfixes
@@ -46,4 +45,4 @@ ________
 - Fixed a bug where server FPS was actually displaying client FPS.
 - Fixed a bug where characters would get pushed through the ceiling in certain cases.
 - Fixed a bug where characters would slide on flat surfaces in certain cases.
-
+- Fixed a bug where soundd modifiers were not working for building interiors.
