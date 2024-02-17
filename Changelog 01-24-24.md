@@ -9,8 +9,10 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### Pistol Suppressor
+> We felt that getting all of the suppressors you needed was a bit too easy, so we've added another suppressor type specifically for low caliber weapons.
+- Suppressor specifically for low caliber weapons.
+- Attaches to weapons that use .45, 9mm, and .44 Magnum.
 
 ________
 
@@ -46,3 +48,4 @@ ________
 - Fixed a bug where characters would get pushed through the ceiling in certain cases.
 - Fixed a bug where characters would slide on flat surfaces in certain cases.
 - Fixed a bug where soundd modifiers were not working for building interiors.
+- Fixed a bug where squads could no longer be created after a while in a server.
