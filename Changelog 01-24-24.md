@@ -39,6 +39,10 @@ ________
 ### :exclamation: `Change` Increased Shotgun Pellet Speed and Range
 - About a 100% increase to range, and 60% increase to pellet speed.
 
+### :exclamation: `Change` Suppressors are no longer compatible with shotguns.
+> With the aforementioned changed to suppressors, shotguns are no longer compatible with them.
+> This will likely change in the future with the introduction of an Osprey style shotgun suppressor.
+
 ________
 
 ## :bug: Bugfixes
