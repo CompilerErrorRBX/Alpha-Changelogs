@@ -39,3 +39,5 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug that caused a large lag spike when opening your inventory menu.
 - Fixed a bug where controllers didn't handle the Right Trigger keybind.
+- Fixed a bug where radiation zones didn't work sometimes.
+- Fixed a bug where player animations weren't.
