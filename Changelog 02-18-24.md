@@ -37,4 +37,5 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug that caused a large lag spike when opening your inventory menu.
+- Fixed a bug where controllers didn't handle the Right Trigger keybind.
