@@ -22,6 +22,9 @@ ________
 ### Military Areas
 - Increased rate of weapon spawns.
 
+### Hazmat Areas
+- Added chance for hazmat gear to spawn.
+
 ________
 
 ## :thread: New Crafting Recipes
