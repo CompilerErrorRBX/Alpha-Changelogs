@@ -18,7 +18,6 @@ ________
 
 ### Prison
 - Improved loot at prison.
-- Fixed several ladders at prison.
 
 ### Military Areas
 - Increased rate of weapon spawns.
