@@ -14,6 +14,17 @@ ________
 
 ________
 
+## :world_map: Map Changes
+
+### Prison
+- Improved loot at prison.
+- Fixed several ladders at prison.
+
+### Military Areas
+- Increased rate of weapon spawns.
+
+________
+
 ## :thread: New Crafting Recipes
 
 ### RECIPE
@@ -26,7 +37,7 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Added coughing sounds when player has radiation.
 
 ________
 
