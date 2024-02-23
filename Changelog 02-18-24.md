@@ -7,13 +7,6 @@
 
 ________
 
-## :gun: New Items
-
-### ITEM
-- DETAILS
-
-________
-
 ## :world_map: Map Changes
 
 ### Prison
@@ -28,13 +21,6 @@ ________
 
 ### Hazmat Areas
 - Added chance for hazmat gear to spawn wherever hospital ground items spawn (Medical tents, hospital, etc).
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
 
 ________
 
