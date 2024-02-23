@@ -41,7 +41,9 @@ ________
 ## :loudspeaker: Features and Improvements
 
 
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Added skinnable death graves. See more in Shop UI ingame.
+
+### :white_check_mark: `Feature` Added purchasable medical airdrop. See more in Shop UI ingame.
 
 ### :arrow_up_small: `Improvement` Added coughing sounds when player has radiation.
 
@@ -49,7 +51,7 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Updated hazmat clothing models and textures.
 
 ________
 
