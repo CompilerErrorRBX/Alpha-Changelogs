@@ -1,6 +1,6 @@
 # :bookmark_tabs:  Changelog 02/18/2024 - xx/xx/2024
 
-## :red_circle: Status `Unreleased`
+## :green_circle: Status `Released`
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
