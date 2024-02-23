@@ -46,3 +46,4 @@ ________
 - Fixed a bug where controllers didn't handle the Right Trigger keybind.
 - Fixed a bug where radiation zones didn't work sometimes.
 - Fixed a bug where player animations weren't playing.
+- Fixed a bug where micro reflex sight would use the incorrect model when placed on a rifle/smg/sniper
