@@ -17,13 +17,17 @@ ________
 ## :world_map: Map Changes
 
 ### Prison
-- Improved loot at prison.
+- Added more military item spawners in warden offices.
+
+### Airfield
+- Added more military item spawners in crashed airplane.
 
 ### Military Areas
-- Increased rate of weapon spawns.
+- Increased rate of weapon spawns compared to ammo spawns.
+- Reduced overall spawn rate of military items (Higher chance of being empty)
 
 ### Hazmat Areas
-- Added chance for hazmat gear to spawn.
+- Added chance for hazmat gear to spawn wherever hospital ground items spawn (Medical tents, hospital, etc).
 
 ________
 
