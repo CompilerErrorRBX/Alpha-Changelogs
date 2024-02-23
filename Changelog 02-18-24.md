@@ -1,4 +1,4 @@
-# :bookmark_tabs:  Changelog 02/18/2024 - xx/xx/2024
+# :bookmark_tabs:  Changelog 02/18/2024 - 02/23/2024
 
 ## :green_circle: Status `Released`
 <!-- ## :green_circle: Status `Released` -->
