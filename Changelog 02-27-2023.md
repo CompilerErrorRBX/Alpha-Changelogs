@@ -24,9 +24,9 @@ ________
 ## :loudspeaker: Features and Improvements
 
 
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Added new death screen.
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Improved melee hitreg. Should be more consistent now.
 
 ________
 
