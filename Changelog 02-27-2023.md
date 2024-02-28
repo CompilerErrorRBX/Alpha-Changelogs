@@ -33,7 +33,7 @@ ________
 ## :balance_scale: Changes
 
 ### :exclamation: `Change` Airdrop Purchase
-> Made a small change here so that an airdrop was only considered purchased the moment the package lands on the ground.
+> Made a small change here so that an airdrop purchase is only considered complete the moment the package lands on the ground.
 > This should help reduce the number of scenarios where a player loses their airdrop because a server shut down.
 
 ________
