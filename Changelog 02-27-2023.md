@@ -38,3 +38,4 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which completely broke crafting.
+- Fixed a bug which caused any weapon item to be deleted when dropped (assuming it had no attachments).
