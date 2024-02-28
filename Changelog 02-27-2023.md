@@ -37,4 +37,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which completely broke crafting.
