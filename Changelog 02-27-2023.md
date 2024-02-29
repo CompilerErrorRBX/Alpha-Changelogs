@@ -32,6 +32,14 @@ ________
 
 ## :balance_scale: Changes
 
+### :exclamation: `Change` Added bleeding stage 4
+- Drains `2.0 HP/s`
+
+### :exclamation: `Change` Buffed `Tourniquet` and `Large Medkit`
+- Stops bleeding x4.
+
+### :exclamation: `Change` Increased Tourniquet spawn rate
+
 ### :exclamation: `Change` Airdrop Purchase
 > Made a small change here so that an airdrop purchase is only considered complete the moment the package lands on the ground.
 > This should help reduce the number of scenarios where a player loses their airdrop because a server shut down.
