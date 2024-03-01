@@ -28,6 +28,11 @@ ________
 
 ### :arrow_up_small: `Improvement` Improved melee hitreg. Should be more consistent now.
 
+### :arrow_up_small: `Improvement` Minor optimizations to the gun system.
+
+### :arrow_up_small: `Improvement` Improved how ground models were being rendered.
+> Should yield a slight improvement for client FPS.
+
 ________
 
 ## :balance_scale: Changes
