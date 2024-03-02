@@ -26,7 +26,7 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Fixed a large memory leak with ground items.
 
 ________
 
@@ -37,4 +37,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which allowed players to pick up items while they were dead.
