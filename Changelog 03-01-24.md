@@ -28,6 +28,8 @@ ________
 
 ### :arrow_up_small: `Improvement` Fixed a large memory leak with ground items.
 
+### :arrow_up_small: `Improvement` Improved the behavior of entering and exiting a ladder.
+
 ________
 
 ## :balance_scale: Changes
@@ -39,3 +41,4 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug which allowed players to pick up items while they were dead.
 - Fixed a bug which caused an item count desync in the crafting system when a player died.
+- Fixed a bug where players were teleporting vertically in some situations.
