@@ -38,3 +38,4 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which allowed players to pick up items while they were dead.
+- Fixed a bug which caused an item count desync in the crafting system when a player died.
