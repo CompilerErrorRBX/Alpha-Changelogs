@@ -67,8 +67,9 @@ ________
 ### :exclamation: `Change` Reduced spawn rate of weapon repair kits.
 
 ### :exclamation: `Change` `Duct Tape` item changes
-- Increased carry capacity (from 4 -> 12)
-- Decreased weight (from 0.35kg -> 0.3kg)
+- Increased carry capacity (from 4 -> 12).
+- Decreased weight (from 0.35kg -> 0.3kg).
+- Can now be used to repair Hazmat clothing.
   
 ________
 
