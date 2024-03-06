@@ -77,3 +77,4 @@ ________
 - Fixed a bug which allowed players to pick up items while they were dead.
 - Fixed a bug which caused an item count desync in the crafting system when a player died.
 - Fixed a bug where players were teleporting vertically in some situations.
+- Fixed a bug where using an item was stuck on the item until the player dropped it from their inventory.
