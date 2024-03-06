@@ -16,15 +16,24 @@ ________
 
 ## :thread: New Crafting Recipes
 
-### RECIPE
-- DETAILS
+### Changes to `Makeshift SMG` Recipe
+- Reduced `Scrap Metal` (from 150 -> 50).
+- Removed `Duct Tape` ingredient.
+- Reduced `Springs` (from 10 -> 3).
+- Reduced `Composite Fiber` (from 4 -> 2).
+- Reduced `Chopped Logs` (from 5 -> 4).
+
+### Changes to `Makeshift Sniper` Recipe
+- Reduced `Scrap Metal` (from 200 -> 75).
+- Removed `Duct Tape` ingredient.
+- Reduced `Springs` (from 4 -> 1).
 
 ________
 
 ## :loudspeaker: Features and Improvements
 
-
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Item Durability Changes.
+- Upon death, all items with durability are reduced by by 25%.
 
 ### :arrow_up_small: `Improvement` Fixed a large memory leak with ground items.
 
@@ -33,6 +42,7 @@ ________
 ### :arrow_up_small: `Improvement` Technical Improvements
 - When climbing, character rotation is now locked to ladder direction.
 - Fixed feet angles in character animations
+
 ________
 
 ## :balance_scale: Changes
@@ -43,12 +53,22 @@ ________
 - `Cola` now gives 20 thirst (25 -> 20)
 
 ### :exclamation: `Change` Reduced the use time on `Bandage`
-- Reduced time to apply normal bandages ( 3s -> 2s )
+- Reduced time to apply normal bandages (3s -> 2s).
 
 ### :exclamation: `Change` Reduced spawn rate of weapons across the map.
 - Large reduction in spawn rate of weapons in beds, satchels and briefcases.
 - Reduced amount of sniper spawn chances in the map.
 - General reduction in spawn rates across all weapon spawns in the map.
+
+### :exclamation: `Change` Reduced most primary/secondary item durability (from 500 -> 400).
+
+### :exclamation: `Change` Reduced most sidearm item durability (from 500 -> 200).
+
+### :exclamation: `Change` Reduced spawn rate of weapon repair kits.
+
+### :exclamation: `Change` `Duct Tape` item changes
+- Increased carry capacity (from 4 -> 12)
+- Decreased weight (from 0.35kg -> 0.3kg)
   
 ________
 
