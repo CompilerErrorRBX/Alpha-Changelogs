@@ -38,6 +38,10 @@ ________
 ### :white_check_mark: `Feature` Contextual Keybind UI
 - Added a UI to show all active keybinds based on current context.
 
+### :white_check_mark: `Feature` Bunker Loot Changes
+- Buffed bunker loot spawns.
+- Loot now only spawns when a player opens the hatch.
+
 ### :arrow_up_small: `Improvement` Fixed a large memory leak with ground items.
 
 ### :arrow_up_small: `Improvement` Improved the behavior of entering and exiting a ladder.
