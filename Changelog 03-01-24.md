@@ -10,7 +10,7 @@ ________
 ## :gun: New Items
 
 ### ITEM
-- DETAILS
+- AWM Sniper Rifle. Spawns in tier-3 military zones & weapon airdrops.
 
 ________
 
