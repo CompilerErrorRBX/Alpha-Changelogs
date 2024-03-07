@@ -35,6 +35,9 @@ ________
 ### :white_check_mark: `Feature` Item Durability Changes.
 - Upon death, all items with durability are reduced by by 25%.
 
+### :white_check_mark: `Feature` Contextual Keybind UI
+- Added a UI to show all active keybinds based on current context.
+
 ### :arrow_up_small: `Improvement` Fixed a large memory leak with ground items.
 
 ### :arrow_up_small: `Improvement` Improved the behavior of entering and exiting a ladder.
