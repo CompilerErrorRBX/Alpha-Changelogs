@@ -33,7 +33,7 @@ ________
 ## :loudspeaker: Features and Improvements
 
 ### :white_check_mark: `Feature` Item Durability Changes.
-- Upon death, all items with durability are reduced by by 25%.
+- Upon death, all items with durability are reduced by 25%.
 
 ### :white_check_mark: `Feature` Contextual Keybind UI
 - Added a UI to show all active keybinds based on current context.
