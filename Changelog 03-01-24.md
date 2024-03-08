@@ -1,20 +1,31 @@
-# :bookmark_tabs:  Changelog 03/01/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 03/01/2024 - 03/08/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+This week we wanted to spend some time on improving new user experience. We added a contextual hotkey bar to notify new players of their available controls.
+We definitely want to do more to improve new player experience but we believe this is a helpful first step!
+
+We also wanted to improve the experience of crafting makeshift weapons. One of the biggest pain points was in the need for a camp axe. To address this,
+we added the new `Makeshift Axe. Players can craft a makeshift axe with relative ease, and it doubles as an effective melee weapon.
+Some other pain points in makeshift crafting was in the excessively expensive recipes. We've reduced recipe item requirements significantly.
+We believe these changes make these a much more viable option.
+
+We've also made some significant changes to how items are affected by player death. This should help to create more scarcity, and increase the usefulness of repair kits.
+We have yet to create an item to repair melee weapons, but we suspect this is a non-issue for the moment.
+
+We've also fixed several outstanding bugs.
 
 ________
 
 ## :gun: New Items
 
-### AWM
+### `AWM`
 - .50 BMG Sniper rifle.
 - Spawns where `MRAD` spawns.
 - (Yes, we know this gun does not have a .50 BMG barreled action IRL.)
 
-### Makeshift Hatchet
+### `Makeshift Axe`
 - Chops trees.
 - Melee.
 
