@@ -23,7 +23,7 @@ ________
 
 ## :thread: New Crafting Recipes
 
-### `Makeshift Hatchet` Recipe
+### `Makeshift Axe` Recipe
 - 20x `Scrap Metal`.
 - 2x `Duct Tape`.
 
