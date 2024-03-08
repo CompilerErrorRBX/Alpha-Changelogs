@@ -9,12 +9,23 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- AWM Sniper Rifle. Spawns in tier-3 military zones & weapon airdrops.
+### AWM
+- .50 BMG Sniper rifle.
+- Spawns where `MRAD` spawns.
+- (Yes, we know this gun does not have a .50 BMG barreled action IRL.)
+
+### Makeshift Hatchet
+- Chops trees.
+- Melee.
+
 
 ________
 
 ## :thread: New Crafting Recipes
+
+### `Makeshift Hatchet` Recipe
+- 20x `Scrap Metal`.
+- 2x `Duct Tape`.
 
 ### Changes to `Makeshift SMG` Recipe
 - Reduced `Scrap Metal` (from 150 -> 50).
@@ -53,6 +64,15 @@ ________
 ________
 
 ## :balance_scale: Changes
+
+### :exclamation: `Change` Reduced range of melee weapons across the board.
+
+### :exclamation: `Change` Reduced melee weapon durability by 50% across the board.
+
+### :exclamation: `Change` Melee item damage reductions:
+- `Camp Axe`, `Crowbar`, `Shovel`.
+
+### :exclamation: `Change` Doubled `Makeshift SMG` durability (from 100 -> 200).
 
 ### :exclamation: `Change` Drink changes
 - `Dirty Water` now gives 25 thirst (20 -> 25)
