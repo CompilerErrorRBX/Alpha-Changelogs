@@ -24,7 +24,7 @@ ________
 ## :loudspeaker: Features and Improvements
 
 
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Added Proximity Voice Chat Support
 
 ### :arrow_up_small: `Improvement` Fixed a critical memory leak.
 - Also causing a performance leak.
@@ -40,4 +40,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug where zombies could attack several times rapidly.
