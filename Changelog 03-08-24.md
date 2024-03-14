@@ -41,3 +41,4 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug where zombies could attack several times rapidly.
+- Fixed a bug where being radiated didn't cause passive health drain.
