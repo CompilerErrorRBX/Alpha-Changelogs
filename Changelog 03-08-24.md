@@ -25,6 +25,8 @@ ________
 
 
 ### :white_check_mark: `Feature` Added Proximity Voice Chat Support
+- Toggle Voice Chat via Keybind (`Left Alt` on Keyboard, unbound on controllers).
+- Zombies react to your voice.
 
 ### :arrow_up_small: `Improvement` Fixed a critical memory leak.
 - Also causing a performance leak.
