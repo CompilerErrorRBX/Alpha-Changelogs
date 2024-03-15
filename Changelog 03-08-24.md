@@ -69,6 +69,9 @@ ________
 - Toggle Voice Chat via Keybind (`Left Alt` on Keyboard, unbound on controllers).
 - Zombies react to your voice.
 
+### :white_check_mark: `Feature` Added Primary/Secondary Weapon Swapping
+- Drag and drop an a primary/secondary weapon into another weapon slot to swap them.
+
 ### :arrow_up_small: `Improvement` Fixed a critical memory leak.
 - Also causing a performance leak.
 
