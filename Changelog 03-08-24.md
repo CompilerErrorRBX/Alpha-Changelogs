@@ -1,10 +1,13 @@
-# :bookmark_tabs:  Changelog 03/08/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 03/08/2024 - 03/15/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
-
+> This week we spent a lot of time working on solving various memory leaks, fixing bugs, improving user experience, and changing the longevity of items.
+>
+> Major changes this week include the addition of all items with durability taking a 20% durability hit upon death. This serves to make weapons more exclusive and valuable.
+>
+> We've increased the rate at which a leg is broken when shot, so carry a splint!
 ________
 
 ## :gun: New Items
@@ -12,14 +15,14 @@ ________
 ### Reinforced Armor Plate
 - Naturally spawns - Military areas.
 - Used to repair vests.
-- Repairs 50 durability (2x required to fully repair tier 2 vest), 1x use
+- Repairs 50 durability (2x required to fully repair tier 2 vest), 1x use.
 - Stackable to 4x, weighs 2.5kg.
 
 ### Makeshift Armor Plate
 - Crafted
 - Used to repair vests.
 - Repairs 10% durability.
-- Repairs 20 durability (5x required to fully repair tier 2 vest), 1x use
+- Repairs 20 durability (5x required to fully repair tier 2 vest), 1x use.
 - Stackable to 4x, weighs 2.5kg.
 
 ### Makeshift Weapon Repair Kit
@@ -100,3 +103,4 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug where zombies could attack several times rapidly.
 - Fixed a bug where being radiated didn't cause passive health drain.
+- Fixed a bug where the flashlight and other light items would not toggle with the flashlight keybind in some cases.
