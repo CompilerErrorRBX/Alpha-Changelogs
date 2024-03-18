@@ -26,15 +26,18 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Death Screen now shows who killed you.
+- At the moment, a bleedout will not show who killed you on the death screen.
 
 ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Last location is now only saved to the specific server instance the player played on.
+> This change should prevent players from leaving the server, joining another and moving, then rejoining the server to be in a different location.
+> The future state of this system will be almost everything being saved to the specific server (persisted on the server list). In the meantime we felt this was a good way to prevent the "move location on an empty server" strat.
 
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which made it so all of a player's outfit was removed upon death.
