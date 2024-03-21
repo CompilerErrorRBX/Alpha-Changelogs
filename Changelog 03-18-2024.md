@@ -29,6 +29,11 @@ ________
 ### :arrow_up_small: `Improvement` Death Screen now shows who killed you.
 - At the moment, a bleedout will not show who killed you on the death screen.
 
+### :arrow_up_small: `Improvement` Client Performance Improvements
+- Reworked how several things were loading in, should result in fewer FPS drop spikes.
+- Cleaned up some memory usage.
+- Deferred loading on ground items, containers, doors, etc.
+
 ________
 
 ## :balance_scale: Changes
