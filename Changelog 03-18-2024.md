@@ -31,7 +31,7 @@ ________
 
 ### :arrow_up_small: `Improvement` Client Performance Improvements
 - Reworked how several things were loading in, should result in fewer FPS drop spikes.
-- Cleaned up some memory usage.
+- Cleaned up some memory usage. Reduced overall client memory usage by > 1 GB by addressing a memory leak 👀
 - Deferred loading on ground items, containers, doors, etc.
 
 ________
@@ -46,3 +46,4 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which made it so all of a player's outfit was removed upon death.
+- Fixed a bug where players had an invisible infection in a certain case.
