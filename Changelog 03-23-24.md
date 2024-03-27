@@ -26,7 +26,9 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Improved loot quality in Bunker.
+- Fixed a bug where ground items weren't spawning
+- Increased the number of spawns in the bunker.
 
 ________
 
