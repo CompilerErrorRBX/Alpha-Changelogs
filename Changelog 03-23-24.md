@@ -1,30 +1,29 @@
-# :bookmark_tabs:  Changelog 03/23/2023 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 03/23/2024 - 03/28/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+Busy week for the holiday, so we didn't get a lot of new stuff added.
 
 ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### Famas
+- .223 Automatic Rifle.
 
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
+### Mosin Nagant
+- .308 Rifle
 
 ________
 
 ## :loudspeaker: Features and Improvements
 
+### :white_check_mark: `Feature` Spawn button on loading screen.
 
-### :white_check_mark: `Feature` FEATURE
+### :arrow_up_small: `Improvement` Loading/Saving improvements.
+
+### :arrow_up_small: `Improvement` Improved some performance on zombies.
 
 ### :arrow_up_small: `Improvement` Improved loot quality in Bunker.
 - Fixed a bug where ground items weren't spawning
@@ -32,11 +31,6 @@ ________
 
 ________
 
-## :balance_scale: Changes
-
-### :exclamation: `Change` CHANGE
-
-________
-
 ## :bug: Bugfixes
 - Fixed a bug where ground items inside of bunker never spawned.
+- Fixed a bug which gave users their loot back after leaving and rejoining in a certain case.
