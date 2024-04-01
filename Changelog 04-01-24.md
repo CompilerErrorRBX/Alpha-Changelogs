@@ -26,7 +26,8 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Added setting to toggle interaction UI visibility
+- Mainly useful for anyone who wants to take screenshots of items.
 
 ________
 
