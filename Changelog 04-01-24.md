@@ -33,7 +33,8 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Increased SCAR damage from 27 to 29
+### :exclamation: `Change` Increased FN-FAL damage from 27 to 30
 
 ________
 
