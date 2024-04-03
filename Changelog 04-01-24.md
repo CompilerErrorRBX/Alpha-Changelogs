@@ -35,6 +35,9 @@ ________
 
 ### :exclamation: `Change` Increased SCAR damage from 27 to 29
 ### :exclamation: `Change` Increased FN-FAL damage from 27 to 30
+### :exclamation: `Change` Reduced M249 max-distance from 3000 studs to 2750 studs
+### :exclamation: `Change` Reduced M4A1 max-distance from 3000 studs to 2500 studs
+### :exclamation: `Change` Reduced AR15 max-distance from 3000 studs to 2500 studs
 
 ________
 
