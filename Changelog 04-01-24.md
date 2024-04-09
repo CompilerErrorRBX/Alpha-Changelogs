@@ -1,23 +1,9 @@
-# :bookmark_tabs:  Changelog 04/01/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 04/01/2024 - 04/05/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
-
-________
-
-## :gun: New Items
-
-### ITEM
-- DETAILS
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
+Really busy week, we weren't able to spend a lot of time developing. Spent some time on the car rework but didn't get it ready yet.
 
 ________
 
@@ -39,7 +25,3 @@ ________
 ### :exclamation: `Change` Reduced M4A1 max-distance from 3000 studs to 2500 studs
 ### :exclamation: `Change` Reduced AR15 max-distance from 3000 studs to 2500 studs
 
-________
-
-## :bug: Bugfixes
-- Bug that was fixed
