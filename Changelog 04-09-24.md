@@ -47,3 +47,5 @@ ________
 - Fixed a bug that prevented some players fromm being able to play the game.
 - Fixed a bug which made armor non-functional.
 - Fixed a bug which prevented the movement debuff with a broken leg.
+- Fixed a bug which made it very difficult to interact with some things.
+- Fixed several issues with stairs around the map.
