@@ -1,0 +1,49 @@
+# :bookmark_tabs:  Changelog 04/09/24 - xx/xx/xxxx
+
+## :red_circle: Status `Unreleased`
+<!-- ## :green_circle: Status `Released` -->
+
+## :speech_balloon: Patch Notes
+
+________
+
+## :gun: New Items
+
+### ITEM
+- DETAILS
+
+________
+
+## :thread: New Crafting Recipes
+
+### RECIPE
+- DETAILS
+
+________
+
+## :loudspeaker: Features and Improvements
+
+### :white_check_mark: `Feature` Automatic server restarts.
+> While we work to address memory leaks causing server crashes, we've added an automated server restart to help alert players that a restart is coming soon.
+- Servers restart after 10 hours.
+
+### :arrow_up_small: `Improvement` Improved bunker hatch door functionality.
+> A common pain point when going into the bunker was that players would try to get on the ladder going into the bunker
+> but when they did this they would accidentally interact with the hatch door and close it. We've changed this behavior
+> so that the hatch door cannot be interacted with, instead we added a crank inside of the hatch which can be used to open/close the door.
+
+________
+
+## :balance_scale: Changes
+
+### :exclamation: `Change` Reduced zombie spawns in Redfield
+
+### :exclamation: `Change` .308 Rifle Headshot Damage Changes
+- Slightly reduced the amount of damage resultant from .308 headshots so that with a tier 2 helment, players would be left with 
+
+________
+
+## :bug: Bugfixes
+- Fixed a bug that prevented some players fromm being able to play the game.
+- Fixed a bug which made armor non-functional.
+- Fixed a bug which prevented the movement debuff with a broken leg.
