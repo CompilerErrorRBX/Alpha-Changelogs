@@ -49,3 +49,4 @@ ________
 - Fixed a bug which prevented the movement debuff with a broken leg.
 - Fixed a bug which made it very difficult to interact with some things.
 - Fixed several issues with stairs around the map.
+- Fixed a bug which caused bullets to do no damage to a player in a specific case.
