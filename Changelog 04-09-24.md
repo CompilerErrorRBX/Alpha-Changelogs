@@ -1,6 +1,6 @@
-# :bookmark_tabs:  Changelog 04/09/24 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 04/09/24 - 04/13/2024
 
-## :red_circle: Status `Unreleased`
+## :green_circle: Status `Released`
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
@@ -9,15 +9,8 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
+### MK47
+- Spawns in Tier3 weapon spawns.
 
 ________
 
@@ -38,8 +31,14 @@ ________
 
 ### :exclamation: `Change` Reduced zombie spawns in Redfield
 
-### :exclamation: `Change` .308 Rifle Headshot Damage Changes
+### :exclamation: `Change` .308 Sniper-Rifle Headshot Damage Changes
 - Slightly reduced the amount of damage resultant from .308 headshots so that with a tier 2 helment, players would be left with 
+
+### :exclamation: `Change` .308 Automatic-Rifle Headshot Damage Changes
+- Slightly increased the amount of damage resultant from .308 headshots. Increase from 1.75x multiplier to 2x
+
+### :exclamation: `Change` Reduced SMG Headshot Damage
+- Decreased from 3x multiplier to 2x
 
 ________
 
