@@ -39,3 +39,4 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug which made grenades do no damage.
 - Fixed a bug where stimulus objects weren't properly cleaned up.
+- Fixed a bug where weapons in the cabins would be placed on the floor when they shouldn't be.
