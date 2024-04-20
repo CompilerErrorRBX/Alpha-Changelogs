@@ -9,8 +9,15 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### Welding Mask
+- Face Mask, Aesthetic.
+
+### Hunting Clothing
+- Desert Camo
+- Forest Camo
+- Woodland Camo
+- Snow
+- Olive
 
 ________
 
@@ -69,4 +76,4 @@ ________
 
 ## Known Issues
 - Occasional desync in crouch-to-stand behavior (requires toggling crouch again to fix).
-- Jumping while crouched causes a higher jump than intended.
+- Orientation of some ground items is incorrect (caused by the removal of the legacy workflow on ground items).
