@@ -14,6 +14,7 @@ ________
 ## :gun: New Items
 
 ### MK4 Pistol
+- .22 LR Handgun
 
 ### Welding Mask
 - Face Mask, Aesthetic.
