@@ -1,9 +1,13 @@
-# :bookmark_tabs:  Changelog 04/15/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 04/15/2024 - 04/19/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+This week we spent a bit of time on addressing some more frustrating bugs,
+we also added a few items into the spawn pool and optimized a few processes.
+
+We felt there were a few too many .50 BMG weapons in the loot pool, so we reduced their natural spawn rates.
+Statistically speaking, the .50 BMGs are far more likely to be from natural spawn than they are to be from airdrops.
 
 ________
 
@@ -21,17 +25,7 @@ ________
 
 ________
 
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
-
-________
-
 ## :loudspeaker: Features and Improvements
-
-
-### :white_check_mark: `Feature` FEATURE
 
 ### :arrow_up_small: `Improvement` Character movement and collision improvements
 - Improved how characters behave when walking off a ledge.
@@ -65,7 +59,7 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which made grenades do no damage to players.
-- Fixed a bug where stimulus objects weren't properly cleaned up.
+- Fixed a bug where zombie stimulus objects weren't properly cleaned up.
 - Fixed a bug where weapons in the cabins would be placed on the floor when they shouldn't be.
 - Fixed a bug where players would fall through a floor when going prone in some cases.
 - Fixed a bug where some guns had an incorrect name on the death screen.
