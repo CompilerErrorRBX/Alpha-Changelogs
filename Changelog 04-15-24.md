@@ -64,6 +64,10 @@ ________
 
 ### :exclamation: `Change` Increased makeshift bow arrow speed (from 380 studs to 450 studs)
 
+### :exclamation: `Change` Reduced spawn rates of Tier3 weapon spawns
+
+### :exclamation: `Change` Reduced spawn rates of Tier2 weapon spawns
+
 ________
 
 ## :bug: Bugfixes
