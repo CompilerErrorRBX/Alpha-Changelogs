@@ -62,6 +62,8 @@ ________
 
 ### :exclamation: `Change` Increased explosion radius of `Anti Personnel Landmines` (from 20 -> 30 studs)
 
+### :exclamation: `Change` Increased makeshift bow arrow speed (from 380 studs to 450 studs)
+
 ________
 
 ## :bug: Bugfixes
