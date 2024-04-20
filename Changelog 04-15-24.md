@@ -13,6 +13,8 @@ ________
 
 ## :gun: New Items
 
+### MK4 Pistol
+
 ### Welding Mask
 - Face Mask, Aesthetic.
 
@@ -45,6 +47,11 @@ ________
 > Previously, it could be difficult to interact with an item ontop of a cabinet for example.
 > This improvement helps to, once again, prioritize the interactable that's under your mouse cursor.
 
+### :arrow_up_small: `Improvement` 10/22 Takedown gunshot far sound
+> Previously 10/22 Takedown did not play a far gunshot sound. This has been changed.
+> The sound travels less far than other guns sound, due to its low caliber.
+> This applies to the new MK4 pistol as well.
+
 ________
 
 ## :balance_scale: Changes
@@ -64,7 +71,7 @@ ________
 - Fixed a bug where players would fall through a floor when going prone in some cases.
 - Fixed a bug where some guns had an incorrect name on the death screen.
 - Fixed a bug where players could respawn on their dead body by leaving and rejoining without respawning.
-
+- Fixed a bug which could cause players to go invisble when joining near them.
 - Believe we fixed a bug where players could kill eachother immediately after disbanding their squad in some cases.
 - Believe we fixed a bug where sprinting would stop randomly (🤞)
 
