@@ -32,7 +32,12 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Durability Item Changes
+- *Some* items with durability can now be combined.
+- Combinable items: `Water Purification Tablets`, `Makeshift Weapon Repair Kit`, `Weapon Repair Kit`, `9V Battery`.
+
+### :exclamation: `Change` `Water Purification Tablets` Changes
+- Reduced use time (from 7s -> 4s)
 
 ________
 
