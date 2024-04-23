@@ -26,7 +26,9 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Status effects are applied after spawning.
+> Previously, we applied status effects immediately as they loaded in. This caused players to occasionally die in the spawn box.
+> This improvement moves the application of these status effects to AFTER you press the spawn button.
 
 ________
 
