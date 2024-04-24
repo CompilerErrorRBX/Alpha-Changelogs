@@ -108,6 +108,7 @@ ________
 > We'd like to push the meta here more towards controling areas like the hospital, and crafting medical items.
 > With the changes to medical item crafting requirements, we feel this change should help with that.
 - Reduced frequency of medical item spawns across the map, outside of areas specifically designated as medical POI (hospital, infirmaries, etc).
+- Increased frequency of medical item spawwns within areas specifically designated as medical POI (hospital, infirmaries, etc).
 
 ### :exclamation: `Change` Weapon Spawn Rate Changes
 > Again, attempting to make entice players more towards scavenging and crafting, we're reducing the rate that weapons spawn across the map.
