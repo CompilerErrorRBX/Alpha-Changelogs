@@ -57,6 +57,10 @@ ________
 - *Some* items with durability can now be combined.
 - Combinable items: `Water Purification Tablets`, `Makeshift Weapon Repair Kit`, `Weapon Repair Kit`, `9V Battery`.
 
+### :white_check_mark: `Feature` All Weapons are Scrappable
+> Eventually we plan to create weapon receiver items for higher tier weapon crafting.
+- Any weapon can be reduced to basic scrap items.
+
 ### :arrow_up_small: `Improvement` Status effects are applied after spawning.
 > Previously, we applied status effects immediately as they loaded in. This caused players to occasionally die in the spawn box.
 > This improvement moves the application of these status effects to AFTER you press the spawn button.
