@@ -52,6 +52,11 @@ ________
 > Previously, we applied status effects immediately as they loaded in. This caused players to occasionally die in the spawn box.
 > This improvement moves the application of these status effects to AFTER you press the spawn button.
 
+### :arrow_up_small: `Improvement` Grenade improvements
+> We'll add the ability to "cook" a grenade in the near future.
+- Grenades roll much less now.
+- Increased drop on the throw a bit to make the throw more predictable.
+
 ________
 
 ## :balance_scale: Changes
