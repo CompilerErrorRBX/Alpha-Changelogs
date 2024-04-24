@@ -49,6 +49,30 @@ ________
 - Removed `Spring` requirement (from 1x -> 0x)
 - Added `Scrap Plastic` requirement (5x)
 
+### Makeshift Armor Plate Adjustment
+- Removed requirement for `Advanced Composite Fiber` (from 1x -> 0x)
+- Added requirement for `Composite Fiber` (2x)
+
+### Press Vest Adjustment
+- Removed requirement for `Composite Fiber` (from 4x -> 0x)
+- Removed requirement for `Scrap Metal` (from 35x -> 0x)
+- Added requirement for `Makeshift Armor Plate` (2x)
+
+### Healing Salve Adjustment
+- Reduced `Scrap Cloth` requirement (from 6x -> 2x)
+- Reduced `Sap` requirement (from 3x -> 2x)
+
+### Saline Solution Adjustment
+- Increased quantity (from 1x -> 4x)
+
+### Small Medkit Adjustment
+- Removed requirement for `Healing Salve` (from 8x -> 0x)
+- Added requirement for `Dressed Bandage` (2x)
+
+### Large Medkit Adjustment
+- Removed requirement for `Dressed Bandage` (from 4x -> 0x)
+- Added requirement for `Small Medkit` (2x)
+
 ________
 
 ## :loudspeaker: Features and Improvements
@@ -80,12 +104,23 @@ ________
 ### :exclamation: `Change` `Makeshift SMG` Attachments
 - Added muzzle attachment
 
+### :exclamation: `Change` Medical Item Spawn Rate Changes
+> We'd like to push the meta here more towards controling areas like the hospital, and crafting medical items.
+> With the changes to medical item crafting requirements, we feel this change should help with that.
+- Reduced frequency of medical item spawns across the map, outside of areas specifically designated as medical POI (hospital, infirmaries, etc).
+
+### :exclamation: `Change` Weapon Spawn Rate Changes
+> Again, attempting to make entice players more towards scavenging and crafting, we're reducing the rate that weapons spawn across the map.
+> With the changes to the makeshift weapon crafting recipes, we believe this change should help push players to use crafted weapons more.
+- Reduced frequency of medical item spawns across the map, outside of areas specifically designated as medical POI (hospital, infirmaries, etc).
+
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug which prevented the `Weapons` filter in the crafting menu from showing weapons.
 - Fixed a bug which caused grenades to fail to throw frequently.
 - Fixed a bug which prevented players from pinging into POIs sometimes.
+- Fixed a bug where your character would appear to be standing when it was actually crouched.
 - Hopefully fixed a bug which prevented certain interactions from being accessible (🤞)
 - Hopefully fixed a bug which caused console users to accidentally scrap items due to their item context menu popping up when it shouldn't.
 
