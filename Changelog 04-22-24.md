@@ -117,7 +117,10 @@ ________
 ### :exclamation: `Change` Weapon Spawn Rate Changes
 > Again, attempting to make entice players more towards scavenging and crafting, we're reducing the rate that weapons spawn across the map.
 > With the changes to the makeshift weapon crafting recipes, we believe this change should help push players to use crafted weapons more.
-- Reduced frequency of medical item spawns across the map, outside of areas specifically designated as medical POI (hospital, infirmaries, etc).
+- Reduced frequency of weapon items across the map.
+
+### :exclamation: `Change` Double Barrel (Remington 1894) Spawn Rate Changes
+- Slight buff to spawn frequency.
 
 ________
 
