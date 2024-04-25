@@ -121,6 +121,7 @@ ________
 - Fixed a bug which prevented the `Weapons` filter in the crafting menu from showing weapons.
 - Fixed a bug which caused grenades to fail to throw frequently.
 - Fixed a bug which prevented players from pinging into POIs sometimes.
+- Fixed a bug which prevented players from shooting through fences and other similar materials.
 - Fixed a bug where your character would appear to be standing when it was actually crouched.
 - Hopefully fixed a bug which prevented certain interactions from being accessible (🤞)
 - Hopefully fixed a bug which caused console users to accidentally scrap items due to their item context menu popping up when it shouldn't.
