@@ -89,6 +89,10 @@ ________
 
 ### :white_check_mark: `Feature` Anti-Personnel Landmines can be detonated by bullets.
 
+### :white_check_mark: `Feature` Clicking on ammo in a gun now moves it into your inventory.
+> Previously, ammo would be dropped on the gun when a player clicked on it.
+> Instead, now, it will be moved into your inventory if there is space (otherwise dropped).
+
 ### :arrow_up_small: `Improvement` Status effects are applied after spawning.
 > Previously, we applied status effects immediately as they loaded in. This caused players to occasionally die in the spawn box.
 > This improvement moves the application of these status effects to AFTER you press the spawn button.
