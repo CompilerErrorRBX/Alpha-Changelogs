@@ -81,9 +81,13 @@ ________
 - *Some* items with durability can now be combined.
 - Combinable items: `Water Purification Tablets`, `Makeshift Weapon Repair Kit`, `Weapon Repair Kit`, `9V Battery`.
 
-### :white_check_mark: `Feature` All Weapons are Scrappable
+### :white_check_mark: `Feature` All Weapons are Scrappable.
 > Eventually we plan to create weapon receiver items for higher tier weapon crafting.
 - Any weapon can be reduced to basic scrap items.
+
+### :white_check_mark: `Feature` Anti-Personnel Landmines can be dug up by a Shovel.
+
+### :white_check_mark: `Feature` Anti-Personnel Landmines can be detonated by bullets.
 
 ### :arrow_up_small: `Improvement` Status effects are applied after spawning.
 > Previously, we applied status effects immediately as they loaded in. This caused players to occasionally die in the spawn box.
