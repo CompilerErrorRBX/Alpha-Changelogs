@@ -86,6 +86,8 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
+### :white_check_mark: `Feature` Item Skins!
+
 ### :white_check_mark: `Feature` Durability items can be combined.
 - *Some* items with durability can now be combined.
 - Combinable items: `Water Purification Tablets`, `Makeshift Weapon Repair Kit`, `Weapon Repair Kit`, `9V Battery`.
