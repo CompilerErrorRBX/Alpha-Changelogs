@@ -1,4 +1,4 @@
-# :bookmark_tabs:  Changelog xx/xx/xxxx - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 04/22/2024 - xx/xx/xxxx
 
 ## :red_circle: Status `Unreleased`
 <!-- ## :green_circle: Status `Released` -->
@@ -7,10 +7,19 @@
 
 ________
 
-## :gun: New Items
+## :cookie: New Products
 
-### `Gear Airdrop` 🪂
-> The `Gear Airdrop` contains high tier gear and consumables to get you ready for the fight fast to quickly donate dank loot to superior players.
+### `Patriotic Skin Bundle` 🎨
+- `AR-15` Patriotic Skin
+- `M1911` Patriotic Skin
+- `10/22 Takedown` Patriotic Skin
+- `Remington 700` Patriotic Skin
+- `Medium Rucksack` Patriotic Skin
+- `Military Vest` Patriotic Skin
+- `Bandana` Patriotic Skin
+
+### `Equipment Airdrop` 🪂
+> The `Equipment Airdrop` contains high tier gear and consumables to get you ready for the fight fast to quickly donate dank loot to superior players.
 
 - (Black/Red) Beret (1x)
 - (Black/Tan) Boots (1x)
@@ -106,34 +115,43 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` `Water Purification Tablets` Changes
+### :exclamation: `Change` `Water Purification Tablets` Changes.
 - Reduced use time (from 7s -> 4s)
 
-### :exclamation: `Change` `Makeshift SMG` Attachments
+### :exclamation: `Change` `Makeshift SMG` Attachments.
 - Added muzzle attachment
 
-### :exclamation: `Change` Medical Item Spawn Rate Changes
+### :exclamation: `Change` Medical Item Spawn Rate Changes.
 > We'd like to push the meta here more towards controling areas like the hospital, and crafting medical items.
 > With the changes to medical item crafting requirements, we feel this change should help with that.
 - Reduced frequency of medical item spawns across the map, outside of areas specifically designated as medical POI (hospital, infirmaries, etc).
 - Increased frequency of medical item spawwns within areas specifically designated as medical POI (hospital, infirmaries, etc).
 
-### :exclamation: `Change` Weapon Spawn Rate Changes
+### :exclamation: `Change` Weapon Spawn Rate Changes.
 > Again, attempting to make entice players more towards scavenging and crafting, we're reducing the rate that weapons spawn across the map.
 > With the changes to the makeshift weapon crafting recipes, we believe this change should help push players to use crafted weapons more.
 - Reduced frequency of weapon items across the map.
 
-### :exclamation: `Change` Double Barrel (Remington 1894) Spawn Rate Changes
+### :exclamation: `Change` Double Barrel (Remington 1894) Spawn Rate Changes.
 - Slight buff to spawn frequency.
+
+### :exclamation: `Change` Old `Equipment Airdrop` renamed to `Weapons Airdrop`.
+
+### :exclamation: `Change` Updated airdrop icons.
 
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug which prevented the `Weapons` filter in the crafting menu from showing weapons.
-- Fixed a bug which caused grenades to fail to throw frequently.
+- Fixed a bug which caused grenades, molotovs, and glass bottles to fail to throw frequently.
 - Fixed a bug which prevented players from pinging into POIs sometimes.
 - Fixed a bug which prevented players from shooting through fences and other similar materials.
+- Fixed a bug which caused vehicles to freak out when players entered them.
+- Fixed a bug which allowed players to fall to their death when falling through the map.
+- Fixed a bug which made some ladder parts visible unintentionally.
+- Fixed a bug which made respawning impossible in a very specific circumstance.
 - Fixed a bug where your character would appear to be standing when it was actually crouched.
+- Hopefully fixed a bug which caused players to fall through the map.
 - Hopefully fixed a bug which prevented certain interactions from being accessible (🤞)
 - Hopefully fixed a bug which caused console users to accidentally scrap items due to their item context menu popping up when it shouldn't.
 
