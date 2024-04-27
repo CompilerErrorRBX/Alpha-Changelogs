@@ -1,9 +1,21 @@
-# :bookmark_tabs:  Changelog 04/22/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 04/22/2024 - 04/26/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+This week, we wanted to rework a few of our crafting recipes to encourage crafting
+over immediately seeking out weapons. We're hoping that with these changes that the
+makeshift weapons will be more viable now.
+
+Additionally, we worked a few quality of life features. Such as combining durability
+items, more easily moving bullets out of guns, making anti-personnel mines easier to
+work around, preventing players from dying from bleeding, infection, or hunger/thirst
+in the spawn box.
+
+We also pushed really hard to get the new skin system out as well
+as fixing several outstanding bugs. We found that there were a few net new bugs
+from this work, but we weren't able to test soon enough to properly solve some of
+the issues.
 
 ________
 
