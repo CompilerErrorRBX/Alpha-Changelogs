@@ -32,9 +32,10 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Frag Grenades are now scrappable
+- `Scrap Metal` 10x, `Gun Powder` 20x.
 
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which prevented grenades from being thrown through open doors.
