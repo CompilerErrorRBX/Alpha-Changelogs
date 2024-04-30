@@ -9,8 +9,17 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### Mulepack
+- Large Backpack
+- Color variants Black, Muilticamo, and Desert.
+
+### NVG Tier 3
+- Quad lens
+- New model
+
+### New Tier 1 NVG model
+
+### New Tier 2 NVG model
 
 ________
 
@@ -41,4 +50,5 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which prevented grenades from being thrown through open doors.
+- Fixed a bug which prevented stamina from draining.
 - Fixed an issue where players would be teleported back up into the air after falling off of radio tower.
