@@ -46,9 +46,12 @@ ________
 ### :exclamation: `Change` Frag Grenades are now scrappable
 - `Scrap Metal` 10x, `Gun Powder` 20x.
 
+### :exclamation: `Change` Increased Dufflebag Model Size (+ ~30%)
+
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug which prevented grenades from being thrown through open doors.
 - Fixed a bug which prevented stamina from draining.
+- Fixed a bug which caused ground items to never show up after a beartrap was deployed and replaced.
 - Fixed an issue where players would be teleported back up into the air after falling off of radio tower.
