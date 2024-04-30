@@ -26,7 +26,9 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Airdrop improvements
+- Airdrops should no longer land in trees.
+- Airdrops should no longer land on top of buildings.
 
 ________
 
@@ -39,3 +41,4 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which prevented grenades from being thrown through open doors.
+- Fixed an issue where players would be teleported back up into the air after falling off of radio tower.
