@@ -25,8 +25,8 @@ ________
 
 ## :thread: New Crafting Recipes
 
-### RECIPE
-- DETAILS
+### `Makeshift Weapon Repair Kit` Recipe Changes
+- Reduced `Composite Fiber` requirement (from 3x -> 1x)
 
 ________
 
