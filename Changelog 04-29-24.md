@@ -43,10 +43,12 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` Frag Grenades are now scrappable
+### :exclamation: `Change` Frag Grenades are now scrappable.
 - `Scrap Metal` 10x, `Gun Powder` 20x.
 
-### :exclamation: `Change` Increased Dufflebag Model Size (+ ~30%)
+### :exclamation: `Change` Increased Dufflebag Model Size (+ ~20%).
+
+### :exclamation: `Change` Increased fog thickness and saturation at night.
 
 ________
 
