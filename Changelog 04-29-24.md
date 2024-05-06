@@ -1,26 +1,8 @@
-# :bookmark_tabs:  Changelog 04/29/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 04/29/2024 - 05/03/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
-
-________
-
-## :gun: New Items
-
-### Mulepack
-- Large Backpack
-- Color variants Black, Muilticamo, and Desert.
-
-### NVG Tier 3
-- Quad lens
-- New model
-
-### New Tier 1 NVG model
-
-### New Tier 2 NVG model
-
 ________
 
 ## :thread: New Crafting Recipes
