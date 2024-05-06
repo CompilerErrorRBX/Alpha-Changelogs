@@ -46,4 +46,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug that allowed previous squad mates to bypass the betrayal timer if they disbanded the squad.
