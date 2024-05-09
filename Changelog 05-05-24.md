@@ -33,9 +33,13 @@ ________
 ## :loudspeaker: Features and Improvements
 
 
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Weather System 🌧️
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Buffed loot in prison
+
+### :arrow_up_small: `Improvement` Buffed loot in hospital
+
+### :arrow_up_small: `Improvement` Buffed loot in nuclear
 
 ________
 
