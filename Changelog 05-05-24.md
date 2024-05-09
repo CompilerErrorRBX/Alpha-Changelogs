@@ -35,19 +35,16 @@ ________
 
 ### :white_check_mark: `Feature` Weather System 🌧️
 
-### :arrow_up_small: `Improvement` Buffed loot in prison
-
 ### :arrow_up_small: `Improvement` Buffed loot in hospital
-
-### :arrow_up_small: `Improvement` Buffed loot in nuclear
 
 ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Reduced spawn rate for hunting clothes in bunk chests.
 
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug that allowed previous squad mates to bypass the betrayal timer if they disbanded the squad.
+- Fixed a bug where airdrops could land on trees.
