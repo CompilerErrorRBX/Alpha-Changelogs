@@ -12,15 +12,7 @@ ________
 ### Mulepack
 - Large Backpack
 - Color variants Black, Muilticamo, and Desert.
-
-### NVG Tier 3
-- Quad lens
-- New model
-
-### New Tier 1 NVG model
-
-### New Tier 2 NVG model
-
+- 
 ________
 
 ## :thread: New Crafting Recipes
@@ -48,3 +40,5 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug that allowed previous squad mates to bypass the betrayal timer if they disbanded the squad.
 - Fixed a bug where airdrops could land on trees.
+- Fixed a bug where if a squadmate left and rejoined, they wouldn't have their overhead label.
+- Fixed a bug where upon disbanding a squad, it could put some members of the squad in a bad state, making it impossible to use squads until rejoining.
