@@ -1,6 +1,6 @@
-# :bookmark_tabs:  Changelog 05/05/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 05/05/2024 - 05/10/2024
 
-## :red_circle: Status `Unreleased`
+## :green_circle: Status `Released`
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
@@ -12,13 +12,13 @@ ________
 ### Mulepack
 - Large Backpack
 - Color variants Black, Muilticamo, and Desert.
-- 
-________
 
-## :thread: New Crafting Recipes
+### Barret 50
+- Semi Auto 50 BMG Sniper.
+- Spawns in Nuclear
 
-### RECIPE
-- DETAILS
+### Glock 19
+- Spawns in police lockers.
 
 ________
 
@@ -28,6 +28,8 @@ ________
 ### :white_check_mark: `Feature` Weather System 🌧️
 
 ### :arrow_up_small: `Improvement` Buffed loot in hospital
+### :arrow_up_small: `Improvement` Buffed loot in nuclear
+### :arrow_up_small: `Improvement` Buffed loot in prison
 
 ________
 
