@@ -44,3 +44,4 @@ ________
 - Fixed a bug where airdrops could land on trees.
 - Fixed a bug where if a squadmate left and rejoined, they wouldn't have their overhead label.
 - Fixed a bug where upon disbanding a squad, it could put some members of the squad in a bad state, making it impossible to use squads until rejoining.
+- Fixed a bug where respawning would double teleport you between your previous location and new location.
