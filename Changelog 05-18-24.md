@@ -26,7 +26,15 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Added unbind and reset to default for all keybindings.
+> Previously, the only way to unbind a keybind was to set it to a dead control (Esc, or Select on controller).
+> Now those controls can be completely unbound.
+>
+> Additionally, we added a way to reset all keybinds to the defaults that we have set.
+
+### :arrow_up_small: `Improvement` Added the necessary logic to allow binding inventory toggle to E
+> Previously, when binding your inventory keybind to `E` it would create a broken state for the inventory toggle button.
+> This is because the inventory would close and reopen immediately (or open and close immediately).
 
 ________
 
@@ -37,4 +45,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug that could allow for nearly unlimited ammo by unequipping ammo from a gun in a certain case.
