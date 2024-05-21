@@ -36,6 +36,10 @@ ________
 > Previously, when binding your inventory keybind to `E` it would create a broken state for the inventory toggle button.
 > This is because the inventory would close and reopen immediately (or open and close immediately).
 
+### :arrow_up_small: `Improvement` Inventory item layout is now persisted
+> Previously, upon rejoining, items were sorted semi-randomly from first to last slot.
+> Going forward, the items will be loaded where you left them.
+
 ________
 
 ## :balance_scale: Changes
