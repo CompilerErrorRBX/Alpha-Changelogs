@@ -32,11 +32,11 @@ ________
 >
 > Additionally, we added a way to reset all keybinds to the defaults that we have set.
 
-### :arrow_up_small: `Improvement` Added the necessary logic to allow binding inventory toggle to E
+### :arrow_up_small: `Improvement` Added the necessary logic to allow binding inventory toggle to `E`.
 > Previously, when binding your inventory keybind to `E` it would create a broken state for the inventory toggle button.
 > This is because the inventory would close and reopen immediately (or open and close immediately).
 
-### :arrow_up_small: `Improvement` Inventory item layout is now persisted
+### :arrow_up_small: `Improvement` Inventory item layout is now persisted.
 > Previously, upon rejoining, items were sorted semi-randomly from first to last slot.
 > Going forward, the items will be loaded where you left them.
 
@@ -44,9 +44,10 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Added underbarrel attachment to `MK-47`
 
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug that could allow for nearly unlimited ammo by unequipping ammo from a gun in a certain case.
+- Fixed a bug where .44 Magnum Revolver was not spawning in some police spawns.
