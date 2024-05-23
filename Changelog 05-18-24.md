@@ -9,8 +9,9 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### Night Vision Tier 3
+- Quad nog night vision goggles.
+- Better FOV, and they're blue!
 
 ________
 
@@ -24,7 +25,11 @@ ________
 ## :loudspeaker: Features and Improvements
 
 
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Equipment Attachments.
+> Certain equipment can now take attachment items.
+
+### :white_check_mark: `Feature` New NVG models and concept.
+> NVGs are now an attachment for military helmets.
 
 ### :arrow_up_small: `Improvement` Added unbind and reset to default for all keybindings.
 > Previously, the only way to unbind a keybind was to set it to a dead control (Esc, or Select on controller).
@@ -45,6 +50,9 @@ ________
 ## :balance_scale: Changes
 
 ### :exclamation: `Change` Added underbarrel attachment to `MK-47`
+
+### :exclamation: `Change` Military Helmets no longer break on 0 durability
+- This is to facilitate the change to NVGs where they are now an attachment for military helemts.
 
 ________
 
