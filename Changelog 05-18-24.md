@@ -15,15 +15,7 @@ ________
 
 ________
 
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
-
-________
-
 ## :loudspeaker: Features and Improvements
-
 
 ### :white_check_mark: `Feature` Equipment Attachments.
 > Certain equipment can now take attachment items.
@@ -50,6 +42,10 @@ ________
 
 ## :balance_scale: Changes
 
+### :exclamation: `Change` Added Military Helmet to Equipment Airdrop and increased price (from 200 -> 249).
+> Since we're now requiring a military helmet to use NVGs, we've added a military helmet.
+> To reflect the increased value of the purchase, we've also increased its price.
+
 ### :exclamation: `Change` Added underbarrel attachment to `MK-47`
 
 ### :exclamation: `Change` Military Helmets no longer break on 0 durability
@@ -62,3 +58,4 @@ ________
 - Fixed a bug where .44 Magnum Revolver was not spawning in some police spawns.
 - Fixed a bug which caused your weapons to disable upon cancelling the consumption of an item (eat, drink, heal, etc).
 - Fixed a bug which prevented cancelling an action on an item by clicking it again.
+- Hopefully fixed a bug which caused players to have issues walking up stairs (this is a patch, we'll continue to improve on this later).
