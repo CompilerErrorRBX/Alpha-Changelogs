@@ -4,6 +4,18 @@
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
+This week, we spent a lot of time on prepping for the new equipment attachment system.
+This change involved a fairly significant rework to how item inventories are tracked but we believe it will be well worth it.
+
+Some of the advantages to this change is a more trivial system for recording *which* slot an item was stored in during a save.
+That means that once a user is migrated over to the new loading system (old data is not compatible, but should uplift without issue)
+their items will load in the slot they had them in before leaving prior.
+Another advantage to this system is that it also allows for much more flexibility in what types of items can have inventories, 
+and how many inventories those items can have (used to only allow 1). This opens up a door for us to create pouch attachments for vests
+which will allow them to carry items.
+
+With the aforementioned system, we changed how NVGs are equipped. Instead of them going into your eyewear slot, they will (going forward) attach to a military helmet (or any helmet with the appropriate mount, current military helmets are the only ones).
+This will require players to have a military helmet in order to use NVGs, so we've made it so that when a helmet runs out of durability, it no longer breaks. NVGs can be attached to a broken helmet.
 
 ________
 
