@@ -51,3 +51,4 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug that could allow for nearly unlimited ammo by unequipping ammo from a gun in a certain case.
 - Fixed a bug where .44 Magnum Revolver was not spawning in some police spawns.
+- Fixed a bug which caused your weapons to disable upon cancelling the consumption of an item (eat, drink, heal, etc).
