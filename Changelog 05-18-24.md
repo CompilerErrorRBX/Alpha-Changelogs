@@ -27,6 +27,7 @@ ________
 
 ### :white_check_mark: `Feature` Equipment Attachments.
 > Certain equipment can now take attachment items.
+- This change lacks visuals when the item is not equipped. This will be added later.
 
 ### :white_check_mark: `Feature` New NVG models and concept.
 > NVGs are now an attachment for military helmets.
