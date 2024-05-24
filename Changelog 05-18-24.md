@@ -1,7 +1,6 @@
-# :bookmark_tabs:  Changelog 05/18/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 05/18/2024 - 05/24/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 This week, we spent a lot of time on prepping for the new equipment attachment system.
