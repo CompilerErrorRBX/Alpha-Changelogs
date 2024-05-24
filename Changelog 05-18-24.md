@@ -70,4 +70,6 @@ ________
 - Fixed a bug where .44 Magnum Revolver was not spawning in some police spawns.
 - Fixed a bug which caused your weapons to disable upon cancelling the consumption of an item (eat, drink, heal, etc).
 - Fixed a bug which prevented cancelling an action on an item by clicking it again.
+- Fixed a bug where server region was not being properly displayed.
+- Fixed a bug where number of players in the server was incorrect at times.
 - Hopefully fixed a bug which caused players to have issues walking up stairs (this is a patch, we'll continue to improve on this later).
