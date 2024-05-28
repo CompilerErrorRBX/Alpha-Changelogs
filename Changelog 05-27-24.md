@@ -33,7 +33,7 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Reduced weight of `.223 Remington` (from 0.022kg -> 0.0125kg)
 
 ________
 
