@@ -41,3 +41,4 @@ ________
 - Fixed a bug where drinking `Saline Solution` broke hunger and thirst.
 - Fixed various bugs with inventories.
 - Fixed a bug where items stored inside of an inventory which was stored inside of another inventory were not properly loaded when rejoining.
+- Fixed a bug where NVG II and NVG I both had unlimited battery.
