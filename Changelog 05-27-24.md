@@ -29,6 +29,8 @@ ________
 
 ### :white_check_mark: `Feature` Fresh new skin bundle available!
 
+### :arrow_up_small: `Improvement` Fixed over 150 areas on the map!
+
 ________
 
 ## :balance_scale: Changes
