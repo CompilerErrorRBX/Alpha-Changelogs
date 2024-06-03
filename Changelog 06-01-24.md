@@ -26,13 +26,13 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Added instructions to Chinese Bunker.
 
 ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Increased spawn rate of Chinese Soldier Zombie by 1000%.
 
 ________
 
