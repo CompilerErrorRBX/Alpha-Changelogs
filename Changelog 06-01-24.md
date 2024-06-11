@@ -24,7 +24,11 @@ ________
 ## :loudspeaker: Features and Improvements
 
 
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Vehicle Overhaul
+> Not our final vision for cars by any means, but we felt cars were really lacking. So we spent some time improving their physics.
+- Cars take damage now.
+- Zombies no longer walk through cars (excluding when a player drives through them).
+- Zombies attack cars.
 
 ### :arrow_up_small: `Improvement` Added instructions to Chinese Bunker.
 
@@ -42,4 +46,6 @@ ________
 ________
 
 ## :bug: Bugfixes
-- 
+- Fixed a bug which caused vehicles to be launched into space when two players entered them sometimes.
+- Fixed a bug which caused invisible drivers in vehicles sometimes (we hope 🤞)
+- Fixed a bug where Chinese Soldier Zombies would spawn inside of the floor in the reactor room sometimes.
