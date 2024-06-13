@@ -9,8 +9,9 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### Wrench
+- Melee
+- Repairs vehicles
 
 ________
 
