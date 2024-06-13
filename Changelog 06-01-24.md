@@ -29,6 +29,7 @@ ________
 - Cars take damage now.
 - Zombies no longer walk through cars (excluding when a player drives through them).
 - Zombies attack cars.
+- Cars should no longer free momentarily when shot.
 
 ### :arrow_up_small: `Improvement` Added instructions to Chinese Bunker.
 
