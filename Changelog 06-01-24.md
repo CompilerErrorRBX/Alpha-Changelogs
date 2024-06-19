@@ -51,3 +51,4 @@ ________
 - Fixed a bug which caused vehicles to be launched into space when two players entered them sometimes.
 - Fixed a bug which caused invisible drivers in vehicles sometimes (we hope 🤞)
 - Fixed a bug where Chinese Soldier Zombies would spawn inside of the floor in the reactor room sometimes.
+- Fixed a bug which caused rain to never happen.
