@@ -24,6 +24,8 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
+### :white_check_mark: `Feature` Added Bullet Collaterals to Zombies
+- Bullets can pen zombies and hit zombies behind them now.
 
 ### :white_check_mark: `Feature` Vehicle Overhaul
 > Not our final vision for cars by any means, but we felt cars were really lacking. So we spent some time improving their physics.
