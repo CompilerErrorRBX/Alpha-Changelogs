@@ -70,3 +70,4 @@ ________
 - Fixed a bug which caused melee to do no damage to players.
 - Fixed a bug which prevented ground items and container items from being removed when the Chinese bunker POI doors closed.
 - Fixed a bug which caused one of the attachment slots to be missing for a weapon, also allowing it to fire without consuming ammo.
+- Fixed a bug which caused some containers to show the wrong items. Occasionally, some players might see an empty container while it has items for others.
