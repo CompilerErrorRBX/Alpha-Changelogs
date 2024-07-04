@@ -37,7 +37,11 @@ ________
 - Zombies attack cars.
 - Cars should no longer free momentarily when shot.
 
-### :arrow_up_small: `Improvement` Added instructions to Chinese Bunker.
+### :arrow_up_small: `Improvement` Item Spawn System Rework
+- Refactored spawn logic to be identical between containers and ground items.
+- Improved flexibility of complex spawn logic.
+- Improved performance of item respawning.
+- Ground items can now spawn in groups (i.e. a gun with boxes of ammo that belong to it next to eachother)
 
 ________
 
@@ -64,3 +68,5 @@ ________
 - Fixed a bug which allowed shotguns to wallbang in certain cases.
 - Fixed a bug which caused zombie corpses to fall through the ground.
 - Fixed a bug which caused melee to do no damage to players.
+- Fixed a bug which prevented ground items and container items from being removed when the Chinese bunker POI doors closed.
+- Fixed a bug which caused one of the attachment slots to be missing for a weapon, also allowing it to fire without consuming ammo.
