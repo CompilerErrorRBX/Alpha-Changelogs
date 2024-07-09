@@ -14,6 +14,10 @@ We also wanted to take this time to refactor the item spawning system. Originall
 within a container, which was causing us to have multiple spawn systems that were each effectively trying to do the same
 thing. Now we have a centralized system that is flexible and maintains consistency across all of the different spawn systems.
 
+The reworked spawn system also fixes several bugs with backpacks and clothing inventories being wiped. It also addresses
+some item initialization issues which caused problems like one of the attachment slots missing on some guns, which caused
+issues like a gun that didn't actually consume ammo.
+
 ________
 
 ## :gun: New Items
