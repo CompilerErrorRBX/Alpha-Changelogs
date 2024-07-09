@@ -4,6 +4,15 @@
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
+With the game being in a rather buggy state, we set out this time to improve some of the longer standing issues.
+
+Vehicles were a big rework this time, we wanted them to feel more fluid, but also be more stable and interesting.
+So we redid out vehicle system, added health which allows us to add another dimension to PVP and PVE with vehicles.
+We're still working to get these more stable and fix some of the new and existing bugs.
+
+We also wanted to take this time to refactor the item spawning system. Originally, it was only designed to spawn items
+within a container, which was causing us to have multiple spawn systems that were each effectively trying to do the same
+thing. Now we have a centralized system that is flexible and maintains consistency across all of the different spawn systems.
 
 ________
 
