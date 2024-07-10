@@ -60,6 +60,8 @@ ________
 
 ## :balance_scale: Changes
 
+### :exclamation: `Change` Uzi is now a sidearm.
+
 ### :exclamation: `Change` Increased spawn rate of Chinese Soldier Zombie by 1000%.
 
 ### :exclamation: `Change` Temporarily disabled last location saving in servers.
