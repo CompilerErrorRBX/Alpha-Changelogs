@@ -5,7 +5,7 @@
 With the game being in a rather buggy state, we set out this time to improve some of the longer standing issues.
 
 Vehicles were a big rework this time, we wanted them to feel more fluid, but also be more stable and interesting.
-So we redid out vehicle system, added health which allows us to add another dimension to PVP and PVE with vehicles.
+So we redid our vehicle system, added health which allows us to add another dimension to PVP and PVE with vehicles.
 We're still working to get these more stable and fix some of the new and existing bugs.
 
 We also wanted to take this time to refactor the item spawning system. Originally, it was only designed to spawn items
