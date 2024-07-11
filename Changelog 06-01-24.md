@@ -1,7 +1,5 @@
-# :bookmark_tabs:  Changelog 06/01/2024 - xx/xx/xxxx
-
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+# :bookmark_tabs:  Changelog 06/01/2024 - 07/11/24
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 With the game being in a rather buggy state, we set out this time to improve some of the longer standing issues.
