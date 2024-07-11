@@ -49,6 +49,9 @@ ________
 - Zombies attack cars.
 - Cars should no longer freeze momentarily when shot.
 
+### :arrow_up_small: `Improvement` Fairly significant performance improvements
+- Player FPS should be improved a fair bit after this update.
+
 ### :arrow_up_small: `Improvement` Item Spawn System Rework
 - Refactored spawn logic to be identical between containers and ground items.
 - Improved flexibility of complex spawn logic.
