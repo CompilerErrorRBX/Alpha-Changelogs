@@ -30,8 +30,9 @@ ________
 
 ## :thread: New Crafting Recipes
 
-### RECIPE
-- DETAILS
+### Frag Grenade Recipe
+- Requires `Scrap Metal` (x25)
+- Requires `Gun Powder` (x75)
 
 ________
 
@@ -56,6 +57,9 @@ ________
 - Improved performance of item respawning.
 - Ground items can now spawn in groups (i.e. a gun with boxes of ammo that belong to it next to eachother)
 
+### :arrow_up_small: `Improvement` Context action keybinds now work on ground items
+- Previously, trying to scrap an item on the ground with the scrap keybind did nothing.
+
 ________
 
 ## :balance_scale: Changes
@@ -71,7 +75,7 @@ ________
 ________
 
 ## :arrows_clockwise: Minor Changes
--
+- Removed Russian weapon spawns from outside of Chinese bunker.
 
 ________
 
@@ -86,3 +90,5 @@ ________
 - Fixed a bug which prevented ground items and container items from being removed when the Chinese bunker POI doors closed.
 - Fixed a bug which caused one of the attachment slots to be missing for a weapon, also allowing it to fire without consuming ammo.
 - Fixed a bug which caused some containers to show the wrong items. Occasionally, some players might see an empty container while it has items for others.
+- Fixed a bug which prevented players from actually cancelling context actions (like scrapping, healing, eating, etc) when clicking on the item again.
+- Fixed a bug which caused guns to be misaligned occasionally when a player loads into the game.
