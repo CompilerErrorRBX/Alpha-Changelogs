@@ -49,7 +49,7 @@ ________
 - Cars take damage now.
 - Zombies no longer walk through cars (excluding when a player drives through them).
 - Zombies attack cars.
-- Cars should no longer free momentarily when shot.
+- Cars should no longer freeze momentarily when shot.
 
 ### :arrow_up_small: `Improvement` Item Spawn System Rework
 - Refactored spawn logic to be identical between containers and ground items.
