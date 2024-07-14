@@ -40,3 +40,4 @@ ________
 - Fixed a bug which broke player initialization on some servers.
 - Fixed a bug which prevented arrows from being retrievable after firing them.
 - Fixed a bug which could prevent certain ground items from respawning in certain cases.
+- Fixed a bug which caused cars to explode and get launched into to space in a certain case (hopefully 🤞)
