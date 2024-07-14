@@ -39,3 +39,4 @@ ________
 ## :bug: Bugfixes
 - Fixed a bug which broke player initialization on some servers.
 - Fixed a bug which prevented arrows from being retrievable after firing them.
+- Fixed a bug which could prevent certain ground items from respawning in certain cases.
