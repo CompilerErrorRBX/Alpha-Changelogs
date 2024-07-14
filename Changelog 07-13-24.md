@@ -43,3 +43,4 @@ ________
 - Fixed a bug which caused cars to explode and get launched into to space in a certain case (hopefully 🤞)
 - Fixed a bug which caused the inventories of items inside of a backpack to be wiped when rejoining.
 - Fixed a bug which caused an issue during loading player equipment in some cases which would prevent many (or all) itesm from loading.
+- Fixed a bug which caused zombies to spawn an empty loot bag sometimes.
