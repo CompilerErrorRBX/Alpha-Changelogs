@@ -25,6 +25,7 @@ ________
 
 
 ### :white_check_mark: `Feature` Added Alt-Looking
+- Ability to look around while running in a fixed direction.
 
 ### :arrow_up_small: `Improvement` Reworked gun system camera
 - Significantly improved camera occlusion. Should prevent users from seeing through walls when pushing their camera up againts it.
