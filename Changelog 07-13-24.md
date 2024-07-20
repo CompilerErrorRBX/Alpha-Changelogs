@@ -1,28 +1,22 @@
-# :bookmark_tabs:  Changelog 07/13/2024 - xx/xx/xxxx
-
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+# :bookmark_tabs:  Changelog 07/13/2024 - 07/19/2024
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+Mainly focused on fixing bugs in this patch. While fixing some camera issues, we took the opportunity to add a free-look option to the system.
+
+Some notable bugs that were fixed include camera clipping, bunker ground loot not spawning, and some game breaking server-wide bugs.
 
 ________
 
-## :gun: New Items
-
-### ITEM
-- DETAILS
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
+## 🇺🇸 Added More Skins to Patriotic Skin Bundle
+- Added `M82A1` Patriotic Skin
+- Added `MRAD` Patriotic Skin
+- Added `AWM` Patriotic Skin
+- Added `Welding Mask` Patriotic Skin
 
 ________
 
 ## :loudspeaker: Features and Improvements
-
 
 ### :white_check_mark: `Feature` Added Free-Looking
 - Ability to look around while running in a fixed direction.
