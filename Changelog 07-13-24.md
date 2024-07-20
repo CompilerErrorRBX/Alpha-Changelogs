@@ -24,8 +24,9 @@ ________
 ## :loudspeaker: Features and Improvements
 
 
-### :white_check_mark: `Feature` Added Alt-Looking
+### :white_check_mark: `Feature` Added Free-Looking
 - Ability to look around while running in a fixed direction.
+- Default Keybind set to `Left Alt`
 
 ### :arrow_up_small: `Improvement` Reworked gun system camera
 - Significantly improved camera occlusion. Should prevent users from seeing through walls when pushing their camera up againts it.
@@ -36,7 +37,7 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Changed Push-To-Talk keybind to `I` from `Left Alt`
 
 ________
 
