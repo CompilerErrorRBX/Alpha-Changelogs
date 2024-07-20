@@ -46,3 +46,4 @@ ________
 - Fixed a bug which drew two gun models when the third person camera got close to the head.
 - Fixed a bug which incorrectly oriented weapons in certain spawning situations.
 - Fixed a bug which allowed players to see through walls by butting their camera up against them.
+- Fixed a bug which allowed players to unbind essential controls, which made it impossible for them to play the game.
