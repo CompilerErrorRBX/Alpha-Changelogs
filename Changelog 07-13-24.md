@@ -8,7 +8,7 @@ Some notable bugs that were fixed include camera clipping, bunker ground loot no
 
 ________
 
-## 🇺🇸 Added More Skins to Patriotic Skin Bundle
+## :flag_us: Added More Skins to Patriotic Skin Bundle
 - Added `M82A1` Patriotic Skin
 - Added `MRAD` Patriotic Skin
 - Added `AWM` Patriotic Skin
