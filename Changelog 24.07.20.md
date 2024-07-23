@@ -1,40 +1,17 @@
-# :bookmark_tabs:  Changelog 07/20/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 07/20/2024 - 07/22/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+Really continuing to focus on bug fixes for the game.
 
 ________
 
-## :gun: New Items
-
-### ITEM
-- DETAILS
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
-
-________
-
-## :loudspeaker: Features and Improvements
-
-
-### :white_check_mark: `Feature` FEATURE
+## :loudspeaker: Improvements
 
 ### :arrow_up_small: `Improvement` Changes to controller keybinds
 - Removed controller for opening the squad menu
 - Rebound open map control to `DPad Right`
-
-________
-
-## :balance_scale: Changes
-
-### :exclamation: `Change` CHANGE
 
 ________
 
