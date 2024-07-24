@@ -13,7 +13,8 @@ ________
 > Containers used to fail to open frequently in cases where client ping was unstable. The container interaction now
 > accomodates this situation better now. Players should expect far fewer issues with opening containers now.
 
-### :arrow_up_small: `Improvement` Scrapping with F no longer toggles flashlight.
+### :arrow_up_small: `Improvement` Improved logic around overlapping keybinds in some cases.
+- Scrapping with F no longer toggles flashlight.
 
 ________
 
