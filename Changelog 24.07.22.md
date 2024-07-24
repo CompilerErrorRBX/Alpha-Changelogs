@@ -1,6 +1,6 @@
 # :bookmark_tabs:  Changelog 07/22/2024 - 07/24/2024
 
-## :green_circle: Status `Released`
+## :green_circle: Status `Released` <t:1721808900:R>
 
 ## :speech_balloon: Patch Notes
 We're continuing to work out all of the bugs and unpolished common experiences in the game.
