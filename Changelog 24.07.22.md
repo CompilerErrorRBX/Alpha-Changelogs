@@ -1,7 +1,6 @@
 # :bookmark_tabs:  Changelog 07/22/2024 - 07/24/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 We're continuing to work out all of the bugs and unpolished common experiences in the game.
@@ -41,4 +40,6 @@ ________
 - Fixed a bug which caused a spashing footstep sound in random places on the map.
 - Fixed a bug which made a player characters angle vertically while falling in prone.
 - Fixed a bug which allowed an item to belong to multiple inventory slots, allowing for potential item duplication.
+- Fixed a bug which caused voice chat to play globally.
+- Fixed a bug where voice chat didn't work at all.
 - Attempted to fix a bug which causes players to "combat log" while the status effect is not present. 🤞
