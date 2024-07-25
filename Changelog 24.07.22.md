@@ -19,6 +19,8 @@ ________
 
 ### :arrow_up_small: `Improvement` Improved bleeding particles.
 - Blood particles should be far less likely to pass through floors now.
+- Blood particle quantity now changes based on how many levels of bleeding you have.
+- Improved blood particle textures.
 
 ### :arrow_up_small: `Improvement` Improved visiblity of radial menu items for pinging.
 
