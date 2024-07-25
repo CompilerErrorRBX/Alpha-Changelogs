@@ -42,4 +42,5 @@ ________
 - Fixed a bug which allowed an item to belong to multiple inventory slots, allowing for potential item duplication.
 - Fixed a bug which caused voice chat to play globally.
 - Fixed a bug where voice chat didn't work at all.
+- Fixed a visual bug which caused some item requirements in craft to be off screen.
 - Attempted to fix a bug which causes players to "combat log" while the status effect is not present. 🤞
