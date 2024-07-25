@@ -1,4 +1,4 @@
-# :bookmark_tabs:  Changelog 07/22/2024 - 07/24/2024
+# :bookmark_tabs:  Changelog 07/22/2024 - 07/25/2024
 
 ## :green_circle: Status `Released`
 
