@@ -34,20 +34,18 @@ ________
 ________
 
 ## :balance_scale: Changes
-### Increased rarity of `Mule packs` and `Duffle bags` (Large Backpacks).
-### Increased rarity of `Military Helmet`.
-### Increased rarity of `Hunting clothes` (Also only spawns in hunting cabins now).
-### Increased rarity of `Tier 2` clothing in residential spawns.
-### Added new military clothing spawns to bunk chests.
-### Added new t-shirt spawns to residential spawns.
+- Increased rarity of `Mule packs` and `Duffle bags` (Large Backpacks).
+- Increased rarity of `Military Helmet`.
+- Increased rarity of `Hunting clothes` (Also only spawns in hunting cabins now).
+- Increased rarity of `Tier 2` clothing in residential spawns.
+- Added new military clothing spawns to bunk chests.
+- Added new t-shirt spawns to residential spawns.
 
 ________
 
 ## :balance_scale: Minor Changes
-
-### :exclamation: `Change` Reduced volume of opening and closing doors.
-
-### :exclamation: `Change` Added a default drop sound to all items.
+- Reduced volume of opening and closing doors.
+- Added a default drop sound to all items.
 
 ________
 
