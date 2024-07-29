@@ -53,3 +53,4 @@ ________
 - Fixed a bug where item pickup sounds didn't play when taking them in certain cases.
 - Fixed a bug where clients could lose connection with the server in certain cases.
 - Fixed a bug where players would get thrown into the air when jumping in water.
+- Fixed a bug where shotgun spread patterns were always the same pattern.
