@@ -8,12 +8,9 @@
 ________
 
 ## :gun: New Items
-
-### Added 5 new T-Shirts (Tier 1)
-
-### Added 2 new Military Outfits (Shirts and pants) (Tier 2)
-
-### Added 2 new Military Shirts (Tier 3)
+- Added 5 new T-Shirts (Tier 1)
+- Added 2 new Military Outfits (Shirts and pants) (Tier 2)
+- Added 2 new Military Shirts (Tier 3)
 
 ________
 
