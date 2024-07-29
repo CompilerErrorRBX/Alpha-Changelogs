@@ -15,9 +15,6 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-
-### :white_check_mark: `Feature` FEATURE
-
 ### :arrow_up_small: `Improvement` ADS in third person now zooms to first person
 > When aiming in third person, your view will now always move to first person.
 > This is to help balance third person aiming.
