@@ -31,6 +31,7 @@ ________
 ________
 
 ## :balance_scale: Changes
+- When aiming in third person, your view will now always move to first person.
 - Increased rarity of `Mule packs` and `Duffle bags` (Large Backpacks).
 - Increased rarity of `Military Helmet`.
 - Increased rarity of `Hunting clothes` (Also only spawns in hunting cabins now).
