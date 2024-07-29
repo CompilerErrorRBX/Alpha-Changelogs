@@ -36,6 +36,7 @@ ________
 - Increased rarity of `Military Helmet`.
 - Increased rarity of `Hunting clothes` (Also only spawns in hunting cabins now).
 - Increased rarity of `Tier 2` clothing in residential spawns.
+- Decreased rarity of small backpacks in residential spawns.
 - Added new military clothing spawns to bunk chests.
 - Added new t-shirt spawns to residential spawns.
 
