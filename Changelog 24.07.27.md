@@ -1,7 +1,6 @@
-# :bookmark_tabs:  Changelog 07/27/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 07/27/2024 - 07/29/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 
@@ -14,24 +13,17 @@ ________
 
 ________
 
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
-
-________
-
 ## :loudspeaker: Features and Improvements
 
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
-
+### :arrow_up_small: `Improvement` ADS in third person now zooms to first person
+> When aiming in third person, your view will now always move to first person.
+> This is to help balance third person aiming.
 ________
 
 ## :balance_scale: Changes
-- When aiming in third person, your view will now always move to first person.
 - Increased rarity of `Mule packs` and `Duffle bags` (Large Backpacks).
 - Increased rarity of `Military Helmet`.
 - Increased rarity of `Hunting clothes` (Also only spawns in hunting cabins now).
