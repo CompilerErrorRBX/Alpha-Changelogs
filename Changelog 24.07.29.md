@@ -7,24 +7,7 @@
 
 ________
 
-## :gun: New Items
-
-### ITEM
-- DETAILS
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
-
-________
-
 ## :loudspeaker: Features and Improvements
-
-
-### :white_check_mark: `Feature` FEATURE
 
 ### :arrow_up_small: `Improvement` Scrapping and consuming sounds are now cancelled with the action.
 
@@ -32,10 +15,11 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` SVD can now be scrapped.
 
 ________
 
 ## :bug: Bugfixes
 - Fixed a bug where an incorrect quantity of items could be moved into an inventory, making it over weight.
 - Fixed a bug where the visually displayed weight of an item with an inventory was incorrect in certain cases.
+- Fixed a bug which prevented the PKM and SKS from spawning in the bunker.
