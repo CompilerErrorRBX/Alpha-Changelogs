@@ -4,6 +4,7 @@
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
+We have been slowly working on bringing a lot of new artwork to the game these past 2 months. In this update, and many to come, you will notice assets in the game are a bit higher in fidelity.
 
 ________
 
