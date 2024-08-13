@@ -4,7 +4,7 @@
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
-We have been slowly working on bringing a lot of new artwork to the game these past 2 months. In this update, and many to come, you will notice assets in the game are a bit higher in fidelity.
+We have been slowly working on bringing a lot of new artwork to the game these past 2 months. In this update, and many to come, you will notice assets in the game are a bit higher in fidelity, and there's a lot of new ambient sound effects.
 
 ________
 
@@ -20,6 +20,9 @@ ________
 > We have been at work stylizing the assets in the game to give them a bit more of an worn-down apocalyptic look.
 > Buildings, Doors, Interactables, etc are in the process of being retextured.
 > More to come!
+
+### :arrow_up_small: `Improvement` Environment sounds rework
+> We have replaced many sounds in the game, and added additional environment sounds.
 
 ________
 
