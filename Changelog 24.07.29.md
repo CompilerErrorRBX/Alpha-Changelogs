@@ -34,3 +34,5 @@ ________
 - Fixed a bug where the visually displayed weight of an item with an inventory was incorrect in certain cases.
 - Fixed a bug which prevented the PKM and SKS from spawning in the bunker.
 - Fixed a few bugs which caused odd behaviors with vehicle sounds.
+- Fixed a bug which allowed a player to be killed while in the spawn box.
+- Fixed a bug which reset player health upon rejoining.
