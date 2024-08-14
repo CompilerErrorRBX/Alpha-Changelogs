@@ -26,7 +26,7 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` Added `Zombie Repellant` status rffect for players on spawn.
+### :arrow_up_small: `Improvement` Added `Zombie Repellant` status effect for players on spawn.
 > This effect makes you invisible to zombies as long as it's running. This should prevent zombies from targetting players
 > upon spawning in.
 - Lasts for 45 seconds.
