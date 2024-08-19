@@ -1,44 +1,43 @@
-# :bookmark_tabs:  Changelog 08/14/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 08/14/2024 - 08/19/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+> Focused on fixing more bugs and reworking old systems.
 
 ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
+### Reworked Molotov
+- Molotov is now far less likely to damage through walls
+- Applies `Burning` status effect.
 
 ________
 
 ## :loudspeaker: Features and Improvements
 
-
-### :white_check_mark: `Feature` FEATURE
-
-### :arrow_up_small: `Improvement` Added `Zombie Repellant` status effect for players on spawn.
+### :white_check_mark: `Feature` Added `Zombie Repellant` status effect for players on spawn.
 > This effect makes you invisible to zombies as long as it's running. This should prevent zombies from targetting players
 > upon spawning in.
 - Lasts for 45 seconds.
 - Removed immediately upon entering combat.
 
-________
+- ### :white_check_mark: `Feature` Added `Burning` status effect to Molotov
+> This effect is applied by molotovs currently (more causes in the future)
+- Quenched with drinks (temporarily)
 
-## :balance_scale: Changes
+- ### :white_check_mark: `Feature` Added flame particles for burning.
+- Heavily impacts vision and causes rapid passive damage.
 
-### :exclamation: `Change` CHANGE
+- ### :arrow_up_small: `Improvement` Adjusted footstep sounds
+> Improved a few odd sounding cases with some of the footstep sounds like wood and grass.
+
+- ### :arrow_up_small: `Improvement` Improved environment sounds further
 
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Improved a situation where players would slide around on flat ground sometimes.
+- Fixed a bug where player animations could become desynced.
+- Fixed several minor bugs. ( Forgot which ones :( ).
