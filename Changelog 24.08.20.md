@@ -26,7 +26,9 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` Reduced zombie network packet size by 85%
+### :arrow_up_small: `Improvement` Network improvements
+- Zombie network packet now scales on O(log(n)) from O(n) (about 85% smaller packet size in the current case.)
+- Reduced character network packet size by 90%
 
 ________
 
@@ -37,4 +39,5 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Fixed a bug where zombie update data was sent over the network unnecessarily.
+- Fixed a bug which caused a hangup on the server which broke server/client initialization in rare cases.
+- Fixed a bug where zombie update data was sent over the network unnecessarily. Likely a small boost to server performance here.
