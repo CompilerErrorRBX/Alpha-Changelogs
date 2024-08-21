@@ -28,6 +28,7 @@ ________
 
 ### :arrow_up_small: `Improvement` Network improvements
 - Zombie initialization network packet now scales on `O(log(m)*n)` from `O(m*n)` (about 85% smaller packet size in the current case. From `~133KB` -> `20KB`)
+- Zombie update network packet size reduced by ~15%. (Worst case, from `6.14MB/s` -> `5.25MB/s`)
 - Reduced character network packet size by 90%
 
 ________
