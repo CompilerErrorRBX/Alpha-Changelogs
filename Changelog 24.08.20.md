@@ -28,7 +28,8 @@ ________
 
 ### :arrow_up_small: `Improvement` Network improvements
 - Zombie initialization network packet now scales on `O(log(m)*n)` from `O(m*n)` (about 85% smaller packet size in the current case. From `~133KB` -> `20KB`)
-- Zombie update network packet size reduced by ~15%. (Worst case, from `6.14MB/s` -> `5.25MB/s`)
+- Zombie update network packet size reduced by ~30%.
+- Zombie update network usage reduced by over 90%.
 - Reduced character network packet size by 90%
 
 ________
@@ -41,4 +42,5 @@ ________
 
 ## :bug: Bugfixes
 - Fixed a bug which caused a hangup on the server which broke server/client initialization in rare cases.
+- Fixed a bug which incorrectly calculated maximum zombie update packet size, incorrectly sending way more data than it should.
 - Fixed a bug where zombie update data was sent over the network unnecessarily. Likely a small boost to server performance here.
