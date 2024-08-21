@@ -1,4 +1,4 @@
-# :bookmark_tabs:  Changelog xx/xx/xxxx - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 08/20/2024 - xx/xx/xxxx
 
 ## :red_circle: Status `Unreleased`
 <!-- ## :green_circle: Status `Released` -->
@@ -26,7 +26,7 @@ ________
 
 ### :white_check_mark: `Feature` FEATURE
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Reduced zombie network packet size by 85%
 
 ________
 
@@ -37,4 +37,4 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug where zombie update data was sent over the network unnecessarily.
