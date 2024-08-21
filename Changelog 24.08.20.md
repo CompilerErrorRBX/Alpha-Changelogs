@@ -27,7 +27,7 @@ ________
 ### :white_check_mark: `Feature` FEATURE
 
 ### :arrow_up_small: `Improvement` Network improvements
-- Zombie network packet now scales on O(log(n)) from O(n) (about 85% smaller packet size in the current case.)
+- Zombie initialization network packet now scales on `O(log(m)*n)` from `O(m*n)` (about 85% smaller packet size in the current case. From `~133KB` -> `20KB`)
 - Reduced character network packet size by 90%
 
 ________
