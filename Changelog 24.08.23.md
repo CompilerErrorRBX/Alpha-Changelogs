@@ -21,6 +21,9 @@ ________
 - Used for filtering water.
 - Repaired with `Charcoal`
 
+### `SAM Splint`
+- Light weight, and quick application splint.
+
 ________
 
 ## :thread: New Crafting Recipes
@@ -39,7 +42,15 @@ ________
 - Caused by drinking contaminated water.
 - Prevents eating or drinking while active.
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Footstep sound improvements
+- Timing of footsteps is more properly timed with animations.
+- Added support for multiple footstep types (barefoot, boots, etc).
+- Optimized use of footstep sounds.
+
+### :arrow_up_small: `Improvement` Reworked Crafting UI
+- Now accomodates `Crafting Stations`.
+- Streamlined UI design.
+- Provides a lot more information to the player about what they're crafting.
 
 ________
 
