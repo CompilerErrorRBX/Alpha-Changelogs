@@ -42,7 +42,7 @@ ________
 - Caused by drinking contaminated water.
 - Prevents eating or drinking while active.
 
-### :arrow_up_small: `Improvement` Footstep sound improvements
+### :arrow_up_small: `Improvement` Player footstep sound improvements
 - Timing of footsteps is more properly timed with animations.
 - Added support for multiple footstep types (barefoot, boots, etc).
 - Optimized use of footstep sounds.
