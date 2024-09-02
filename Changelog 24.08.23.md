@@ -52,6 +52,9 @@ ________
 - Streamlined UI design.
 - Provides a lot more information to the player about what they're crafting.
 
+### :arrow_up_small: `Improvement` Simplified Item Weights
+- Changes unit of weight from Kilograms to an ambiguous unit of weight to show more readable numbers.
+
 ________
 
 ## :balance_scale: Changes
