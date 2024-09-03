@@ -22,7 +22,7 @@ ________
 - Repaired with `Charcoal`
 
 ### `SAM Splint`
-- Light weight, and quick application splint.
+- Lightweight, and quick application splint.
 
 ________
 
@@ -58,6 +58,11 @@ ________
 ________
 
 ## :balance_scale: Changes
+
+### :exclamation: `Change` Removed shoes as a starter item.
+
+### :exclamation: `Change` Buffed basic shoes (non `Sneakers` and `Boots`)
+- Increases move speed by 2.5%
 
 ### :exclamation: `Change` Updated model for `Saline Solution`
 
