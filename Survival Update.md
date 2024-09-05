@@ -6,7 +6,7 @@
   - Add wildlife (deer, rabbits, etc.) as a primary food source.
   - Decrease spawn rates of packaged food items.
   - Implement animal AI and behaviors (e.g., fleeing, grazing).
-  - Add new crafting recipes involving animal products (e.g., cooked meats, leather armor).
+  - Add new crafting recipes involving animal products (e.g., cooked meats).
 - **Foraging System**:
   - Add berry bushes and herb plants to different map zones.
   - Develop a foraging mechanic (e.g., players interact with bushes/plants to gather berries or herbs).
@@ -22,16 +22,16 @@
   - Develop crafting UI enhancements to accommodate new stations.
 - **Blueprints and Progression**:
   - Create blueprint drops for key recipes to slow progression slightly and add a sense of accomplishment.
-  - Implement blueprint acquisition through exploration, trading, or crafting.
+  - Implement blueprint acquisition through exploration.
 - **New Items and Recipes**:
-  - Add new items such as makeshift grenades, splints, filters, barbed wire traps, etc.
+  - Add new items such as makeshift grenades, filters, barbed wire traps, etc.
   - Rework existing item crafting (e.g., moving ammo crafting to Bullet Press).
 
 ## 3. Mid-Game Progression and Balance
 **Goal**: Enhance the middle phase of the game to provide a smoother and more engaging progression curve.
 - **Adjust Loot Spawn Rates**:
-  - Reduce the abundance of high-tier loot (especially firearms) to extend early-game survival.
-  - Increase spawn rates of crafting materials and components.
+  - Reduce the abundance of loot (especially firearms) to extend early-game survival.
+  - Tune spawn rates of crafting materials and components.
 - **Item Durability and Permanent Damage**:
   - Introduce a permanent damage system for all items, reducing their lifespan and serving as an item sink.
   - Implement a “junk” version for destroyed items to encourage crafting and recycling.
@@ -43,15 +43,11 @@
 - **Rebalance Map Layout**:
   - Adjust points of interest (POIs) to encourage movement across the entire map.
   - Place key crafting components or blueprints in less-visited areas to drive exploration.
-- **Dynamic Events**:
-  - Implement dynamic events such as random airdrops, wildlife migrations, or temporary crafting boosts in specific areas.
 
 ## 5. Gameplay Mechanics Adjustments
 **Goal**: Increase the challenge and realism of survival mechanics.
 - **Movement Speed Penalties**:
   - Apply penalties during crafting, healing, or other actions to add risk during these activities.
-- **Combat Adjustments**:
-  - Tweak weapon handling, recoil, and accuracy to create a more balanced combat experience.
 - **Durability Changes**:
   - Introduce permanent durability loss mechanics for weapons and items.
   - Allow destroyed items to be recycled into scrap materials.
@@ -74,6 +70,7 @@
   - Plan for quick patches to address balance issues, bugs, and unintended consequences.
 
 ## Timeline
+(This is a completely arbitrary timeline and means nothing, this is a work in progress)
 
 1. **Week 1-2**: Plan and Design
    - Finalize design for new mechanics, items, and systems.
