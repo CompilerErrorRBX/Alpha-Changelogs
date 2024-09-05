@@ -14,18 +14,54 @@
 
 ## 2. 🛠️ New Crafting and Building System
 **Goal**: Introduce a structured, tiered crafting system and new stations to increase the complexity and depth of crafting.
-- **Crafting Stations**:
-  - 🏗️ Design and implement new stations:
-    - 🔫 Bullet Press (No tier)
-    - 🧰 Workbench (Tier 1)
-    - 🔥 Campfire (Cooking Station Tier 1 with upgradeable attachments)
-  - 🖥️ Develop crafting UI enhancements to accommodate new stations.
-- **Blueprints and Progression**:
-  - 📜 Create blueprint drops for key recipes to slow progression slightly and add a sense of accomplishment.
-  - 🧭 Implement blueprint acquisition through exploration.
-- **New Items and Recipes**:
-  - 💣 Add new items such as makeshift grenades, filters, barbed wire traps, etc.
-  - 🔄 Rework existing item crafting (e.g., moving ammo crafting to Bullet Press).
+
+### **Crafting Stations**
+- **🔫 Bullet Press** (No tier): Essential for all ammunition crafting, providing players the means to create bullets and shells using found or crafted materials.
+- **🧰 Workbench** (Tier 1): The basic crafting station for various makeshift items, armor, traps, and medical supplies. This station is versatile and serves as the entry-level crafting hub for players.
+- **🔥 Campfire** (Cooking Station Tier 1): A basic cooking station that requires wood fuels to function. Can be upgraded with:
+  - **🍲 Cooking Pot**: Unlocks recipes for soups, stews, and berry juice.
+  - **🍖 Grill Attachment**: Allows for cooking meats and other grilled foods.
+
+### **New Items and Recipes**
+1. **💣 Grenades and Explosives**
+   - **💨 Makeshift Smoke Grenade**: Crafted at Workbench (Tier 1) using common materials such as a tin can, chemical components, and cloth strips. Ideal for creating a temporary smoke screen during escapes or ambushes.
+   - **⚡ Makeshift Flashbang**: Also crafted at Workbench (Tier 1). Requires a metal casing, gunpowder, and a fuse. Useful for temporarily disorienting enemies in close-quarters combat.
+   - **💨 Smoke Grenade** (Looted): A more effective version of the makeshift smoke grenade. Provides a thicker and longer-lasting smoke cover.
+   - **⚡ Flashbang** (Looted): A professionally made version with a more significant disorienting effect than the makeshift counterpart.
+
+2. **🩺 Medical Supplies**
+   - **🩹 SAM Splint** (Looted): Used to stabilize broken bones, reducing mobility penalties. Lightweight and fast application.
+   - **💧 Water Filter**: A crafted item at the Workbench (Tier 1) requiring charcoal, plastic scraps, and cloth. Used to purify contaminated water, turning it into potable water without needing a campfire.
+   - **🌑 Charcoal**: Can be crafted by burning wood at a campfire. Used in various recipes, including water filtration and basic medical treatments.
+   - **💦 Stagnant Water**: Found in the environment, can be filtered with a water filter or boiled at a campfire to make it safe for drinking.
+
+3. **🛡️ Armor and Protective Gear**
+   - **🪖 Makeshift Helmet (with NVG mount)**: Crafted at the Workbench (Tier 1) using scrap metal, leather, and cloth. Provides basic head protection and allows for the attachment of night vision goggles (NVG).
+   - **🦺 Crafted Body Armor**: Reworked to be crafted at Workbench (Tier 1). Requires cloth, leather, and metal plates. Provides moderate protection against projectiles and melee attacks. Could potentially have a new model to differentiate it from existing armor.
+
+4. **🥘 Food and Drink Items**
+   - **🥩 New Food Items**:
+     - Various types of meat (e.g., rabbit, deer) obtained from hunting wildlife. Can be cooked on the Campfire (Cooking Station Tier 1).
+     - **🍇 Berries**: Can be found while foraging in specific map areas or purchased from NPCs. Used in various recipes.
+     - **🌿 Herbs**: Found in the environment and can be used for crafting simple remedies or enhancing food recipes.
+   - **🍹 Berry Juice**: Crafted at a Campfire with a Cooking Pot attachment using berries and water. Provides hydration and a small stamina boost.
+   - **☕ Coffee**: Moved to the Campfire + Cooking Pot. Requires coffee beans and water. Provides a temporary stamina regeneration boost.
+
+5. **🪤 Traps and Tools**
+   - **🔗 Barbed Wire Trap**: Crafted at Workbench (Tier 1) using metal wire and scrap. Placed to deter or damage enemies in key choke points.
+   - **✂️ Bolt Cutters**: A tool used to cut through barbed wire traps or other barricades. Also serves as a heavy melee weapon with a slower attack speed but high damage.
+
+6. **🛠️ Utility and Miscellaneous Items**
+   - **🔧 Makeshift Weapon Repair Kit**: Moved to Workbench (Tier 1). Crafted using scrap metal and cloth. Used to restore a portion of a weapon's durability but not permanent damage.
+   - **🩺 Medkit**: Moved to Workbench (Tier 1). Crafted with cloth, alcohol, and herbal components. Used to heal wounds and provide a temporary health regeneration buff.
+
+### **Reworked Item Crafting**
+- **🔫 Ammunition Recipes**: Moved entirely to the Bullet Press station. Players will need to gather specific materials like gunpowder, casings, and bullets to craft different types of ammo, such as:
+  - **Handgun Ammo**: Requires small casings, gunpowder, and lead.
+  - **Rifle Ammo**: Requires rifle casings, gunpowder, and lead.
+  - **Shotgun Shells**: Requires shell casings, gunpowder, and buckshot or slugs.
+- **🪤 Traps**: Moved to Workbench (Tier 1). Recipes include the Barbed Wire Trap and other traps that may be added later.
+- **🥘 Cooking Recipes**: Certain recipes like **Coffee** and **Berry Juice** are moved to the Campfire (Cooking Station Tier 1) with the Cooking Pot attachment, promoting the use of crafted food over found items.
 
 ## 3. ⚖️ Mid-Game Progression and Balance
 **Goal**: Enhance the middle phase of the game to provide a smoother and more engaging progression curve.
