@@ -58,7 +58,7 @@
    - **🔥 Grill Attachment**: Used to upgrade the Campfire (Cooking Station Tier 1) for cooking grilled foods.
 
 7. **⚙️ Major Crafting Components**
-   - **🌑 Charcoal**: Can be crafted by burning wood at a campfire, or found throughout the world. Used in various recipes, including water filtration and basic medical treatments.
+   - **🌑 Charcoal**: Can be crafted by burning wood at a campfire, or found throughout the world. Used in various recipes, including water filtration, metallurgy, and basic medical treatments.
    - **🧵 Metal Wire**: Crafted at Forge (Tier 1) Crafted from metal scraps. Used for crafting traps (e.g., barbed wire trap) and other makeshift items..
    - **🪡 Leather**: Obtained from hunting animals. Used in crafting various protective gear like the Makeshift Helmet and Body Armor.
    - **🪨 Metal Plate**: Crafted at the Forge (Tier 1) using metal scraps, and charcoal. Major crafting component.
