@@ -64,7 +64,7 @@
    - **🪨 Metal Plate**: Crafted at the Forge (Tier 1) using metal scraps, and charcoal. Major crafting component.
 
 ### **Reworked Item Crafting**
-- **🔫 Ammunition Recipes**: Moved entirely to the Bullet Press station. Players will need to gather specific materials like gunpowder, casings, and bullets to craft different types of ammo, such as:
+- **🔫 Ammunition Recipes**: Moved entirely to the Bullet Press station.
 - **🪤 Traps**: Moved to Workbench (Tier 1). Recipes include the Barbed Wire Trap and other traps that may be added later.
 - **🥘 Cooking Recipes**: Certain recipes like **Coffee** and **Berry Juice** are moved to the Campfire (Cooking Station Tier 1) with the Cooking Pot attachment, promoting the use of crafted food over found items.
 - **🛠️ Makeshift Armor Plates**: Crafted from metal plates, and composite fiber.
