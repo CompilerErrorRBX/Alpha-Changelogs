@@ -1,4 +1,4 @@
-# 🗺️ Roadmap for Major Game Update
+# 🗺️ Roadmap for the Survival Update
 
 ## 1. 🌿 Survival and Crafting Overhaul
 **Goal**: Deepen survival mechanics, enhance crafting's importance, and create a more balanced relationship between looting and crafting.
