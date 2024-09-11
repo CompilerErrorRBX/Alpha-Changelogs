@@ -42,7 +42,7 @@
 4. **🥘 Food and Drink Items**
    - **🥩 New Food Items**:
      - Various types of meat (e.g., rabbit, deer) obtained from hunting wildlife. Can be cooked on the Campfire (Cooking Station Tier 1).
-     - **🍇 Berries**: Can be found while foraging in specific map areas or purchased from NPCs. Used in various recipes.
+     - **🍇 Berries**: Can be found while foraging in specific map areas. Used in various recipes.
      - **🌿 Herbs**: Found in the environment and can be used for crafting simple remedies or enhancing food recipes.
    - **🍹 Berry Juice**: Crafted at a Campfire with a Cooking Pot attachment using berries and water. Provides great hydration and a small stamina boost.
    - **☕ Coffee**: Moved to the Campfire + Cooking Pot. Requires coffee grounds and water. Provides a temporary stamina regeneration boost.
