@@ -52,8 +52,13 @@ ________
 - Streamlined UI design.
 - Provides a lot more information to the player about what they're crafting.
 
+### :arrow_up_small: `Improvement` SKS now uses a clip instead of single reload.
+
 ### :arrow_up_small: `Improvement` Simplified Item Weights
 - Changes unit of weight from Kilograms to an ambiguous unit of weight to show more readable numbers.
+
+### :arrow_up_small: `Improvement` Airdrops can no longer be purchased during scheduled restarts.
+- Attempting to purchase an airdrop while the server is on a scheduled restart will stop the purchase.
 
 ________
 
