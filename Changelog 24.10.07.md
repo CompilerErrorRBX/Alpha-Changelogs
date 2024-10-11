@@ -19,6 +19,10 @@ ________
 ### :arrow_up_small: `Improvement` Airdrops can no longer be purchased during scheduled restarts.
 - Attempting to purchase an airdrop while the server is on a scheduled restart will stop the purchase.
 
+### :arrow_up_small: `Improvement` Various improvements to rain.
+- Improved interior sound from rain.
+- Improved performance of rain. (further optimizations to be made in the future if Roblox fixes [this bug](https://devforum.roblox.com/t/moving-attachments-with-child-particleemitters-causes-long-updateinvalidparts-step/3189733))
+
 ________
 
 ## :balance_scale: Changes
@@ -30,5 +34,7 @@ ________
 ________
 
 ## :bug: Bugfixes
+- Fixed a bug which prevented players from shutting off the gas sequence in the `Chinese Bunker`.
 - Fixed a bug which prevented the rain sound from stopping after a storm ended.
 - Fixed a bug which caused zombies to have the wrong equipment shown sometimes.
+- (Needs testing) Fixed a bug which caused vehicles to be silent sometimes.
