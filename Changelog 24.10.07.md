@@ -4,10 +4,10 @@
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
-> While working on the survival update, we've noticed some rather impactful bugs and lacking features.
-> We took some time to address some of these issues in this update. Some of these fixes are with respect to
-> areas where performance was lacking (rain, footsteps, etc). Our footsteps changes have opened up a lot of
-> new and interesting functionality. Like different footstep profiles (barefoot, shoes, backpack).
+While working on the survival update, we've noticed some rather impactful bugs and lacking features.
+We took some time to address some of these issues in this update. Some of these fixes are with respect to
+areas where performance was lacking (rain, footsteps, etc). Our footsteps changes have opened up a lot of
+new and interesting functionality. Like different footstep profiles (barefoot, shoes, backpack).
 
 ________
 
