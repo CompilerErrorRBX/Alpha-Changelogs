@@ -1,9 +1,13 @@
-# :bookmark_tabs:  Changelog 10/07/2024 - 10/11/2024
+# :bookmark_tabs:  Changelog 10/07/2024 - 10/XX/2024
 
 ## :red_circle: Status `Unreleased`
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
+> While working on the survival update, we've noticed some rather impactful bugs and lacking features.
+> We took some time to address some of these issues in this update. Some of these fixes are with respect to
+> areas where performance was lacking (rain, footsteps, etc). Our footsteps changes have opened up a lot of
+> new and interesting functionality. Like different footstep profiles (barefoot, shoes, backpack).
 
 ________
 
@@ -43,5 +47,6 @@ ________
 - Fixed a bug which prevented the rain sound from stopping after a storm ended.
 - Fixed a bug which prevented quick use slots from being cleared after death.
 - Fixed a bug which caused zombies to have the wrong equipment shown sometimes.
+- Fixed a bug which caused zombies to become simulated far later than they're meant to be.
 - Fixed a bug where car explosions caused welds to break on nearby objects.
 - (Needs testing) Fixed a bug which caused vehicles to be silent sometimes.
