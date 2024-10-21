@@ -46,6 +46,7 @@ ________
 - Fixed a bug which prevented players from shutting off the gas sequence in the `Chinese Bunker`.
 - Fixed a bug which prevented the rain sound from stopping after a storm ended.
 - Fixed a bug which prevented quick use slots from being cleared after death.
+- Fixed a bug which prevented players from shooting immediately after firing a rechambering weapon.
 - Fixed a bug which caused zombies to have the wrong equipment shown sometimes.
 - Fixed a bug which caused zombies to become simulated far later than they're meant to be.
 - Fixed a bug where car explosions caused welds to break on nearby objects.
