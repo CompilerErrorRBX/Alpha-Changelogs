@@ -27,10 +27,6 @@ ________
 - Improved interior sound from rain.
 - Improved performance of rain. (further optimizations to be made in the future if Roblox fixes [this bug](https://devforum.roblox.com/t/moving-attachments-with-child-particleemitters-causes-long-updateinvalidparts-step/3189733))
 
-### :arrow_up_small: `Improvement` Various network improvements
-> Currently, the most process intensive part of the game lies in networking. There are a lot of things that need to be replicated in the game
-> and we're working to improve the efficiency of those things.
-
 ________
 
 ## :balance_scale: Changes
