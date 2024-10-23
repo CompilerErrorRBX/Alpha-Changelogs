@@ -45,5 +45,5 @@ ________
 - Fixed a bug which prevented players from shooting immediately after firing a rechambering weapon.
 - Fixed a bug which caused zombies to have the wrong equipment shown sometimes.
 - Fixed a bug which caused zombies to become simulated far later than they're meant to be.
-- Fixed a bug where car explosions caused welds to break on nearby objects.
-- (Needs testing) Fixed a bug which caused vehicles to be silent sometimes.
+- Fixed a bug which caused vehicles to be silent sometimes.
+- Fixed a bug which caused car explosions to break welds on nearby objects.
