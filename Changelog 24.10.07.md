@@ -1,7 +1,6 @@
-# :bookmark_tabs:  Changelog 10/07/2024 - 10/XX/2024
+# :bookmark_tabs:  Changelog 10/07/2024 - 10/23/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
 While working on the survival update, we've noticed some rather impactful bugs and lacking features.
