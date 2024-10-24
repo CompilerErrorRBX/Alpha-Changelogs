@@ -48,4 +48,5 @@ ________
 - Fixed a bug which caused vehicles to be silent sometimes.
 - Fixed a bug which caused car explosions to break welds on nearby objects.
 - Fixed a bug which caused weird behaviors with cars upon entering and exiting.
+- Fixed a bug which caused players to appear to rotate when they were using alt-look.
 - Fixed a bug which allowed players to jump out of passsenger seats in cars.
