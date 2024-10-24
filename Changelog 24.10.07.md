@@ -34,6 +34,8 @@ ________
 
 ### :exclamation: `Change` Buffed basic shoes. (non `Sneakers` and `Boots`)
 - Increases move speed by 2.5%
+
+### :exclamation: `Change` Wearing a backpack applies additional footstep sounds.
 ________
 
 ## :bug: Bugfixes
