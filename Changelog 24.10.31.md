@@ -18,6 +18,28 @@ ________
 
 ## :gun: New Items
 
+### Grim Reaper Bundle
+- Military Helmet Skin
+- Military Vest Skin
+- Ski Mask Skin
+- Duffle Bag Skin
+- M40A1 Skin
+- M4A1 Skin
+- Revolver Skin
+
+### Halloween Event Cosmetics:
+- Bones AKM
+- Bones Desert Eagle
+- Bones M249
+- Bones UZI
+- Candy Corn Desert Eagle
+- Candy Corn MP5
+- Candy Corn P226
+- Candy Corn Takedown
+- Cotton Candy Double Barrel
+- Cotton Candy Desert Eagle
+- Cotton Candy P226
+
 ### Halloween Coin
 - Obtainable from Jack-O-Lanterns
 - Mysterious coin... Maybe this goes somewhere!
