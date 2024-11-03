@@ -6,6 +6,7 @@
 Happy Halloween! We hope this update finds you well.
 For the next two weeks go check out the Insane Asylum near the power plant!
 Inside there is a special event that can be used to unlock unique limited edition skins!
+Be careful! You only keep the skins if you make it out alive!
 ________
 
 ## :loudspeaker: Features and Improvements
