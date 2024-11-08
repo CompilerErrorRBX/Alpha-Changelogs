@@ -1,41 +1,20 @@
-# :bookmark_tabs:  Changelog 07/11/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 07/11/2024 - 08/11/2024
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
+Just a small update this week. We have a lot of work in flight that we should be pushing out soon, but this update
+Introduces the Jack O' Lantern helmet skin, and a few bug fixes.
 
 ________
 
-## :gun: New Items
+## :gun: New Skins
 
-### ITEM
-- DETAILS
-
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
-
-________
-
-## :loudspeaker: Features and Improvements
-
-
-### :white_check_mark: `Feature` FEATURE
-
-### :arrow_up_small: `Improvement` Performance Improvements
-
-
-________
-
-## :balance_scale: Changes
-
-### :exclamation: `Change` CHANGE
+### Military Helmet Skin
+- Jack O' Lantern helmet (Unlocked on equip)
+> Very rare. Best of luck unlocking it :)
 
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which allowed players to pass through the ceiling in one of the buildings at the prison.
