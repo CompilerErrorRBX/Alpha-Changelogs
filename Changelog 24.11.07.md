@@ -12,7 +12,7 @@ ________
 
 ### Military Helmet Skin
 - Jack O' Lantern helmet (Unlocked on equip)
-- Automatically unlocked for players who found the pumpkin helmet in Quarantine-Z (Anyone with the [Pumpkin Event](https://www.roblox.com/badges/2124617828/Pumpkin-Event))
+- Automatically unlocked for players who found the pumpkin helmet in Quarantine-Z (Anyone with the [Pumpkin Event](https://www.roblox.com/badges/2124617828/Pumpkin-Event) badge)
 > Very rare. Best of luck unlocking it :)
 
 ________
