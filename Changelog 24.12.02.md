@@ -18,3 +18,4 @@ ________
 ### :exclamation: `Change` Made medium tier weapons more rare
 ### :exclamation: `Change` Made shotguns more rare
 ### :exclamation: `Change` Increased emptiness percentage of weapon spawns in houses
+### :exclamation: `Change` Reduced spawn rate of NVG tier 2 and 3
