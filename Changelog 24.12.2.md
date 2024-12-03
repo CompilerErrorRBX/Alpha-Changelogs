@@ -37,4 +37,7 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which made climbing stairs very difficult sometimes, especially at higher framerates.
+- Fixed a bug which prevented players from jumping to detatch from a ladder they were climbing.
+- Fixed a bug which made players slide up or down ladders slowly sometimes.
+- Fixed a bug which prevented vehicles from taking damage while their engine wasn't on.
