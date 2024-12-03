@@ -41,3 +41,4 @@ ________
 - Fixed a bug which prevented players from jumping to detatch from a ladder they were climbing.
 - Fixed a bug which made players slide up or down ladders slowly sometimes.
 - Fixed a bug which prevented vehicles from taking damage while their engine wasn't on.
+- Fixed a bug where players did not exit ladders when reaching the floor.
