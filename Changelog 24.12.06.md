@@ -23,8 +23,10 @@ ________
 
 ## :loudspeaker: Features and Improvements
 
-
-### :white_check_mark: `Feature` FEATURE
+### :white_check_mark: `Feature` Christmas Event
+- Santa's sleigh falls from the sky and crashlands.
+- Santa is very upset. He and his elves want to kill everyone they see.
+- Presents can be obtained from Santa and his elves.
 
 ### :arrow_up_small: `Improvement` IMPROVEMENT
 
