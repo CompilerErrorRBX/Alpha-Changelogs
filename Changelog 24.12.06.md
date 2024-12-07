@@ -4,7 +4,7 @@
 <!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
-
+Merry Christmas! Snow has befallen the world of Aftermath! Gear up and take on Santa and his Elves! This month we have released a few fixes which should address some of the most pressing issues in the game. We hope you enjoy and have fun!
 ________
 
 ## :gun: New Items
