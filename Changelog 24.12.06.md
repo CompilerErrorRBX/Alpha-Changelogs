@@ -55,6 +55,8 @@ ________
 
 ### :exclamation: `Change` Increased spawn-protection fall damage. This should aleviate fall damage when spawning.
 
+### :exclamation: `Change` Decreased the rate at which weapons spawn with supressors and underbarrel attachments
+
 ________
 
 ## :bug: Bugfixes
