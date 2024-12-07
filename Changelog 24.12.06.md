@@ -1,4 +1,4 @@
-# :bookmark_tabs:  Changelog 12/06/2024 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 12/03/2024 - xx/xx/xxxx
 
 ## :red_circle: Status `Unreleased`
 <!-- ## :green_circle: Status `Released` -->
@@ -9,15 +9,24 @@ ________
 
 ## :gun: New Items
 
-### ITEM
-- DETAILS
+### G36k
+- .223 Assault Rifle
+  
+### TEC-9
+- 9mm Side Arm
 
-________
-
-## :thread: New Crafting Recipes
-
-### RECIPE
-- DETAILS
+### SKINS
+- G36k Stocking Gift Wrap
+- TEC-9 Stocking Gift Wrap
+- M9 Stocking Gift Wrap
+- Glock Red Gift Wrap
+- Mossberg Red Gift Wrap
+- UMP45 Red Gift Wrap
+- MK4 Green Gift Wrap
+- MP5 Green Gift Wrap
+- SPAS-12 Green Gift Wrap
+- M40A1 Plaid Gift Wrap
+- P226 Plaid Gift Wrap
 
 ________
 
@@ -25,8 +34,8 @@ ________
 
 ### :white_check_mark: `Feature` Christmas Event
 - Santa's sleigh falls from the sky and crashlands.
-- Santa is very upset. He and his elves want to kill everyone they see.
-- Presents can be obtained from Santa and his elves.
+- He and his elves will defend their presents at all costs!
+- Players can collect presents from Santa and his elves, but be ready to "unwrap" a fight before claiming your holiday loot!
 
 ### :arrow_up_small: `Improvement` IMPROVEMENT
 
@@ -34,7 +43,7 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Increased spawn-protection fall damage. This should aleviate fall damage when spawning.
 
 ________
 
@@ -43,3 +52,4 @@ ________
 - Fixed a bug which prevented NPCs from walking through opened doors.
 - Fixed a bug which made NPCs shoot very inaccurately.
 - Fixed a bug where players could not exit a car.
+- Fixed a bug where slow-moving projectiles could not damage players in certain circumstances
