@@ -42,3 +42,4 @@ ________
 - Fixed a bug which allowed NPCs to see through opened doors.
 - Fixed a bug which prevented NPCs from walking through opened doors.
 - Fixed a bug which made NPCs shoot very inaccurately.
+- Fixed a bug where players could not exit a car.
