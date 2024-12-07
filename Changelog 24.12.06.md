@@ -59,6 +59,8 @@ ________
 
 ### :exclamation: `Change` Reduced volume of backpack footstep sound
 
+### :exclamation: `Change` Increased audible distance of far explosion sound
+
 ________
 
 ## :bug: Bugfixes
