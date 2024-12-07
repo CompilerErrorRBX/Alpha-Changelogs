@@ -15,7 +15,17 @@ ________
 ### TEC-9
 - 9mm Side Arm
 
-### SKINS
+## Santa Bundle
+- Santa's Toy Sack (Duffle Skin)
+- Santa's Helmet (Tier2 Military Helmet Skin)
+- Santa's Beard (Mask Skin)
+- Santa's Pants (Tier3 Pants Skin)
+- Santa's Jacket (Tier3 Shirt Skin)
+- Candy Cane Crowbar
+- Candy Cane MK47
+- Festive Desert Eagle
+
+### FREE SKINS
 - G36k Stocking Gift Wrap
 - TEC-9 Stocking Gift Wrap
 - M9 Stocking Gift Wrap
@@ -37,7 +47,7 @@ ________
 - He and his elves will defend their presents at all costs!
 - Players can collect presents from Santa and his elves, but be ready to "unwrap" a fight before claiming your holiday loot!
 
-### :arrow_up_small: `Improvement` IMPROVEMENT
+### :arrow_up_small: `Improvement` Improved NPC shooting mechanics
 
 ________
 
