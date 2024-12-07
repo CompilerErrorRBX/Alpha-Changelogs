@@ -7,6 +7,17 @@
 Merry Christmas! Snow has befallen the world of Aftermath! Gear up and take on Santa and his Elves! This month we have released a few fixes which should address some of the most pressing issues in the game. We hope you enjoy and have fun!
 ________
 
+## :loudspeaker: Features and Improvements
+
+### :white_check_mark: `Feature` Christmas Event
+- Santa's sleigh falls from the sky and crashlands.
+- He and his elves will defend their presents at all costs!
+- Players can collect presents from Santa and his elves, but be ready to "unwrap" a fight before claiming your holiday loot!
+
+### :arrow_up_small: `Improvement` Improved NPC shooting mechanics
+
+________
+
 ## :gun: New Items
 
 ### G36k
@@ -37,17 +48,6 @@ ________
 - SPAS-12 Green Gift Wrap
 - M40A1 Plaid Gift Wrap
 - P226 Plaid Gift Wrap
-
-________
-
-## :loudspeaker: Features and Improvements
-
-### :white_check_mark: `Feature` Christmas Event
-- Santa's sleigh falls from the sky and crashlands.
-- He and his elves will defend their presents at all costs!
-- Players can collect presents from Santa and his elves, but be ready to "unwrap" a fight before claiming your holiday loot!
-
-### :arrow_up_small: `Improvement` Improved NPC shooting mechanics
 
 ________
 
