@@ -39,4 +39,6 @@ ________
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which allowed NPCs to see through opened doors.
+- Fixed a bug which prevented NPCs from walking through opened doors.
+- Fixed a bug which made NPCs shoot very inaccurately.
