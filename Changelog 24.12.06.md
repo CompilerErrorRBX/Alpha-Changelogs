@@ -53,9 +53,11 @@ ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` Increased spawn-protection fall damage. This should aleviate fall damage when spawning.
+### :exclamation: `Change` Increased spawn-protection fall damage. This should aleviate fall damage when spawning
 
 ### :exclamation: `Change` Decreased the rate at which weapons spawn with supressors and underbarrel attachments
+
+### :exclamation: `Change` Reduced volume of backpack footstep sound
 
 ________
 
