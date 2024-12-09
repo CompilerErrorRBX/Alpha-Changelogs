@@ -68,5 +68,5 @@ ________
 - Fixed a bug which prevented NPCs from walking through opened doors.
 - Fixed a bug which caused NPCs to not correctly enter in to death state when killed.
 - Fixed a bug which made NPCs shoot very inaccurately.
-- Fixed a bug where players could not exit a car.
 - Fixed a bug where slow-moving projectiles could not damage players in certain circumstances
+- Potentially fixed a bug where players could not exit a car.
