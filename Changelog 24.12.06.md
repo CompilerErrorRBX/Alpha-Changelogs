@@ -61,6 +61,8 @@ ________
 
 ### :exclamation: `Change` Increased audible distance of far explosion sound
 
+### :exclamation: `Change` Previously purchased skin bundles now display as "Purchased"
+
 ________
 
 ## :bug: Bugfixes
