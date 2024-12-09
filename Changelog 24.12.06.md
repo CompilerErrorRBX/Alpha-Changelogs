@@ -79,4 +79,6 @@ ________
 - Fixed a bug which caused NPCs to not correctly enter in to death state when killed.
 - Fixed a bug which made NPCs shoot very inaccurately.
 - Fixed a bug where slow-moving projectiles could not damage players in certain circumstances
+- Fixed a bug where health drain/gain would not properly display
+- Fixed a bug where menu buttons in the skin apply UI were incorrectly positioned
 - Potentially fixed a bug where players could not exit a car.
