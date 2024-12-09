@@ -25,9 +25,11 @@ ________
 
 ### G36k
 - .223 Assault Rifle
+- Tier3 Weapon Spawn
   
 ### TEC-9
 - 9mm Side Arm
+- Tier3 Weapon Spawn
 
 ### Santa Bundle
 - Santa's Toy Sack (Duffle Skin)
