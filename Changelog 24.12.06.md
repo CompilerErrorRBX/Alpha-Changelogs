@@ -12,6 +12,8 @@ ________
 - Santa's sleigh falls from the sky and crashlands.
 - He and his elves will defend their presents at all costs!
 - Players can collect presents from Santa and his elves, but be ready to "unwrap" a fight before claiming your holiday loot!
+- Minimum of 20 players required in the server to play.
+- Santa respawns every 30 minutes.
 
 ### :arrow_up_small: `Improvement` Improved NPC shooting mechanics
 
