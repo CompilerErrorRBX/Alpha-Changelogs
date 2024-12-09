@@ -20,6 +20,9 @@ ________
 
 ## :gun: New Items
 
+### Smoke Grenade
+- Tier3 Equipment Item Spawn
+
 ### G36k
 - .223 Assault Rifle
   
