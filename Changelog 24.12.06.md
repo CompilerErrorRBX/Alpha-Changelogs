@@ -48,6 +48,7 @@ ________
 - SPAS-12 Green Gift Wrap
 - M40A1 Plaid Gift Wrap
 - P226 Plaid Gift Wrap
+- Snowman Helmet (Tier2 Military Helmet Skin)
 
 ________
 
@@ -62,6 +63,8 @@ ________
 ### :exclamation: `Change` Increased audible distance of far explosion sound
 
 ### :exclamation: `Change` Previously purchased skin bundles now display as "Purchased"
+
+### :exclamation: `Change` Decreased loot buff in full servers. From 34% buff to 20% buff
 
 ________
 
