@@ -1,7 +1,6 @@
 # :bookmark_tabs:  Changelog 04/09/24 - 04/13/2024
 
 ## :green_circle: Status `Released`
-<!-- ## :green_circle: Status `Released` -->
 
 ## :speech_balloon: Patch Notes
 
