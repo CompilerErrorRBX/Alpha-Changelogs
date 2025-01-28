@@ -22,7 +22,8 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` FEATURE
+### ✅ `Feature` Added `Weight` stat to inventory UI
+- Displays the player's current carry weight.
 
 ### 🔼 `Improvement` Improvement
 
