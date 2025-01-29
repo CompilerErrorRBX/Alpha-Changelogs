@@ -25,7 +25,10 @@ ________
 ### ✅ `Feature` Added `Weight` stat to inventory UI
 - Displays the player's current carry weight.
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` When crafting equipment items, they are now automatically equipped.
+> This follows the same set of rules as picking up items. For example, if you craft a backpack
+> and this backpack has more space than one you're currently using, it will equip the new backpack.
+> Otherwise it will be placed in your inventory.
 
 ________
 
