@@ -36,7 +36,8 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Bug that was fixed
+- Fixed a bug which caused quick craft recipes to save incorrectly.
+- Fixed a bug which showed the duffle bag, and other items as being craftable when they are not.
 
 ________
 
