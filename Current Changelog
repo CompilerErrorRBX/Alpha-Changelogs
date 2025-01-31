@@ -49,6 +49,7 @@ ________
 - Fixed a bug which caused quick craft recipes to save incorrectly.
 - Fixed a bug which showed the duffle bag, and other items as being craftable when they are not.
 - Fixed a bug where PS5 players with Crossplay disabled were not served the correct server list.
+- Fixed a visual bug where the altyn mask did not display on the altyn helmet while equipped.
 
 ________
 
