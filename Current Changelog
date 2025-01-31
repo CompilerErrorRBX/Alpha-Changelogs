@@ -28,7 +28,7 @@ ________
 ### 🔼 `Improvement` [QOL] When crafting equipment items, they are now automatically equipped.
 > This follows the same set of rules as picking up items. For example, if you craft a backpack
 > and this backpack has more space than one you're currently using, it will equip the new backpack.
-> Otherwise it will be placed in your inventory.
+> Otherwise it will be placed in your inventory or dropped if there is no space.
 
 ### 🔼 `Improvement` [QOL] When picking up another inventory item (backpack, shirt, pants, etc) items from your inventory are now kept in place of items in the new inventory.
 > Before this change, when picking up a full backpack from a corpse, your items in your backpack would be dropped on the ground in favor of the items in the corpse backpack.
