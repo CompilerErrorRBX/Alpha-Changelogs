@@ -30,7 +30,7 @@ ________
 > and this backpack has more space than one you're currently using, it will equip the new backpack.
 > Otherwise it will be placed in your inventory or dropped if there is no space.
 
-### 🔼 `Improvement` [QOL] When picking up another inventory item your existing items are preferred.
+### 🔼 `Improvement` [QOL] When picking up another inventory your existing items are preferred.
 > Before this change, when picking up a full backpack from a corpse, your items in your backpack would be dropped on the ground in favor of the items in the corpse backpack.
 > This is now flipped, so your items will be moved into the corpse backpack and any items that don't fit anywhere in your inventory will be dropped on the ground.
 
