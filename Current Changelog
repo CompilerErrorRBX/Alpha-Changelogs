@@ -37,6 +37,19 @@ ________
 > Before this change, when picking up a full backpack from a corpse, your items in your backpack would be dropped on the ground in favor of the items in the corpse backpack.
 > This is now flipped, so your items will be moved into the corpse backpack and any items that don't fit anywhere in your inventory will be dropped on the ground.
 
+### 🔼 `Improvement` [QOL] Reworked keybind system
+> Addresses several limitations of the old system, like keybinds only being bindable to a single control, no alt bindings,
+> inability to fire a keybind in certain cases where UI takes priority, inability to set the activation style of a keybind.
+> To address another issue that's been around for a few weeks where there remains some players with corrupt keybinds, we're resetting all player keybinds
+> to default to fix that and to set up for the new system. We apologize for the inconvenience here, but we do feel the added control is worth it.
+- Adds support for multi-key bindings where players can assign as many keys as they want to a keybind to perform the action.
+- Adds support for activation styles, such as `Press`, `Release`, `Toggle`, `Hold`. i.e. Sprint could be changed from `Toggle` to `Hold`.
+- Adds better support for keybind prioritization, where the `ContextActionService` lacks. (ex. Console players would crouch while pressing B/O while their inventory was open)
+- Reworked default console keybinds to flow a bit better.
+
+### 🔼 `Improvement` [QOL] Players now try to stand or crouch when attempting to sprint while prone.
+> Previously, when sprinting while prone, the character would simply "sprint" while in the prone pose.
+
 ________
 
 ## ⚖️ Changes
@@ -55,6 +68,7 @@ ________
 - Fixed a bug which showed the duffle bag, and other items as being craftable when they are not.
 - Fixed a bug where PS5 players with Crossplay disabled were not served the correct server list.
 - Fixed a visual bug where the altyn mask did not display on the altyn helmet while equipped.
+- Fixed a bug where players could "sprint" while prone.
 
 ________
 
