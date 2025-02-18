@@ -36,6 +36,7 @@ ________
 ### 🔼 `Improvement` [QOL] When picking up another inventory your existing items are preferred.
 > Before this change, when picking up a full backpack from a corpse, your items in your backpack would be dropped on the ground in favor of the items in the corpse backpack.
 > This is now flipped, so your items will be moved into the corpse backpack and any items that don't fit anywhere in your inventory will be dropped on the ground.
+- Attempts to maintain item previous order, if possible.
 
 ### 🔼 `Improvement` [QOL] Reworked keybind system
 > Addresses several limitations of the old system, like keybinds only being bindable to a single control, no alt bindings,
@@ -49,6 +50,12 @@ ________
 
 ### 🔼 `Improvement` [QOL] Players now try to stand or crouch when attempting to sprint while prone.
 > Previously, when sprinting while prone, the character would simply "sprint" while in the prone pose.
+
+### 🔼 `Improvement` [Performance/QOL] Reworked Interaction System
+- [Performance] Improved performance of interaction system in large item clusters. Thousands of items should be unnoticable now.
+- [QOL] Interactions now utilize only one keybind.
+- [QOL] Timed interactions are now toggled instead of held. (Click `E` to start and `E` again to cancel)
+- [QOL] Holding `E` will open a radial menu for additional interactions if more exist. (i.e. Lock Door, Kick Door, etc.)
 
 ________
 
