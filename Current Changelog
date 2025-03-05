@@ -77,6 +77,7 @@ ________
 - Fixed a bug which made console players crouch when opening and closing the item context menu.
 - Fixed a visual bug where the altyn mask did not display on the altyn helmet while equipped.
 - Fixed a bug where players could "sprint" while prone.
+- Fixed a typo in the tier 3 shirt item descriptions.
 
 ________
 
