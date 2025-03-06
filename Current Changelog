@@ -78,6 +78,7 @@ ________
 - Fixed a visual bug where the altyn mask did not display on the altyn helmet while equipped.
 - Fixed a bug where players could "sprint" while prone.
 - Fixed a typo in the tier 3 shirt item descriptions.
+- Fixed a long standing bug where interactions would fail to complete on containers sometimes.
 
 ________
 
