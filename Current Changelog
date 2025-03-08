@@ -57,6 +57,11 @@ ________
 - [QOL] Timed interactions are now toggled instead of held. (Click `E` to start and `E` again to cancel)
 - [QOL] Holding `E` will open a radial menu for additional interactions if more exist. (i.e. Lock Door, Kick Door, etc.)
 
+### 🔼 `Improvement` Various Optimizations
+- Improved speed of player character loading by xx%.
+- Reduced graphical triangle counts by up to 97% in many areas of the map.
+- Removed a badly performing Roblox script that was inserted when a player joined.
+
 ________
 
 ## ⚖️ Changes
