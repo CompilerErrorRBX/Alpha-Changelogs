@@ -58,7 +58,7 @@ ________
 - [QOL] Holding `E` will open a radial menu for additional interactions if more exist. (i.e. Lock Door, Kick Door, etc.)
 
 ### 🔼 `Improvement` Various Optimizations
-- Improved speed of player character loading by xx%.
+- Improved speed of player character loading by xx%. - TODO: COLLECT DATA FOR THIS.
 - Reduced graphical triangle counts by up to 97% in many areas of the map.
 - Removed a badly performing Roblox script that was inserted when a player joined.
 
@@ -66,8 +66,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
-- Increased weapon spawns in residential areas by 10%.
+### ❗ `Change` Bow Changes
 - Doubled Accuracy of Makeshift Bow.
 - Doubled Accuracy of Recurve Bow.
 - Reduced volume of all bows.
@@ -76,6 +75,7 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- Fixed a bug where certain residential spawns did not spawn weapons (this should substantially increase weapon spawn rates in houses)
 - Fixed a bug which caused quick craft recipes to save incorrectly.
 - Fixed a bug which showed the duffle bag, and other items as being craftable when they are not.
 - Fixed a bug where PS5 players with Crossplay disabled were not served the correct server list.
@@ -84,6 +84,7 @@ ________
 - Fixed a bug where players could "sprint" while prone.
 - Fixed a typo in the tier 3 shirt item descriptions.
 - Fixed a long standing bug where interactions would fail to complete on containers sometimes.
+- Fixed a major bug which caused many players keybinds to unbind entirely, or rebind to a random control.
 
 ________
 
