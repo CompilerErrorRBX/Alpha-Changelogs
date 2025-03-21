@@ -111,7 +111,7 @@
 - **Regular Patches**:
   - 🩹 Plan for quick patches to address balance issues, bugs, and unintended consequences.
 
-## 📅 Timeline
+## Timeline
 *(This is a completely arbitrary timeline and means nothing, this is a work in progress)*
 
 1. **Week 1-2**: Plan and Design
