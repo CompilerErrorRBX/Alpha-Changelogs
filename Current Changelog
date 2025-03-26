@@ -48,6 +48,10 @@ ________
 - Adds better support for keybind prioritization, where the `ContextActionService` lacks. (ex. Console players would crouch while pressing B/O while their inventory was open)
 - Reworked default console keybinds to flow a bit better.
 
+### 🔼 `Improvement` [QOL] Reworked Settings UI
+> Utilizes the new keybind system with support for combo keybinds.
+- Trying out a new layout for UIs in the game, which I think will be much smoother to use.
+
 ### 🔼 `Improvement` [QOL] Players now try to stand or crouch when attempting to sprint while prone.
 > Previously, when sprinting while prone, the character would simply "sprint" while in the prone pose.
 
@@ -61,6 +65,7 @@ ________
 - Improved speed of player character loading by xx%. - TODO: COLLECT DATA FOR THIS.
 - Reduced graphical triangle counts by up to 97% in many areas of the map.
 - Removed a badly performing Roblox script that was inserted when a player joined.
+- Improved speed of algorithm which finds items within item render distance by 30%
 
 ________
 
@@ -85,6 +90,7 @@ ________
 - Fixed a typo in the tier 3 shirt item descriptions.
 - Fixed a long standing bug where interactions would fail to complete on containers sometimes.
 - Fixed a major bug which caused many players keybinds to unbind entirely, or rebind to a random control.
+- Fixed a major bug where bleeding, leg break, and screen punch effects were applied twice when a player was shot.
 
 ________
 
