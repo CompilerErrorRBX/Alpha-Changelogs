@@ -16,17 +16,11 @@ ________
 
 ________
 
-## 🗺️ Map Changes
-
-### Area Name
-- Details
-
-________
-
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Added `Weight` stat to inventory UI
-- Displays the player's current carry weight.
+### ✅ `Feature` Readded ADS while in third person.
+
+### ✅ `Feature` Added First Person Only servers (tentative, might not be ready for this update)
 
 ### 🔼 `Improvement` [QOL] When crafting equipment items, they are now automatically equipped.
 > This follows the same set of rules as picking up items. For example, if you craft a backpack
@@ -50,7 +44,7 @@ ________
 
 ### 🔼 `Improvement` [QOL] Reworked Settings UI
 > Utilizes the new keybind system with support for combo keybinds.
-- Trying out a new layout for UIs in the game, which I think will be much smoother to use.
+- Trying out a new layout for UIs in the game, which we think will be much smoother to use.
 
 ### 🔼 `Improvement` [QOL] Players now try to stand or crouch when attempting to sprint while prone.
 > Previously, when sprinting while prone, the character would simply "sprint" while in the prone pose.
@@ -61,11 +55,14 @@ ________
 - [QOL] Timed interactions are now toggled instead of held. (Click `E` to start and `E` again to cancel)
 - [QOL] Holding `E` will open a radial menu for additional interactions if more exist. (i.e. Lock Door, Kick Door, etc.)
 
-### 🔼 `Improvement` Various Optimizations
-- Improved speed of player character loading by xx%. - TODO: COLLECT DATA FOR THIS.
+### 🔼 `Improvement` Various Performance Optimizations
+- Improved performance of character movement and collisions by ~15%.
+- Improved performance of all player animations.
+- Improved speed of player character loading by ~80%.
+- Improved speed of algorithm which finds items within item render distance by ~30%.
+- Improved several building models to optimize occlusion culling. Yields ~75% fewer draw calls and triangles on the optimized buildings.
 - Reduced graphical triangle counts by up to 97% in many areas of the map.
 - Removed a badly performing Roblox script that was inserted when a player joined.
-- Improved speed of algorithm which finds items within item render distance by 30%
 
 ________
 
@@ -78,6 +75,9 @@ ________
 - New animations/sounds for Crossbow
 
 ### ❗ `Change` Santa Bundle is no longer purchasable.
+
+### ❗ `Change` Moved inventory weight stat to the title in the inventory section of the inventory tab.
+> This was previously displayed as a stat near the other player stats.
 
 ________
 
