@@ -63,6 +63,7 @@ ________
 - Improved several building models to optimize occlusion culling. Yields ~75% fewer draw calls and triangles on the optimized buildings.
 - Reduced graphical triangle counts by up to 97% in many areas of the map.
 - Removed a badly performing Roblox script that was inserted when a player joined.
+- Items dropped on the ground in partial stacks will now combine with nearby similar item stacks on the ground.
 
 ________
 
