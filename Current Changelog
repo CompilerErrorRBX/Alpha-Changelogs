@@ -79,6 +79,8 @@ ________
 ### ❗ `Change` Moved inventory weight stat to the title in the inventory section of the inventory tab.
 > This was previously displayed as a stat near the other player stats.
 
+### ❗ `Change` Voice Chat now supports toggle and hold modes for its keybind.
+
 ________
 
 ## 🐛 Bugfixes
@@ -87,6 +89,7 @@ ________
 - Fixed a bug which showed the duffle bag, and other items as being craftable when they are not.
 - Fixed a bug where PS5 players with Crossplay disabled were not served the correct server list.
 - Fixed a bug which made console players crouch when opening and closing the item context menu.
+- Fixed a bug which caused items to spawn on zombies more frequently than intended (military zombie helmets/vests)
 - Fixed a visual bug where the altyn mask did not display on the altyn helmet while equipped.
 - Fixed a bug where players could "sprint" while prone.
 - Fixed a typo in the tier 3 shirt item descriptions.
