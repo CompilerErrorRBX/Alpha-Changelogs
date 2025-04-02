@@ -94,6 +94,7 @@ ________
 - Fixed a visual bug where the altyn mask did not display on the altyn helmet while equipped.
 - Fixed a bug where players could "sprint" while prone.
 - Fixed a typo in the tier 3 shirt item descriptions.
+- Fixed a bug which allowed rich text to be displayed in the chat.
 - Fixed a long standing bug where interactions would fail to complete on containers sometimes.
 - Fixed a major bug which caused many players keybinds to unbind entirely, or rebind to a random control.
 - Fixed a major bug where bleeding, leg break, and screen punch effects were applied twice when a player was shot.
