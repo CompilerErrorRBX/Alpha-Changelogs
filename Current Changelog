@@ -82,6 +82,15 @@ ________
 
 ### ❗ `Change` Voice Chat now supports toggle and hold modes for its keybind.
 
+### ❗ `Change` Residential Spawns
+- Increased weapon spawn rate
+- Increased food spawn rate
+- Increased scrap item spawn rate
+- Decreased clothing spawn rate
+
+### ❗ `Change` Reduced base damage on `Tec-9`
+- From 30 -> 19 (more closely tuned with other handguns)
+
 ________
 
 ## 🐛 Bugfixes
