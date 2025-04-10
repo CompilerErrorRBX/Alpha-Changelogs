@@ -46,6 +46,10 @@ ________
 > Utilizes the new keybind system with support for combo keybinds.
 - Trying out a new layout for UIs in the game, which we think will be much smoother to use.
 
+### 🔼 `Improvement` [QOL] Reworked Chat UI
+- Requirement from Roblox that the new TextChatService API is used.
+- Dropped support for emoji autocomplete (For now. Maybe we can revisit this later.)
+
 ### 🔼 `Improvement` [QOL] Players now try to stand or crouch when attempting to sprint while prone.
 > Previously, when sprinting while prone, the character would simply "sprint" while in the prone pose.
 
