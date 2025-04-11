@@ -51,7 +51,7 @@ ________
 - Trying out a new layout for UIs in the game, which we think will be much smoother to use.
 
 ### 🔼 `Improvement` [QOL] Reworked Chat UI
-- Requirement from Roblox that the new TextChatService API is used.
+- Requirement from Roblox that the new TextChatService API is used. See [Roblox Requirement](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100)
 - Dropped support for emoji autocomplete (For now. Maybe we can revisit this later.)
 
 ### 🔼 `Improvement` [QOL] Players now try to stand or crouch when attempting to sprint while prone.
@@ -72,6 +72,9 @@ ________
 - Reduced graphical triangle counts by up to 97% in many areas of the map.
 - Removed a badly performing Roblox script that was inserted when a player joined.
 - Items dropped on the ground in partial stacks will now combine with nearby similar item stacks on the ground.
+
+### 🔼 `Improvement` Improved tree collisions
+- Vehicles will no longer collide with tree branches.
 
 ________
 
