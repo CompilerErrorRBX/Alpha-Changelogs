@@ -76,6 +76,10 @@ ________
 ### 🔼 `Improvement` Improved tree collisions
 - Vehicles will no longer collide with tree branches.
 
+### 🔼 `Improvement` Cars will no longer freeze while in the air
+- Typically caused by an exploiter being kicked while trying to fly a car.
+- Cars should now fall all the way to the ground.
+
 ________
 
 ## ⚖️ Changes
