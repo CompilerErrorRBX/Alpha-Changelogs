@@ -26,6 +26,10 @@ ________
 
 ### ✅ `Feature` Added First Person Only servers (tentative, might not be ready for this update)
 
+### 🔼 `Improvement` Improved player animations
+- Reworked 3rd person animation system to allow for far more animations.
+- Added animations for eating, drinking, bandaging, etc (we'll add more as we make them).
+
 ### 🔼 `Improvement` [QOL] When crafting equipment items, they are now automatically equipped.
 > This follows the same set of rules as picking up items. For example, if you craft a backpack
 > and this backpack has more space than one you're currently using, it will equip the new backpack.
