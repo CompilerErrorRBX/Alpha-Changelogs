@@ -82,6 +82,7 @@ ________
 
 ### 🔼 `Improvement` Various small improvements
 - Improved first person view position in cars.
+-- Camera also more closely follows your head position when going up and down hills.
 
 ________
 
