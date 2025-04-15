@@ -120,6 +120,7 @@ ________
 - Fixed a typo in the tier 3 shirt item descriptions.
 - Fixed a bug which allowed rich text to be displayed in the chat.
 - Fixed a long standing bug where interactions would fail to complete on containers sometimes.
+- Fixed a long standing bug where gun sounds would occasionally be inaudible until rejoining in most cases. (Roblox can still fail to load the sounds)
 - Fixed a major bug which caused many players keybinds to unbind entirely, or rebind to a random control.
 - Fixed a major bug where bleeding, leg break, and screen punch effects were applied twice when a player was shot.
 
