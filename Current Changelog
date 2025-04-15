@@ -24,8 +24,6 @@ ________
 
 ### ✅ `Feature` Readded ADS while in third person.
 
-### ✅ `Feature` Added First Person Only servers (tentative, might not be ready for this update)
-
 ### 🔼 `Improvement` Improved player animations
 - Reworked 3rd person animation system to allow for far more animations.
 - Added animations for eating, drinking, bandaging, etc (we'll add more as we make them).
@@ -87,6 +85,7 @@ ________
 ### 🔼 `Improvement` Various small improvements
 - Improved first person view position in cars.
 -- Camera also more closely follows your head position when going up and down hills.
+- Added a voice chat status effect to display when a player is voice chatting.
 
 ________
 
