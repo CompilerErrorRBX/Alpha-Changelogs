@@ -28,16 +28,6 @@ ________
 - Reworked 3rd person animation system to allow for far more animations.
 - Added animations for eating, drinking, bandaging, etc (we'll add more as we make them).
 
-### 🔼 `Improvement` [QOL] When crafting equipment items, they are now automatically equipped.
-> This follows the same set of rules as picking up items. For example, if you craft a backpack
-> and this backpack has more space than one you're currently using, it will equip the new backpack.
-> Otherwise it will be placed in your inventory or dropped if there is no space.
-
-### 🔼 `Improvement` [QOL] When picking up another inventory your existing items are preferred.
-> Before this change, when picking up a full backpack from a corpse, your items in your backpack would be dropped on the ground in favor of the items in the corpse backpack.
-> This is now flipped, so your items will be moved into the corpse backpack and any items that don't fit anywhere in your inventory will be dropped on the ground.
-- Attempts to maintain item previous order, if possible.
-
 ### 🔼 `Improvement` [QOL] Reworked keybind system
 > Addresses several limitations of the old system, like keybinds only being bindable to a single control, no alt bindings,
 > inability to fire a keybind in certain cases where UI takes priority, inability to set the activation style of a keybind.
@@ -48,13 +38,23 @@ ________
 - Adds better support for keybind prioritization, where the `ContextActionService` lacks. (ex. Console players would crouch while pressing B/O while their inventory was open)
 - Reworked default console keybinds to flow a bit better.
 
+### 🔼 `Improvement` [QOL] Reworked Chat UI
+- Requirement from Roblox that the new TextChatService API is used. See [Roblox Requirement](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100)
+- Dropped support for emoji autocomplete (For now. Maybe we can revisit this later.)
+
 ### 🔼 `Improvement` [QOL] Reworked Settings UI
 > Utilizes the new keybind system with support for combo keybinds.
 - Trying out a new layout for UIs in the game, which we think will be much smoother to use.
 
-### 🔼 `Improvement` [QOL] Reworked Chat UI
-- Requirement from Roblox that the new TextChatService API is used. See [Roblox Requirement](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100)
-- Dropped support for emoji autocomplete (For now. Maybe we can revisit this later.)
+### 🔼 `Improvement` [QOL] When crafting equipment items, they are now automatically equipped.
+> This follows the same set of rules as picking up items. For example, if you craft a backpack
+> and this backpack has more space than one you're currently using, it will equip the new backpack.
+> Otherwise it will be placed in your inventory or dropped if there is no space.
+
+### 🔼 `Improvement` [QOL] When picking up another inventory your existing items are preferred.
+> Before this change, when picking up a full backpack from a corpse, your items in your backpack would be dropped on the ground in favor of the items in the corpse backpack.
+> This is now flipped, so your items will be moved into the corpse backpack and any items that don't fit anywhere in your inventory will be dropped on the ground.
+- Attempts to maintain item previous order, if possible.
 
 ### 🔼 `Improvement` [QOL] Players now try to stand or crouch when attempting to sprint while prone.
 > Previously, when sprinting while prone, the character would simply "sprint" while in the prone pose.
@@ -75,17 +75,17 @@ ________
 - Removed a badly performing Roblox script that was inserted when a player joined.
 - Items dropped on the ground in partial stacks will now combine with nearby similar item stacks on the ground.
 
-### 🔼 `Improvement` Improved tree collisions
+### 🔼 `Improvement` [QOL] Improved tree collisions
 - Vehicles will no longer collide with tree branches.
 
-### 🔼 `Improvement` Cars will no longer freeze while in the air
+### 🔼 `Improvement` [QOL] Cars will no longer freeze while in the air
 - Typically caused by an exploiter being kicked while trying to fly a car.
 - Cars should now fall all the way to the ground.
 
 ### 🔼 `Improvement` Various small improvements
-- Improved first person view position in cars.
+- [QOL] Improved first person view position in cars.
 -- Camera also more closely follows your head position when going up and down hills.
-- Added a voice chat status effect to display when a player is voice chatting.
+- [QOL] Added a voice chat status effect to display when a player is voice chatting.
 
 ________
 
