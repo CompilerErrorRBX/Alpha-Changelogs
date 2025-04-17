@@ -123,7 +123,8 @@ ________
 - Fixed a bug which made console players crouch when opening and closing the item context menu.
 - Fixed a bug which caused items to spawn on zombies more frequently than intended (military zombie helmets/vests).
 - Fixed a bug which caused zombies to eventually use up all available entity slots (now slots are reused when available).
-- Fixed a visual bug where the altyn mask did not display on the altyn helmet while equipped.
+- Fixed a visual bug where the `Makeshift SMG`'s optic attachment position was misplaced.
+- Fixed a visual bug where the `Altyn Mask`did not display on the altyn helmet while equipped.
 - Fixed a bug where players could "sprint" while prone.
 - Fixed a typo in the tier 3 shirt item descriptions.
 - Fixed a bug which allowed rich text to be displayed in the chat.
