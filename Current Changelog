@@ -133,8 +133,8 @@ ________
 - Fixed a long standing bug which caused zombies to become inanimate and sit idle.
 - Fixed a long standing bug where after dragging an item to another item on controller it would trigger a context action after swapping.
 
-- Fixed a **major** bug which caused many players keybinds to unbind entirely, or rebind to a random control.
-- Fixed a **major** bug where bleeding, leg break, and screen punch effects were applied twice when a player was shot.
+- Fixed a major bug which caused many players keybinds to unbind entirely, or rebind to a random control.
+- Fixed a major bug where bleeding, leg break, and screen punch effects were applied twice when a player was shot.
 
 ________
 
