@@ -128,6 +128,7 @@ ________
 - Fixed a bug where players could "sprint" while prone.
 - Fixed a typo in the tier 3 shirt item descriptions.
 - Fixed a bug which allowed rich text to be displayed in the chat.
+- Fixed a bug which allowed players to rejoin to bypass the respawn timer.
 - Fixed a long standing bug where interactions would fail to complete on containers sometimes.
 - Fixed a long standing bug where gun sounds would occasionally be inaudible until rejoining in most cases. (Roblox can still fail to load the sounds)
 - Fixed a long standing bug which caused zombies to become inanimate and sit idle.
