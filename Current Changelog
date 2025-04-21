@@ -125,6 +125,7 @@ ________
 - Fixed a bug which made it impossible to climb a ladder while prone.
 - Fixed a bug which caused items to spawn on zombies more frequently than intended (military zombie helmets/vests).
 - Fixed a bug which caused zombies to eventually use up all available entity slots (now slots are reused when available).
+- Fixed a bug where the `G36k`'s under barrel attachment was missing.
 - Fixed a visual bug where the `Makeshift SMG`'s optic attachment position was misplaced.
 - Fixed a visual bug where the `Altyn Mask`did not display on the altyn helmet while equipped.
 - Fixed a bug where players could "sprint" while prone.
@@ -132,6 +133,7 @@ ________
 - Fixed a bug which allowed rich text to be displayed in the chat.
 - Fixed a long standing bug where interactions would fail to complete on containers sometimes.
 - Fixed a long standing bug where gun sounds would occasionally be inaudible until rejoining in most cases. (Roblox can still fail to load the sounds)
+- Fixed a long stanging bug which caused zombies to become inanimate and sit idle.
 - Fixed a major bug which caused many players keybinds to unbind entirely, or rebind to a random control.
 - Fixed a major bug where bleeding, leg break, and screen punch effects were applied twice when a player was shot.
 
