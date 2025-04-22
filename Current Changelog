@@ -1,6 +1,6 @@
-# 📑 Changelog 01/27/2025 - xx/xx/xxxx
+# 📑 Changelog 01/27/2025 - 04/22/2025
 
-## ⭕ Status `Unreleased`
+## 🟢 Status `Released`
 
 ## 💬 Patch Notes
 With this update we wanted to focus a bit on quality of life. Crafting weapons now auto equip, and swapping inventory-backed items now prioritize the inventory that was originally equipped.
@@ -14,6 +14,9 @@ ________
 ## 🌟 Crafting Recipes
 - Added crafting recipe for `Makeshift Smoke Grenade`
 - Disabled recipes for `Cooked Meat`, `Advanced Composite Fiber` and `Makeshift Water Filter` for now.
+
+## 🌟 Skin Bundles
+- Added Easter Skin bundle
 
 ________
 
@@ -136,8 +139,3 @@ ________
 
 - Fixed a **major** bug which caused many players keybinds to unbind entirely, or rebind to a random control.
 - Fixed a **major** bug where bleeding, leg break, and screen punch effects were applied twice when a player was shot.
-
-________
-
-## 🗒️ Additional Notes
-- Additional details
