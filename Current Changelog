@@ -21,6 +21,7 @@ ________
 - Fixed a bug where the MP-133 had a visible shotgun shell floating in the air.
 - Fixed a bug where throwable items went in the wrong direction.
 - Fixed a bug with the PKM orientation.
+- [CONTROLLER] Fixed a bug where after taking an item from a container and pressing B to close your interface, it would open the item context menu.
 - [CONTROLLER] Fixed a bug which prevented controller keybinds from loading.
 - [CONTROLLER] Fixed a bug which prevented controllers from using the radial menu in some cases (pinging, locking doors, etc).
 
