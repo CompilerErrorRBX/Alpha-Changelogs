@@ -26,3 +26,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- Fixed bug preventing players from meleeing other players
