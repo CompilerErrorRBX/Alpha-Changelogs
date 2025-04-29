@@ -27,3 +27,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed bug preventing players from meleeing other players
+- Fixed bug preventing players from alt looking while sprinting
