@@ -28,3 +28,4 @@ ________
 ## 🐛 Bugfixes
 - Fixed bug preventing players from meleeing other players
 - Fixed bug preventing players from alt looking while sprinting
+- Fixed bug causing third person action animations to get stuck (Eating/Drinking/Medical/etc)
