@@ -43,3 +43,5 @@ ________
 - Fixed bug causing third person action animations to get stuck (Eating/Drinking/Medical/etc)
 - Fixed G36k having incorrect red dot sight model
 - Fixed bug preventing players from looting lootbags
+- Fixed bug causing your selected weapon to change when you exit a ladder or vehicle
+- Fixed bug causing your inventory to be completely blank upon joining the game
