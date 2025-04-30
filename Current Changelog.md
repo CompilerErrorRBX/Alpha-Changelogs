@@ -12,6 +12,14 @@ ________
 
 ________
 
+## 🗺️ Map Changes
+
+### Radio Tower M.B
+- Medium tier military POI
+- More intense PVP location
+
+________
+
 ## 📢 Features and Improvements
 
 ### ✅ `Feature`
@@ -34,3 +42,4 @@ ________
 - Fixed bug preventing players from alt looking while sprinting
 - Fixed bug causing third person action animations to get stuck (Eating/Drinking/Medical/etc)
 - Fixed G36k having incorrect red dot sight model
+- Fixed bug preventing players from looting lootbags
