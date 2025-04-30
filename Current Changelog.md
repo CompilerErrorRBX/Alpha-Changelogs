@@ -1,6 +1,6 @@
-# 📑 Changelog 04/23/2025 - XX/XX/2025
+# 📑 Changelog 04/23/2025 - 04/30/2025
 
-## 🟢 Status `Unreleased`
+## 🟢 Status `Released`
 
 ## 💬 Patch Notes
 
@@ -16,14 +16,6 @@ ________
 ### Radio Tower M.B
 - Medium tier military POI
 - More intense PVP location
-
-________
-
-## 📢 Features and Improvements
-
-### ✅ `Feature`
-
-### 🔼 `Improvement` 
 
 ________
 
