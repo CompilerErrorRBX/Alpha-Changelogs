@@ -6,9 +6,8 @@
 
 ________
 
-## 🌟 Crafting Recipes
-
 ## 🌟 Skin Bundles
+- Temporarily listed Grim Reaper skin bundle for sale.
 
 ________
 
