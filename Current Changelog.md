@@ -44,3 +44,4 @@ ________
 - Fixed bug preventing players from looting lootbags
 - Fixed bug causing your selected weapon to change when you exit a ladder or vehicle
 - Fixed bug causing your inventory to be completely blank upon joining the game
+- Fixed bug causing some players to become invisible
