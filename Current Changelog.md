@@ -17,6 +17,11 @@ ________
 - Medium tier military POI
 - More intense PVP location
 
+### Paradise M.B
+- Medium tier military POI
+- High tier cache
+- Replaces old Paradise M.B
+
 ________
 
 ## ⚖️ Changes
