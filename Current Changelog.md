@@ -12,7 +12,7 @@ ________
 - Moved various buildings around to adjust line of sight.
 - New neighborhood where gun store used to be
 - Added small military outpost at west entrance
-- 
+  
 ________
 
 ## 🐛 Bugfixes
