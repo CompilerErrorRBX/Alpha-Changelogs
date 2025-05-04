@@ -1,6 +1,6 @@
-# 📑 Changelog 04/23/2025 - 05/01/2025
+# 📑 Changelog 05/01/2025 - 05/XX/2025
 
-## 🟢 Status `Released`
+## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
 
@@ -22,6 +22,9 @@ ________
 - High tier cache
 - Replaces old Paradise M.B
 
+### Paradise layout updates
+- Moved various buildings around to adjust line of sight.
+
 ________
 
 ## ⚖️ Changes
@@ -42,3 +45,5 @@ ________
 - Fixed bug causing your selected weapon to change when you exit a ladder or vehicle
 - Fixed bug causing your inventory to be completely blank upon joining the game
 - Fixed bug causing some players to become invisible
+- Fixed bug causing doors to be difficult to interact with
+- Fixed bug causing ladders to be difficult to interact with
