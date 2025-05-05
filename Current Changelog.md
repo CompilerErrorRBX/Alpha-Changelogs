@@ -1,4 +1,4 @@
-# 📑 Changelog 05/01/2025 - 05/04/2025
+# 📑 Changelog 05/01/2025 - 05/05/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -11,10 +11,17 @@ ________
 ### Paradise layout updates
 - Moved various buildings around to adjust line of sight.
 - New neighborhood where gun store used to be
+- New neighborhood near south entrance
 - Added small military outpost at west entrance
+
+### Redfield changes
+- Reworked Paradise M.B (Across from hospital)
+- Buffed loot in Hospital parking lot
+- Small changes to road layouts
   
 ________
 
 ## 🐛 Bugfixes
 - Fixed bug causing doors to be difficult to interact with
 - Fixed bug causing ladders to be difficult to interact with
+- Fixed bug causing footsteps to become silent while using an item
