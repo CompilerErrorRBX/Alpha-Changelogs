@@ -18,4 +18,6 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- Fixed a bug which caused ground items to render multiple times in some cases.
+- Fixed a bug where there was a cache miss on ground items, leading to unnecessarily generating a new model.
 - Fixed all the bugs in the game
