@@ -11,9 +11,10 @@ ________
 ### Almosta Town
 - Surrounded town with neighborhoods (Players can spawn here)
 - Expanded commercial areas
-- Added small industrial area
-- tall office buildings can now spawn tier1 weapons
-- tall office buildings spawn food items less frequently
+- Added small industrial area with 3 caches
+- Added back Ammu-Nation gun store
+- Tall office buildings can now spawn tier1 weapons
+- Tall office buildings spawn food items less frequently
   
 ________
 
