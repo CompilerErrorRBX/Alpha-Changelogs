@@ -60,7 +60,7 @@ ________
 - Tall office buildings can now spawn tier1 weapons
 - Tall office buildings spawn food items less frequently
 
-### Rosewood (New POI)
+### New Haven (New POI)
 - Large town near prison.
 - Work in progress, but very playble.
 
