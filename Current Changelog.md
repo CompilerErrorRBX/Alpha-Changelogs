@@ -8,23 +8,45 @@ ________
 
 ## 🔫 New Weapons
 
-### MK-18 Semi-Automatic 
+### MK14 EBR Semi-Automatic
 - .308 Sniper Rifle
 - Legendary Rarity
+- 32 Damage / 700 RPM
 
 ### M110k Semi-Automatic
 - .308 Sniper Rifle
 - Legendary Rarity
-
-### MK14 EBR Semi-Automatic
+- 35 Damage / 650 RPM
+  
+### MK-18 Semi-Automatic 
 - .308 Sniper Rifle
 - Legendary Rarity
+- 38 Damage / 620 RPM
 
 ________
 
 ## 🔫 Weapon Changes
 
+### AR-15
+- Buffed AR-15 Damage from 22 to 24
 
+### G36c
+- Nerfed G36c Damage from 24 to 23
+
+### M249
+- Buffed M249 Damage from 22 to 25
+- Buffed M249 RPM from 800 to 850
+
+### FAL
+- Nerfed Damage from 36 to 28
+- Buffed RPM from 700 to 750
+
+### SCAR
+- Nerfed Damage from 39 to 32
+- Buffed RPM from 650 to 670
+
+### SVD
+- Buffed Damage from 40 to 45
 
 ________
 
