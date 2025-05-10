@@ -27,6 +27,10 @@ ________
 
 ## 🔫 Weapon Changes
 
+### 8x Scope
+- Replaced model to fit guns with rails
+- Remington 700 keeps non rail scope
+
 ### AR-15
 - Buffed AR-15 Damage from 22 to 24
 
