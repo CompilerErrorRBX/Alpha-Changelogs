@@ -6,6 +6,28 @@
 
 ________
 
+## 🔫 New Weapons
+
+### MK-18 Semi-Automatic 
+- .308 Sniper Rifle
+- Legendary Rarity
+
+### M110k Semi-Automatic
+- .308 Sniper Rifle
+- Legendary Rarity
+
+### MK14 EBR Semi-Automatic
+- .308 Sniper Rifle
+- Legendary Rarity
+
+________
+
+## 🔫 Weapon Changes
+
+
+
+________
+
 ## 🗺️ Map Changes
 
 ### Almosta Town
