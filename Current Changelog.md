@@ -14,6 +14,7 @@ ________
 
 ### 🔼 `Improvement` Added `Cancel Item Action` Keybind
 - This keybind cancels any current item context action, i.e. using medkit, eating, drinking, etc.
+- Default is `Left Mouse Button` or `B`/`O` on controllers.
 
 ________
 
