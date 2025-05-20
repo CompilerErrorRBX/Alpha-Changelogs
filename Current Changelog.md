@@ -9,7 +9,7 @@ ________
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Helicopter Crash POI
-- Added random heli crash events every 25 minutes
+- Added random heli crash events every 20 - 40 minutes
 - Removed static heli crash location
 
 ### 🔼 `Improvement` Added `Cancel Item Action` Keybind
