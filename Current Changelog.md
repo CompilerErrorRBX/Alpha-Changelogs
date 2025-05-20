@@ -6,16 +6,18 @@
 
 ________
 
-## Features
+## 📢 Features and Improvements
 
-### Helicopter Crash POI
+### ✅ `Feature` Helicopter Crash POI
 - Added random heli crash events every 25 minutes
 - Removed static heli crash location
+
+### 🔼 `Improvement` Added `Cancel Item Action` Keybind
+- This keybind cancels any current item context action, i.e. using medkit, eating, drinking, etc.
 
 ________
 
 ## 🔫 Weapon Changes
-
 - Slightly increased recoil of M110K
 - Slightly increased recoil of MK18
 - Slightly increased rarity of MK18
