@@ -15,4 +15,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug which prevented the MK18 from spawning.
+- Fixed a bug which prevented the MK18 from spawning with ammo.
