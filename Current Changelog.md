@@ -14,7 +14,7 @@ ________
 
 ________
 
-## 🔫 Weapon Change
+## 🔫 Weapon Changes
 
 - Slightly increased recoil of M110K
 - Slightly increased recoil of MK18
