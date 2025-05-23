@@ -38,9 +38,14 @@ ________
 - Added a lot more small shrubbery
 - Removed some trees
 
+## :balance_scale: Changes
+
+### :exclamation: `Change` Improved effectiveness of all NVGs significantly.
+
 ________
 
 ## 🐛 Bugfixes
 - Fixed a bug which prevented the MK18 from spawning with ammo.
 - Fixed several collision issues on stairs in the Prison POI.
 - Fixed several collision issues in the main nuclear power plant building.
+- Fixed collision issues on the steps going into the small two story office building.
