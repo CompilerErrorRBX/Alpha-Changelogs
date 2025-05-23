@@ -46,6 +46,7 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug which prevented the MK18 from spawning with ammo.
+- Fixed a bug which caused players to occasionally take fall damage upon joining.
 - Fixed several collision issues on stairs in the Prison POI.
 - Fixed several collision issues in the main nuclear power plant building.
 - Fixed collision issues on the steps going into the small two story office building.
