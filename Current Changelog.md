@@ -60,8 +60,6 @@ ________
 
 ### :exclamation: `Change` Improved effectiveness of all NVGs significantly.
 
-### :exclamation: `Change` Increased firerate of `Makeshift Bow`
-
 ________
 
 ## 🐛 Bugfixes
