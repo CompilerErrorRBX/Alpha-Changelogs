@@ -8,9 +8,10 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Helicopter Crash POI
-- Added random heli crash events every 20 - 40 minutes
-- Removed static heli crash location
+### ✅ `Feature` Helicopter Event POI
+- Randomly a helicopter will fly over the map!
+- Shoot it down to get extra loot!
+- Removed static heli crash location.
 
 ### 🔼 `Improvement` Added `Cancel Item Action` Keybind
 - This keybind cancels any current item context action, i.e. using medkit, eating, drinking, etc.
@@ -31,7 +32,16 @@ ________
 ### Neighborhood / Spawn Location
 - Improved neighborhood east of New Haven
 
-### Airfield
+### Prison
+- Improved terrain around prison.
+- Added additional road leading to prison parking lot.
+- Buffed loot in warden's office.
+- Buffed medical loot (Cabinets now spawn the same as redfield hospital).
+- Buffed loot in basketball court.
+- Buffed food spawns in cafeteria.
+- Added loot spawns in some previously empty rooms.
+
+### Radio Tower
 - Changed the terrain around the military base
 - Changed the terrain around the back entrance
 - Changed the terrain around the side entrance
