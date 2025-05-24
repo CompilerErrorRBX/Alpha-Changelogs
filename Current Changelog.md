@@ -16,6 +16,14 @@ ________
 ### 🔼 `Improvement` Added `Cancel Item Action` Keybind
 - This keybind cancels any current item context action, i.e. using medkit, eating, drinking, etc.
 - Default is `Left Mouse Button` or `B`/`O` on controllers.
+
+### 🔼 `Improvement` Updated Minimap.
+- Updated to new road layout.
+- Changed background terrain image.
+- Fixed misaligned roads.
+- Marked `Camp Ground` on the minimap.
+- Moved `Pine Hill` tag over to the neighborhood, south of the `Camp Ground`.
+- Changed `Radio Tower` to be red
   
 ________
 
