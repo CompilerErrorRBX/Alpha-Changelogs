@@ -38,6 +38,10 @@ ________
 - Slightly decreased rarity of MK14
 - Increased the actual fire rate on the bow and arrow.
 
+## 🔫 Item Changes
+- Increased `Gun Powder` yield on `.50 BMG` (from 5 -> 9)
+- Increased `Gun Powder` yield on `7.62x54mmR` (from 3 -> 5)
+
 ________
 
 ## 🗺️ Map Changes
