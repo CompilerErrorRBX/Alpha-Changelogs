@@ -13,6 +13,10 @@ ________
 - Shoot it down to get extra loot!
 - Removed static heli crash location.
 
+### ✅ `Feature` Exploiter Airdrops
+- When an exploiter is banned in a server, their loot is placed in an airdrop and dropped around the center of the map.
+- Airdrop takes 6 minutes to land.
+
 ### 🔼 `Improvement` Added `Cancel Item Action` Keybind
 - This keybind cancels any current item context action, i.e. using medkit, eating, drinking, etc.
 - Default is `Left Mouse Button` or `B`/`O` on controllers.
@@ -70,3 +74,4 @@ ________
 - Fixed several collision issues in the main nuclear power plant building.
 - Fixed collision issues on the steps going into the small two story office building.
 - Fixed a bug which allowed players to enter the bomb shelter without opening the hatch.
+- Fixed several holes in the terrain around New Haven
