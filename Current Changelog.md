@@ -32,6 +32,7 @@ ________
 - Slightly increased recoil of MK18
 - Slightly increased rarity of MK18
 - Slightly decreased rarity of MK14
+- Increased the actual fire rate on the bow and arrow.
 
 ________
 
