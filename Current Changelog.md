@@ -1,4 +1,4 @@
-# 📑 Changelog 05/12/2025 - 05/20/2025
+# 📑 Changelog 05/20/2025 - 05/XX/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -75,3 +75,4 @@ ________
 - Fixed collision issues on the steps going into the small two story office building.
 - Fixed a bug which allowed players to enter the bomb shelter without opening the hatch.
 - Fixed several holes in the terrain around New Haven
+- Fixed a bug where food items did not spawn on outdoor picnic tables.
