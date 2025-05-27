@@ -56,9 +56,9 @@ ________
 - Added a lot more small shrubbery
 - Removed some trees
 
-## :balance_scale: Changes
+## ⚖️ Changes
 
-### :exclamation: `Change` Improved effectiveness of all NVGs significantly.
+### ❗ `Change` Improved effectiveness of all NVGs significantly.
 
 ________
 
@@ -68,3 +68,4 @@ ________
 - Fixed several collision issues on stairs in the Prison POI.
 - Fixed several collision issues in the main nuclear power plant building.
 - Fixed collision issues on the steps going into the small two story office building.
+- Fixed a bug which allowed players to enter the bomb shelter without opening the hatch.
