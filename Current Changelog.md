@@ -39,8 +39,10 @@ ________
 - Increased the actual fire rate on the bow and arrow.
 
 ## 🔫 Item Changes
-- Increased `Gun Powder` yield on `.50 BMG` (from 5 -> 9)
-- Increased `Gun Powder` yield on `7.62x54mmR` (from 3 -> 5)
+- Increased `Gun Powder` yield on `.50 BMG` (from 5 -> 15)
+- Increased `Scrap Metal` yield on `.50 BMG` (from 3 -> 8)
+- Increased `Gun Powder` yield on `7.62x54mmR` (from 5 -> 7)
+- Increased `Scrap Metal` yield on `7.62x54mmR` (from 2 -> 5)
 
 ________
 
