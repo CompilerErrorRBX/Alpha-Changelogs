@@ -82,3 +82,4 @@ ________
 - Fixed a bug which allowed players to enter the bomb shelter without opening the hatch.
 - Fixed several holes in the terrain around New Haven
 - Fixed a bug where food items did not spawn on outdoor picnic tables.
+- [MINOR] Fixed a bug where some items wouldn't spawn in specific, instanced, scenarios (i.e. helicopter crash, chinese bunker)
