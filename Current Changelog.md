@@ -6,6 +6,27 @@
 
 ________
 
+## 🔫 New Weapons
+
+### Benelli M4
+- 12 Gauge Semi-Automatic Shotgun
+- Obtained in helicopter crashes
+
+## 🔫 Weapon Changes
+- Slightly increased recoil of M110K
+- Slightly increased recoil of MK18
+- Slightly increased rarity of MK18
+- Slightly decreased rarity of MK14
+- Increased the actual fire rate on the bow and arrow.
+
+## 🔫 Item Changes
+- Increased `Gun Powder` yield on `.50 BMG` (from 5 -> 15)
+- Increased `Scrap Metal` yield on `.50 BMG` (from 3 -> 8)
+- Increased `Gun Powder` yield on `7.62x54mmR` (from 5 -> 7)
+- Increased `Scrap Metal` yield on `7.62x54mmR` (from 2 -> 5)
+
+________
+
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Helicopter Event POI
@@ -28,21 +49,6 @@ ________
 - Marked `Camp Ground` on the minimap.
 - Moved `Pine Hill` tag over to the neighborhood, south of the `Camp Ground`.
 - Changed `Radio Tower` to be red
-  
-________
-
-## 🔫 Weapon Changes
-- Slightly increased recoil of M110K
-- Slightly increased recoil of MK18
-- Slightly increased rarity of MK18
-- Slightly decreased rarity of MK14
-- Increased the actual fire rate on the bow and arrow.
-
-## 🔫 Item Changes
-- Increased `Gun Powder` yield on `.50 BMG` (from 5 -> 15)
-- Increased `Scrap Metal` yield on `.50 BMG` (from 3 -> 8)
-- Increased `Gun Powder` yield on `7.62x54mmR` (from 5 -> 7)
-- Increased `Scrap Metal` yield on `7.62x54mmR` (from 2 -> 5)
 
 ________
 
