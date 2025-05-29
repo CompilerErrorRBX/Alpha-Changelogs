@@ -85,6 +85,7 @@ ________
 - Fixed several collision issues on stairs in the Prison POI.
 - Fixed several collision issues in the main nuclear power plant building.
 - Fixed collision issues on the steps going into the small two story office building.
+- Fixed a collision issue on some doors which prevented players from shooting through them.
 - Fixed a bug which allowed players to enter the bomb shelter without opening the hatch.
 - Fixed several holes in the terrain around New Haven
 - Fixed a bug where food items did not spawn on outdoor picnic tables.
