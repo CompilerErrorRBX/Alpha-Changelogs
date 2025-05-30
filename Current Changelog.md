@@ -8,7 +8,7 @@ ________
 
 ## 🔫 New Weapons
 
-### Benelli M4
+### Renelli M4
 - 12 Gauge Semi-Automatic Shotgun
 - Obtained in helicopter crashes
 
@@ -51,13 +51,19 @@ ________
 - Changed `Radio Tower` to be red
 
 ### 🔼 `Improvement` [Minor] Zombies no longer spawn in the air
-
 ________
 
 ## 🗺️ Map Changes
 
-### Neighborhood / Spawn Location
-- Improved neighborhood east of New Haven
+### New Haven Neighborhood
+- Improved existing neighborhood east of New Haven
+- Updated terrain
+- Added more spawn locations
+
+### Paradise Neighborhood
+- Improved existing neighborhood north of paradise.
+- Updated terrain.
+- Fixed road zfighting.
 
 ### Prison
 - Improved terrain around prison.
@@ -78,6 +84,8 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` Improved effectiveness of all NVGs significantly.
+
+### ❗ `Change` Staming breathing sounds are now audible to other players.
 
 ________
 
