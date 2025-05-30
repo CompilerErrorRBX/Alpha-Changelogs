@@ -93,7 +93,8 @@ ________
 
 ### ❗ `Change` Improved effectiveness of all NVGs significantly.
 
-### ❗ `Change` Staming breathing sounds are now audible to other players.
+### ❗ `Change` Stamina breathing sounds are now audible to other players.
+- Also added some new sounds for this.
 
 ________
 
