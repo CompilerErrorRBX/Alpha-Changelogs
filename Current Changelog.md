@@ -1,8 +1,12 @@
-# 📑 Changelog 05/20/2025 - 05/XX/2025
+# 📑 Changelog 05/20/2025 - 05/29/2025
 
 ## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
+Continuing to work on improving the little details that seem off, as well as fixing various frustrating bugs.
+
+Most notably, we added our first permanent event in the game. A Blackhawk will fly over the map occasionally carrying high value loot.
+If shot down, players can steal the loot from the crash. Such a loud event is likely to attract a lot of attention.
 
 ________
 
@@ -33,6 +37,7 @@ ________
 - Randomly a helicopter will fly over the map!
 - Shoot it down to get extra loot!
 - Removed static heli crash location.
+- Spawns more frequently in more full servers.
 
 ### ✅ `Feature` Exploiter Airdrops
 - When an exploiter is banned in a server, their loot is placed in an airdrop and dropped around the center of the map.
