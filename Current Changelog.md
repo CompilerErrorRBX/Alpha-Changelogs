@@ -50,7 +50,10 @@ ________
 - Moved `Pine Hill` tag over to the neighborhood, south of the `Camp Ground`.
 - Changed `Radio Tower` to be red
 
-### 🔼 `Improvement` [Minor] Zombies no longer spawn in the air
+### 🔼 `Improvement` Zombie Improvements
+- Zombies no longer spawn in the sky.
+- Zombies attempt to return to where they spawned.
+- Lone zombies will idle over time.
 ________
 
 ## 🗺️ Map Changes
