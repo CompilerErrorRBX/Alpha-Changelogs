@@ -50,6 +50,8 @@ ________
 - Moved `Pine Hill` tag over to the neighborhood, south of the `Camp Ground`.
 - Changed `Radio Tower` to be red
 
+### 🔼 `Improvement` [Minor] Zombies no longer spawn in the air
+
 ________
 
 ## 🗺️ Map Changes
