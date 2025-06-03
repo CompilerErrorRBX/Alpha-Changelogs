@@ -44,4 +44,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed bug details
+- Fixed a bug which caused weapons to always spawn with attachments.
