@@ -48,3 +48,4 @@ ________
 - Fixed a bug where the bomb shelter hatch could not be opened from the inside using the crank.
 - Fixed a bug where weapon view models and usable item view models blocked and cancelled interactions.
 - Fixed a bug which caused exploiter airdrops to all land really close to eachother.
+- Fixed a bug where helicopter crash equipment crates did not get cleaned up.
