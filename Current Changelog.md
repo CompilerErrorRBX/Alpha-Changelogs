@@ -45,3 +45,5 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug which caused weapons to always spawn with attachments.
+- Fixed a bug where the bomb shelter hatch could not be opened from the inside using the crank.
+- Fixed a bug where weapon view models and usable item view models blocked and cancelled interactions.
