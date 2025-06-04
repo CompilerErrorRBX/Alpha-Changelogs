@@ -18,7 +18,9 @@ ________
 
 ### ✅ `Feature` Feature
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` [Server] Improved performance of determining simulated zombies
+- Roughly 830% faster algorithm to find simulated zombies.
+- 99.9999997% smaller memory footprint (should also reduce memory garbage collection).
 
 ________
 
