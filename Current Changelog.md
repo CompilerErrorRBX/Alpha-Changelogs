@@ -10,6 +10,25 @@ ________
 
 ## 🔫 Weapon Changes
 
+### Recoil Changes (20% increase)
+- AKM
+- AWM
+- M82
+- Double Barrel Shotgun
+- FAL
+- Famas
+- G36k
+- R700
+- M110k
+- M249
+- M4A1
+- MK14
+- MK18
+- MK47
+- MRAD
+- PKM
+- SCAR
+
 ## 🔫 Item Changes
 
 ________
