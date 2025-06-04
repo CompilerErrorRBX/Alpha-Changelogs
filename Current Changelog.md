@@ -20,7 +20,6 @@ ________
 - G36k
 - R700
 - M110k
-- M249
 - M4A1
 - MK14
 - MK18
@@ -28,6 +27,9 @@ ________
 - MRAD
 - PKM
 - SCAR
+
+### M249
+- Reduced speed nerf from 0.85x to 0.95x
 
 ## 🔫 Item Changes
 
