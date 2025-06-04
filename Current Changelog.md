@@ -70,3 +70,4 @@ ________
 - Fixed a bug where weapon view models and usable item view models blocked and cancelled interactions.
 - Fixed a bug which caused exploiter airdrops to all land really close to eachother.
 - Fixed a bug where helicopter crash equipment crates did not get cleaned up.
+- Fixed a bug which caused some invisible collision blocks to be visible in game.
