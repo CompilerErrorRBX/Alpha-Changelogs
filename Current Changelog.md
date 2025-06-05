@@ -62,7 +62,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Updated ACOG/Reflex/RedDot attachments rendering. More closely resembles how they function in real life.
 
 ________
 
@@ -73,3 +73,4 @@ ________
 - Fixed a bug which caused exploiter airdrops to all land really close to eachother.
 - Fixed a bug where helicopter crash equipment crates did not get cleaned up.
 - Fixed a bug which caused some invisible collision blocks to be visible in game.
+- Fixed a bug causing sight attachments to be misaligned when ADSing. This was a bug with MK47 and AKM.
