@@ -64,6 +64,8 @@ ________
 
 ### ❗ `Change` Updated ACOG/Reflex/RedDot attachments rendering. More closely resembles how they function in real life.
 
+### ❗ `Change` Updated gunshot sounds to match when the distant sound plays, so it no longer sounds like two shots.
+
 ________
 
 ## 🐛 Bugfixes
@@ -74,3 +76,4 @@ ________
 - Fixed a bug where helicopter crash equipment crates did not get cleaned up.
 - Fixed a bug which caused some invisible collision blocks to be visible in game.
 - Fixed a bug causing sight attachments to be misaligned when ADSing. This was a bug with MK47 and AKM.
+- Fixed a bug causing gunshot sounds to not play correctly.
