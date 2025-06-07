@@ -62,7 +62,9 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Updated ACOG/Reflex/RedDot attachments rendering. More closely resembles how they function in real life.
+### ❗ `Change` Updated ACOG/Reflex/RedDot attachments rendering.
+
+### ❗ `Change` You can now hear other players reload their gun.
 
 ### ❗ `Change` Updated gunshot sounds to match when the distant sound plays, so it no longer sounds like two shots.
 
