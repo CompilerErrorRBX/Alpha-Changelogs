@@ -60,6 +60,9 @@ ________
 - Added new neighborhood.
 - Fresh-Spawn neighborhood.
 
+### Chestnut Oaks
+- Significantly reduced the amount of zombie spawns
+
 ## ⚖️ Changes
 
 ### ❗ `Change` Updated ACOG/Reflex/RedDot attachments rendering.
