@@ -82,3 +82,5 @@ ________
 - Fixed a bug which caused some invisible collision blocks to be visible in game.
 - Fixed a bug causing sight attachments to be misaligned when ADSing. This was a bug with MK47 and AKM.
 - Fixed a bug causing gunshot sounds to not play correctly.
+- Fixed a bug causing breathing sounds to never go away.
+- Fixed a bug where desert eagle run animation had the left arm bent backwards.
