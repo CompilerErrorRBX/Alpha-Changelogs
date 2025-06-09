@@ -68,6 +68,11 @@ ________
 
 ## ⚖️ Changes
 
+### ❗ `Change` Torso Armor now also protects the shoulders.
+> Shotguns like the Mossberg used to one shot a full tier 2 armored player
+> when all pellets hit the shoulder with about `118.8` damage point-blank.
+> This is now closer to `60` damage point blank
+
 ### ❗ `Change` Updated ACOG/Reflex/RedDot attachments rendering.
 
 ### ❗ `Change` You can now hear other players reload their gun.
