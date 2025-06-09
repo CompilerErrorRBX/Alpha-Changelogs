@@ -84,3 +84,4 @@ ________
 - Fixed a bug causing gunshot sounds to not play correctly.
 - Fixed a bug causing breathing sounds to never go away.
 - Fixed a bug where desert eagle run animation had the left arm bent backwards.
+- Fixed a bug where NPC players would always be in a jumping animation.
