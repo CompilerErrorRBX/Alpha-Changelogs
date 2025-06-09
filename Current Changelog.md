@@ -60,6 +60,9 @@ ________
 - Added new neighborhood.
 - Fresh-Spawn neighborhood.
 
+### Prison
+- Increased military loot in the campsite at the front.
+
 ### Chestnut Oaks
 - Significantly reduced the amount of zombie spawns
 
