@@ -80,6 +80,11 @@ ________
 
 ### ❗ `Change` Updated gunshot sounds to match when the distant sound plays, so it no longer sounds like two shots.
 
+### ❗ `Change` Reduced weight of lower tier medical items.
+- Bandage weight reduced from 0.15kg to 0.05kg.
+- Healing Salve weight reduced from 0.15kg to 0.1kg.
+- Dressed Bandage weight reduced from 0.25kg to 0.2kg.
+
 ________
 
 ## 🐛 Bugfixes
