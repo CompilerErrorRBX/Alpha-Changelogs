@@ -62,6 +62,7 @@ ________
 
 ### Prison
 - Increased military loot in the campsite at the front.
+- Spread zombie spawns out a little bit more
 
 ### Chestnut Oaks
 - Significantly reduced the amount of zombie spawns
