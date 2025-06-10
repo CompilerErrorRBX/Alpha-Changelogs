@@ -28,7 +28,7 @@ ________
 - PKM
 - SCAR
 
-### M249
+### M249 / PKM
 - Reduced speed nerf from 0.85x to 0.95x
 
 ## 🔫 Item Changes
