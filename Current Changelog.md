@@ -84,6 +84,7 @@ ________
 - Bandage weight reduced from 0.15kg to 0.05kg.
 - Healing Salve weight reduced from 0.15kg to 0.1kg.
 - Dressed Bandage weight reduced from 0.25kg to 0.2kg.
+- Antibiotics weight reduced from 0.1kg to 0.05kg.
 
 ________
 
