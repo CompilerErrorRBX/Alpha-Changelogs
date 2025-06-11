@@ -103,3 +103,5 @@ ________
 - Fixed a bug where zombie footstep sounds played at the wrong location sometimes.
 - Fixed a bug where zombies would make noises from beyond audible distance (wasting performance).
 - Fixed a bug where bird sounds were occasionally inside of the camera.
+- Fixed a bug where the `Makeshift Vest` didn't actually have 1.5x armor (instead only had 1x).
+- Fixed a bug which caused players to go up into the ceiling of the laundry building in the `Prison` POI.
