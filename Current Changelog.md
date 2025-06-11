@@ -39,9 +39,12 @@ ________
 
 ### ✅ `Feature` Feature
 
-### 🔼 `Improvement` [Server] Improved performance of determining simulated zombies
+### 🔼 `Improvement` [Server] Improved performance of determining simulated zombies.
 - Roughly 830% faster algorithm to find simulated zombies.
 - 99.9999997% smaller memory footprint (should also reduce memory garbage collection).
+
+### 🔼 `Improvement` Vehicle speed calculation now matches with other in-game distance units.
+- Previously, MPH in cars was based on a 1-stud-per-foot calculation, now it's closer to `0.784` studs per foot.
 
 ________
 
@@ -105,3 +108,4 @@ ________
 - Fixed a bug where bird sounds were occasionally inside of the camera.
 - Fixed a bug where the `Makeshift Vest` didn't actually have 1.5x armor (instead only had 1x).
 - Fixed a bug which caused players to go up into the ceiling of the laundry building in the `Prison` POI.
+- Fixed a bug which allowed bear traps to be placed against walls.
