@@ -100,3 +100,6 @@ ________
 - Fixed a bug causing breathing sounds to never go away.
 - Fixed a bug where desert eagle run animation had the left arm bent backwards.
 - Fixed a bug where NPC players would always be in a jumping animation.
+- Fixed a bug where zombie footstep sounds played at the wrong location sometimes.
+- Fixed a bug where zombies would make noises from beyond audible distance (wasting performance).
+- Fixed a bug where bird sounds were occasionally inside of the camera.
