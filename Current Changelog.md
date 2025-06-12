@@ -81,6 +81,8 @@ ________
 
 ### ❗ `Change` You can now hear other players reload their gun.
 
+### ❗ `Change` POI music is now quieter.
+
 ### ❗ `Change` Updated gunshot sounds to match when the distant sound plays, so it no longer sounds like two shots.
 
 ### ❗ `Change` Reduced weight of lower tier medical items.
