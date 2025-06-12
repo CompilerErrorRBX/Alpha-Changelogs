@@ -31,7 +31,16 @@ ________
 ### M249 / PKM
 - Reduced speed nerf from 0.85x to 0.95x
 
-## 🔫 Item Changes
+## 🔫 New Items
+
+### Makeshift Helmet
+- A craftable helmet.
+- Has a face shield slot and NVG slot.
+
+### Makeshift Face Mask
+- A craftable face mask.
+- Fits only the Makeshift Helmet.
+- Provides extra protection.
 
 ________
 
