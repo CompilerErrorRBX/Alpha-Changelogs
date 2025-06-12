@@ -119,3 +119,4 @@ ________
 - Fixed a bug which caused players to go up into the ceiling of the laundry building in the `Prison` POI.
 - Fixed a bug which allowed bear traps to be placed against walls.
 - Fixed a bug causing zombies to not make footstep sounds.
+- Fixed a bug which caused an incorrect reload animation to play when you stand up or go prone.
