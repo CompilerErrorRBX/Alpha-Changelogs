@@ -109,3 +109,4 @@ ________
 - Fixed a bug where the `Makeshift Vest` didn't actually have 1.5x armor (instead only had 1x).
 - Fixed a bug which caused players to go up into the ceiling of the laundry building in the `Prison` POI.
 - Fixed a bug which allowed bear traps to be placed against walls.
+- Fixed a bug causing zombies to not make footstep sounds.
