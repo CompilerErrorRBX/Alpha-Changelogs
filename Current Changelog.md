@@ -89,7 +89,8 @@ ________
 
 ### ❗ `Change` POI music is now quieter.
 
-### ❗ `Change` Updated gunshot sounds to match when the distant sound plays, so it no longer sounds like two shots.
+### ❗ `Change` Updated gunshot sounds to match when the distant sound plays.
+>- It no longer sounds like two individual shots.
 
 ### ❗ `Change` Reduced weight of lower tier medical items.
 >- Bandage weight reduced from 0.15kg to 0.05kg.
