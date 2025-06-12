@@ -5,9 +5,6 @@
 ## 💬 Patch Notes
 
 ________
-
-## 🔫 New Weapons
-
 ## 🔫 Weapon Changes
 
 ### Recoil Changes (20% increase)
