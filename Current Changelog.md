@@ -77,9 +77,9 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` Torso Armor now also protects the shoulders.
-> Shotguns like the Mossberg used to one shot a full tier 2 armored player
-> when all pellets hit the shoulder with about `118.8` damage point-blank.
-> This is now closer to `60` damage point blank
+>- Shotguns like the Mossberg used to one shot a full tier 2 armored player
+>- when all pellets hit the shoulder with about `118.8` damage point-blank.
+>- This is now closer to `60` damage point blank
 
 ### ❗ `Change` Updated ACOG/Reflex/RedDot attachments rendering.
 
@@ -95,6 +95,12 @@ ________
 >- Healing Salve weight reduced from 0.15kg to 0.1kg.
 >- Dressed Bandage weight reduced from 0.25kg to 0.2kg.
 >- Antibiotics weight reduced from 0.1kg to 0.05kg.
+
+### ❗ `Change` Changed zombie sounds.
+>- Deepened some of their sounds.
+>- Non aggro'd zombies now only make breathy sounds.
+>- When a zombie gets aggro, it now always plays a scream sound.
+>- When a zombie is chasing it now only plays aggressive sounds.
 
 ________
 
