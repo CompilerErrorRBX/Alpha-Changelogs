@@ -1,4 +1,4 @@
-# 📑 Changelog 05/29/2025 - 06/xx/2025
+# 📑 Changelog 05/29/2025 - 06/12/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -86,6 +86,10 @@ ________
 ### ❗ `Change` You can now hear other players reload their gun.
 
 ### ❗ `Change` POI music is now quieter.
+
+### ❗ `Change` Player breathing is quieter and less intense.
+
+### ❗ `Change` Zombies now see about 30% better at night
 
 ### ❗ `Change` Updated gunshot sounds to match when the distant sound plays.
 >- It no longer sounds like two individual shots.
