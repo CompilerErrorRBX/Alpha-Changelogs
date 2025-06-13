@@ -28,17 +28,6 @@ ________
 ### M249 / PKM
 - Reduced speed nerf from 0.85x to 0.95x
 
-## 🔫 New Items
-
-### Makeshift Helmet
-- A craftable helmet.
-- Has a face shield slot and NVG slot.
-
-### Makeshift Face Mask
-- A craftable face mask.
-- Fits only the Makeshift Helmet.
-- Provides extra protection.
-
 ________
 
 ## 📢 Features and Improvements
@@ -64,6 +53,15 @@ ________
 ### Redfield West Neighborhood
 - Redid terrain.
 - Updated treelines.
+
+### Quarry
+- Improved line of sight via terrain.
+- Made some areas more out in the open, and other areas more dense with vegetation.
+- Removed West entrance connecting to highway.
+- Added South West road to serve as back entrance.
+- Added South East road to connect to marking lot.
+- Removed Military Camp in South East. Replaced with offices & parking lot (similar loot).
+- Added a cache near the parking lot.
 
 ### New Haven East Neighborhood
 - Added new neighborhood.
