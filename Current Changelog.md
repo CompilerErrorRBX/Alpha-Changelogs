@@ -59,7 +59,7 @@ ________
 - Made some areas more out in the open, and other areas more dense with vegetation.
 - Removed West entrance connecting to highway.
 - Added South West road to serve as back entrance.
-- Added South East road to connect to marking lot.
+- Added South East road to connect to parking lot.
 - Removed Military Camp in South East. Replaced with offices & parking lot (similar loot).
 - Added a cache near the parking lot.
 
