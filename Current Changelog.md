@@ -1,8 +1,10 @@
 # 📑 Changelog 05/29/2025 - 06/12/2025
 
-## 🟢 Status `Unreleased`
+## 🟢 Status `Released`
 
 ## 💬 Patch Notes
+> During this patch we wanted to spend some time focusing on a few optimizations needed for server performance and improving
+> overall atmosphere of the game. We've also taken the time to address several bugs and do some weapon balancing.
 
 ________
 ## 🔫 Weapon Changes
@@ -26,13 +28,11 @@ ________
 - SCAR
 
 ### M249 / PKM
-- Reduced speed nerf from 0.85x to 0.95x
+- Reduced speed debuff (from 15% -> 5%)
 
 ________
 
 ## 📢 Features and Improvements
-
-### ✅ `Feature` Feature
 
 ### 🔼 `Improvement` [Server] Improved performance of determining simulated zombies.
 - Roughly 830% faster algorithm to find simulated zombies.
