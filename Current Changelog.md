@@ -32,4 +32,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Bug that was fixed
+- Fixed a bug which could cause a guns reload animation to play twice.
