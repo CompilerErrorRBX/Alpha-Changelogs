@@ -20,14 +20,14 @@ ________
 
 ### ✅ `Feature` FEATURE
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Improvement to third person gun rendering.
+>- Performence improvement here. With a lot of players rendered in you may get a 5-10 fps increase.
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Improvement to third person gun rendering.
->- Performence improvement here. With a lot of players rendered in you may get a 5-10 fps increase.
+### ❗ `Change` Change
 
 ________
 
