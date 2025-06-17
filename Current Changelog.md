@@ -8,9 +8,6 @@ ________
 
 ## 🗺️ Map Changes
 
-### Crescent Grove
-- 
-
 ________
 
 ## 📢 Features and Improvements
