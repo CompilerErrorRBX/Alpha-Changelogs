@@ -1,6 +1,6 @@
-# 📑 Changelog 06/13/2025 - 06/16/2025
+# 📑 Changelog 06/17/2025 - 06/xx/2025
 
-## 🟢 Status `Released`
+## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
 
@@ -9,10 +9,7 @@ ________
 ## 🗺️ Map Changes
 
 ### Crescent Grove
-- New neighborhood layout
-- Terrain elevation isn't quite as flat
-- More blocks to line-of-sight
-- Added a few commercial buildings
+- 
 
 ________
 
@@ -20,21 +17,15 @@ ________
 
 ### ✅ `Feature` FEATURE
 
-### 🔼 `Improvement` Improvement to third person gun rendering.
-> Performence improvement here. With a lot of players rendered in you may get a 5-10 fps increase.
-
-### 🔼 `Improvement` Zombies are now much easier to sneak up on from behind.
+### 🔼 `Improvement` Improvement
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Reduced max speed of sedan, but increased acceleration.
-
-### ❗ `Change` Reduced max speed of pickup truck.
+### ❗ `Change` Change
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug which could cause a guns reload animation to play twice.
-- Fixed a bug where red blocks would show on some fences on the ground.
+- Fixed a bug which caused zombies to pop up right next to players in certain cases.
