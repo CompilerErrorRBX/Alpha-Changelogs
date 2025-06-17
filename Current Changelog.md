@@ -19,6 +19,10 @@ ________
 - Slightly more expensive to craft.
 - Upgrade from the Makeshift Satchel
 
+### Spool Of Twine
+- New crafting item.
+- Spawns where industrial items can spawn.
+
 ________
 
 ## 📢 Features and Improvements
