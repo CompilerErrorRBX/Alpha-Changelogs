@@ -6,7 +6,18 @@
 
 ________
 
-## 🗺️ Map Changes
+## 🔫 New Items
+
+### Makeshift Satchel
+- New Small backpack.
+- Great for starting out as a fresh-spawn.
+- Requires 10 scrap cloth to craft!
+- 8 slots.
+
+### Makeshift Backpack
+- This is the old `Makeshift Satchel`, renamed to `Makeshift Backpack`.
+- Slightly more expensive to craft.
+- Upgrade from the Makeshift Satchel
 
 ________
 
