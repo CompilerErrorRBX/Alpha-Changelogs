@@ -21,15 +21,20 @@ ________
 ### ✅ `Feature` FEATURE
 
 ### 🔼 `Improvement` Improvement to third person gun rendering.
->- Performence improvement here. With a lot of players rendered in you may get a 5-10 fps increase.
+> Performence improvement here. With a lot of players rendered in you may get a 5-10 fps increase.
+
+### 🔼 `Improvement` Zombies are now much easier to sneak up on from behind.
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Reduced max speed of sedan, but increased acceleration.
+
+### ❗ `Change` Reduced max speed of pickup truck.
 
 ________
 
 ## 🐛 Bugfixes
 - Fixed a bug which could cause a guns reload animation to play twice.
+- Fixed a bug where red blocks would show on some fences on the ground.
