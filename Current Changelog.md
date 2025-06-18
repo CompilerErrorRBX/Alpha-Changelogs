@@ -1,4 +1,4 @@
-# 📑 Changelog 06/17/2025 - 06/xx/2025
+# 📑 Changelog 06/17/2025 - 06/17/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -35,7 +35,9 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Gunshot far sounds now fade in if too close.
+
+### ❗ `Change` New gunshot far sounds for Rifles and Pistols
 
 ________
 
