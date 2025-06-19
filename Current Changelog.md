@@ -17,12 +17,15 @@ ________
 
 ### General Changes
 - Made small connifer trees smaller
+- Added more bush types.
 
 ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` FEATURE
+### ✅ `Feature` Blueberry Bush
+>- Lootable clusters of blueberry bushes around the map.
+>- Blueberries can be eaten and used in crafting `Blueberry Juice`.
 
 ### 🔼 `Improvement` Improvement
 
