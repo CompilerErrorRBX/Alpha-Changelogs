@@ -1,4 +1,4 @@
-# 📑 Changelog 06/17/2025 - 06/17/2025
+# 📑 Changelog 06/18/2025 - 06/xx/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -8,20 +8,15 @@ ________
 
 ## 🔫 New Items
 
-### Makeshift Satchel
-- New Small backpack.
-- Great for starting out as a fresh-spawn.
-- Requires 10 scrap cloth to craft!
-- 8 slots.
+### Basic Balaclava
+- Comes in colors: Black, Navy, Green, Red
 
-### Makeshift Backpack
-- This is the old `Makeshift Satchel`, renamed to `Makeshift Backpack`.
-- Slightly more expensive to craft.
-- Upgrade from the Makeshift Satchel
+________
 
-### Spool Of Twine
-- New crafting item.
-- Spawns where industrial items can spawn.
+## 🗺️ Map Changes
+
+### General Changes
+- Made small connifer trees smaller
 
 ________
 
@@ -35,12 +30,14 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Gunshot far sounds now fade in if too close.
-
-### ❗ `Change` New gunshot far sounds for Rifles and Pistols
+### ❗ `Change` Picking small connifer trees is now instant, and plays an effect.
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug which caused zombies to pop up right next to players in certain cases.
-- Fixed a bug (AGAIN) which allowed grenades and other throwables to pass through doors.
+- Bug that was fixed
+
+________
+
+## 🗒️ Additional Notes
+- Additional details
