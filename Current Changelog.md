@@ -35,6 +35,8 @@ ________
 
 ### ❗ `Change` Picking small connifer trees is now instant, and plays an effect.
 
+### ❗ `Change` Reduced weight of `Stick` from 2kg to 1kg
+
 ________
 
 ## 🐛 Bugfixes
