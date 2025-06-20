@@ -35,6 +35,9 @@ ________
 
 ### ❗ `Change` Picking small connifer trees is now instant, and plays an effect.
 
+### ❗ `Change` Ambient sounds are now locked to the ground.
+>- Cricket chirping/birds are now much harder to hear when in very high altitude places like Radio Tower.
+>- Made global ambient wind slightly quieter
 ________
 
 ## 🐛 Bugfixes
