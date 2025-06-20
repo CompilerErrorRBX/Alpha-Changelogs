@@ -41,7 +41,7 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Bug that was fixed
+- Fixed a bug causing ladder footstep sounds to be silent.
 
 ________
 
