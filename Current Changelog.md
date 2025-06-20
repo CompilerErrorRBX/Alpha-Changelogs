@@ -11,6 +11,14 @@ ________
 ### Basic Balaclava
 - Comes in colors: Black, Navy, Green, Red
 
+### Blueberry
+- New consumable food item.
+- Used in crafting `Blueberru Juice`.
+
+### Car Keys
+- Not functional yet.
+- Spawns in residential areas.
+
 ________
 
 ## 🗺️ Map Changes
