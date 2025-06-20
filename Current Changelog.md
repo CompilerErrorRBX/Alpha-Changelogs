@@ -19,6 +19,14 @@ ________
 - Not functional yet.
 - Spawns in residential areas.
 
+### Vehicle Battery
+- Not functional yet.
+- Spawns in industrial areas.
+
+### Spark Plug
+- Not functional yet.
+- Spawns in industrial areas.
+
 ________
 
 ## 🗺️ Map Changes
@@ -35,8 +43,6 @@ ________
 >- Lootable clusters of blueberry bushes around the map.
 >- Blueberries can be eaten and used in crafting `Blueberry Juice`.
 
-### 🔼 `Improvement` Improvement
-
 ________
 
 ## ⚖️ Changes
@@ -50,8 +56,3 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug causing ladder footstep sounds to be silent.
-
-________
-
-## 🗒️ Additional Notes
-- Additional details
