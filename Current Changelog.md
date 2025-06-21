@@ -13,7 +13,7 @@ ________
 
 ### Blueberry
 - New consumable food item.
-- Used in crafting `Blueberru Juice`.
+- Used in crafting `Blueberry Juice`.
 
 ### Car Keys
 - Not functional yet.
