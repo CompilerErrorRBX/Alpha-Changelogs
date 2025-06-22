@@ -56,3 +56,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug causing ladder footstep sounds to be silent.
+- Fixed a bug where getting on a ladder teleports you in to ceilings.
