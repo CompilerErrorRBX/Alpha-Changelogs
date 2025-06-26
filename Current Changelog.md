@@ -47,7 +47,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Picking small connifer trees is now instant, and plays an effect.
+### ❗ `Change` Picking small connifer trees is now 0.25s, and plays an effect.
 
 ### ❗ `Change` Ambient sounds are now locked to the ground.
 >- Cricket/birds chirping are now much harder to hear when in very high altitude places like Radio Tower.
