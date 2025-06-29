@@ -57,3 +57,5 @@ ________
 ## 🐛 Bugfixes
 - Fixed a bug causing ladder footstep sounds to be silent.
 - Fixed a bug where getting on a ladder teleports you in to ceilings.
+- Fixed a bug where after climbing a ladder you are teleported back to where you got on.
+- Fixed a bug where after getting off a ladder your character will no longer visibly turn.
