@@ -44,7 +44,11 @@ ________
 >- Blueberries can be eaten and used in crafting `Blueberry Juice`.
 
 ### 🔼 `Improvement` Improved performance of character controller
-- Reduced CPU time for character movement by about 70%
+- Reduced CPU time for character movement by about 75%
+
+### 🔼 `Improvement` Improved interactions with conifers and blueberry bushes
+> These were only interactable when the player's camera was outside of the tree/bush.
+> Now they're interactable from within as well.
 
 ________
 
