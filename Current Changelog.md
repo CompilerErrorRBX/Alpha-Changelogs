@@ -59,6 +59,11 @@ ________
 ### ❗ `Change` Ambient sounds are now locked to the ground.
 >- Cricket/birds chirping are now much harder to hear when in very high altitude places like Radio Tower.
 >- Made global ambient wind slightly quieter
+
+### ❗ `Change` Changed vehicle sounds
+>- Updated Police Car engine sounds
+>- Made Truck a bit quieter
+
 ________
 
 ## 🐛 Bugfixes
