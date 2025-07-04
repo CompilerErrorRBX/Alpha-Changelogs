@@ -8,6 +8,10 @@ ________
 
 ## 🔫 New Items
 
+### Happy Fireworks / Showbox Fireworks
+- Spawn in Industrial areas.
+- Great scrap materials
+
 ### Basic Balaclava
 - Comes in colors: Black, Navy, Green, Red
 
