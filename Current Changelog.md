@@ -60,6 +60,8 @@ ________
 
 ### ❗ `Change` Picking small connifer trees is now 0.25s, and plays an effect.
 
+### ❗ `Change` Looting rusty cars now plays sound effect.
+
 ### ❗ `Change` Ambient sounds are now locked to the ground.
 >- Cricket/birds chirping are now much harder to hear when in very high altitude places like Radio Tower.
 >- Made global ambient wind slightly quieter
@@ -77,3 +79,4 @@ ________
 - Fixed a bug where after getting off a ladder your character will no longer visibly turn.
 - Fixed a bug which occasionally made it difficult to pick up an item that was sitting on top of a container.
 - Fixed a bug which caused third-person scopes to incorrectly render while in first person.
+- Fixed a bug making it hard to gather trees/bushes.
