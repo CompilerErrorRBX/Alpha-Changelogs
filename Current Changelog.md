@@ -1,4 +1,4 @@
-# 📑 Changelog 06/18/2025 - 06/xx/2025
+# 📑 Changelog 07/17/2025 - 07/xx/2025
 
 ## 🟢 Status `Unreleased`
 
