@@ -22,7 +22,9 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` 
+### ❗ `Change` Removed `Medical Airdrop` from Radio Tower spawn pool
+
+### ❗ `Change` Added `Weapon Airdrop` to Radio Tower spawn pool
 
 ________
 
