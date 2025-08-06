@@ -18,7 +18,10 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` 
+### ✅ `Feature` Vehicle Overhaul
+>- Vehicles now have an interactable interface to add or remove items.
+>- Vehicles now require a Battery, Sparkplug, Fuel, and Car Keys to be operational.
+>- Vehicles now have a storage where in items can be placed to carry around with you.
 
 ### 🔼 `Improvement`
 
