@@ -33,6 +33,8 @@ ________
 
 ### ❗ `Change` Added `Weapon Airdrop` to Radio Tower spawn pool
 
+### ❗ `Change` Changed how alt looking works. Better UX.
+
 ________
 
 ## 🐛 Bugfixes
