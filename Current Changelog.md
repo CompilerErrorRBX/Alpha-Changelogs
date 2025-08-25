@@ -23,7 +23,7 @@ ________
 >- Vehicles now require a Battery, Sparkplug, Fuel, and Car Keys to be operational.
 >- Vehicles now have a storage where in items can be placed to carry around with you.
 
-### 🔼 `Improvement`
+### 🔼 `Improvement` Voice chat indicator no longer displays above characters.
 
 ________
 
