@@ -29,6 +29,11 @@ ________
 >- Previous implementation was a prototype from years ago, and constantly breaks when we do major upgrades to our systems.
 >- New system builds from what we learned over the years with NPCs. It will be more stable, and the NPC players fit more seamlessly in to the world.
 
+### 🔼 `Improvement` Various performance improvements
+- Improved speed of bullet related tasks by ~1000%
+- Improved performance of sound related actions by roughly 35%
+- Improved performance of blood and other particles by > 400%
+
 ________
 
 ## ⚖️ Changes
