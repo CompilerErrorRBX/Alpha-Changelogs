@@ -49,3 +49,5 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where zombies could sometimes kill players outside of the spawn box.
+- Fixed an audio bug which occasionally caused popping sounds.
+- Fixed a bug which caused bullet tracer images to flicker occasionally (Roblox unloading and reloading the texture)
