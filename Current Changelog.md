@@ -33,6 +33,7 @@ ________
 >- Improved speed of bullet related tasks by ~1000%
 >- Improved performance of sound related actions by roughly 35%
 >- Improved performance of blood and other particles by > 400%
+>- Reduced network packet size by 90% in many cases.
 
 ________
 
