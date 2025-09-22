@@ -5,9 +5,8 @@
 ## 💬 Patch Notes
 
 This update we are heavily focused on some changes to help aleviate the effects of cheaters in the game. While we do not normally get in to the technical details of this kind of development, know that we are working on it as much as we can!
-We are also looking in to our vehicle system, and building out features for that to better match the survival aspect of the game. Cars no longer instantly elevate you above other players upon finding them.
-Players must now gather materials before cars can be driven. Cars now require a `Battery`, `Sparkplug`, `Fuel`, and `Car Keys` to be operational. They also now come with storage so you can carry more loot with you!
-
+We have also taken a lot of time this update to work on the performance of various systems in Aftermath. Our goal is to make this game mobile compatable in the future, and the first step is squeezing out as much performance as we can on the code side of things.
+Gun fights should now be a lot less laggy for your fps and ping.
 ________
 
 ## 🗺️ Map Changes
@@ -17,11 +16,6 @@ ________
 ________
 
 ## 📢 Features and Improvements
-
-### ✅ `Feature` Vehicle Overhaul
->- Vehicles now have an interactable interface to add or remove items.
->- Vehicles now require a Battery, Sparkplug, Fuel, and Car Keys to be operational.
->- Vehicles now have a storage where in items can be placed to carry around with you.
 
 ### 🔼 `Improvement` Voice chat indicator no longer displays above characters.
 
