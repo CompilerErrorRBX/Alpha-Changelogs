@@ -29,6 +29,11 @@ ________
 >- Improved performance of blood and other particles by > 400%
 >- Improved performance of positioning fps gun by 50%
 >- Reduced network packet size by 90% in many cases.
+>
+
+### 🔼 `Improvement` Improved foley sounds when stepping and landing.
+>- All backpacks now make foley sounds
+>- All vests now make foley sounds
 
 ________
 
