@@ -45,6 +45,8 @@ ________
 
 ### ❗ `Change` Changed how alt looking works. Better UX.
 
+### ❗ `Change` Reduced size of crosshair.
+
 ________
 
 ## 🐛 Bugfixes
