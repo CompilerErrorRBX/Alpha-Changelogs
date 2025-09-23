@@ -54,4 +54,4 @@ ________
 - Fixed an audio bug which occasionally caused popping sounds.
 - Fixed a bug which caused bullet tracer images to flicker occasionally (Roblox unloading and reloading the texture)
 - Fixed a bug which broke "foley" sounds when wearing armor/backpacks
-- Fixed a buf where looking in certain directions would break the fps gun view bobbing.
+- Fixed a bug where looking in certain directions would break the fps gun view bobbing.
