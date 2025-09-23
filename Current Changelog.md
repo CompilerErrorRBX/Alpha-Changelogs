@@ -57,3 +57,4 @@ ________
 - Fixed a bug where looking in certain directions would break the fps gun view bobbing.
 - Fixed a bug which prevented the `Blood` setting from being respected in general.
 - Fixed a bug which prevented the `Bodies` setting from being respected on zombies.
+- Fixed a bug which occasionally casued attachments to be at the wrong angle on third person weapon models.
