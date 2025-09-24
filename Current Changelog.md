@@ -1,4 +1,4 @@
-# 📑 Changelog 07/17/2025 - 08/xx/2025
+# 📑 Changelog 07/17/2025 - 09/xx/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -46,6 +46,8 @@ ________
 ### ❗ `Change` Changed how alt looking works. Better UX.
 
 ### ❗ `Change` Reduced size of crosshair.
+
+### ❗ `Change` Increased max distance of Flashlight/Headlights to 120 studs from 60 studs.
 
 ________
 
