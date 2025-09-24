@@ -35,6 +35,8 @@ ________
 >- All backpacks now make foley sounds
 >- All vests now make foley sounds
 
+### 🔼 `Improvement` Doubled the range of flashlights and headlights.
+
 ________
 
 ## ⚖️ Changes
