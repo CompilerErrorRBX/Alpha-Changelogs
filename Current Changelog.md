@@ -5,7 +5,7 @@
 ## 💬 Patch Notes
 
 This update we are heavily focused on some changes to help aleviate the effects of cheaters in the game. While we do not normally get in to the technical details of this kind of development, know that we are working on it as much as we can!
-We have also taken a lot of time this update to work on the performance of various systems in Aftermath. Our goal is to make this game mobile compatable in the future, and the first step is squeezing out as much performance as we can on the code side of things.
+We have also taken a lot of time this update to work on the performance of various systems in Aftermath. Our goal is to make this game mobile compatible in the future, and the first step is squeezing out as much performance as we can on the code side of things.
 Gun fights should now be a lot less laggy for your fps and ping.
 ________
 
