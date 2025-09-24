@@ -29,7 +29,7 @@ ________
 >- Improved performance of blood and other particles by > 400%
 >- Improved performance of positioning FPV gun by 50%
 >- Reduced network packet size by 90% in many cases.
->- Improved performance around generating weapon models
+>- Improved performance around generating weapon models. Roughly 85% faster on average.
 
 ### 🔼 `Improvement` Improved foley sounds when stepping and landing.
 >- All backpacks now make foley sounds
