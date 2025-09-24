@@ -27,9 +27,9 @@ ________
 >- Improved speed of bullet related tasks by ~1000%
 >- Improved performance of sound related actions by roughly 35%
 >- Improved performance of blood and other particles by > 400%
->- Improved performance of positioning fps gun by 50%
+>- Improved performance of positioning FPV gun by 50%
 >- Reduced network packet size by 90% in many cases.
->
+>- Improved performance around generating weapon models
 
 ### 🔼 `Improvement` Improved foley sounds when stepping and landing.
 >- All backpacks now make foley sounds
