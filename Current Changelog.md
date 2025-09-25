@@ -51,6 +51,8 @@ ________
 
 ### ❗ `Change` Increased max distance of Flashlight/Headlights to 120 studs from 60 studs.
 
+### ❗ `Change` Temporarily disabled guns on back
+
 ________
 
 ## 🐛 Bugfixes
