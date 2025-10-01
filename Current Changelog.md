@@ -19,18 +19,16 @@ ________
 
 ### 🔼 `Improvement` Voice chat indicator no longer displays above characters.
 
-### 🔼 `Improvement` Rewrote bot NPCs.
->- Previous implementation was a prototype from years ago, and constantly breaks when we do major upgrades to our systems.
->- New system builds from what we learned over the years with NPCs. It will be more stable, and the NPC players fit more seamlessly in to the world.
-
 ### 🔼 `Improvement` Various performance improvements
->- Improved speed of bullet related tasks by ~1000%
->- Improved speed of various gun system related tasks by ~1000%
+>- Improved performance of bullet related tasks by ~1000%
+>- Improved performance of various gun system related tasks by ~1000%
+>- Improved performance of various camera related tasks by ~230%
 >- Improved performance of sound related actions by roughly 35%
 >- Improved performance of blood and other particles by > 400%
 >- Improved performance of positioning FPV gun by 50%
 >- Reduced network packet size by 90% in many cases.
 >- Improved performance around generating weapon models. Roughly 85% faster on average.
+>- Improved performance of positioning TPV gun models by ~400%
 
 ### 🔼 `Improvement` Improved foley sounds when stepping and landing.
 >- All backpacks now make foley sounds
@@ -46,11 +44,11 @@ ________
 
 ### ❗ `Change` Added `Weapon Airdrop` to Radio Tower spawn pool
 
-### ❗ `Change` Changed how alt looking works. Better UX.
+### ❗ `Change` Changed how alt looking works. Better UX
 
-### ❗ `Change` Reduced size of crosshair.
+### ❗ `Change` Reduced size of crosshair
 
-### ❗ `Change` Increased max distance of Flashlight/Headlights to 120 studs from 60 studs.
+### ❗ `Change` Increased max distance of Flashlight/Headlights to 120 studs from 60 studs
 
 ### ❗ `Change` Temporarily disabled guns on back
 
@@ -66,3 +64,4 @@ ________
 - Fixed a bug which prevented the `Bodies` setting from being respected on zombies.
 - Fixed a bug which occasionally casued attachments to be at the wrong angle on third person weapon models.
 - Fixed a bug which caused visual portions of world models to be shown while in first person.
+- Fixed a bug which prevented molotovs from doing damage to players.
