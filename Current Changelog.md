@@ -35,6 +35,8 @@ ________
 
 ### 🔼 `Improvement` Doubled the range of flashlights and headlights.
 
+### 🔼 `Improvement` Added fall damage sound effect.
+
 ________
 
 ## ⚖️ Changes
