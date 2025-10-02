@@ -52,6 +52,7 @@ ________
 
 ### ❗ `Change` Temporarily disabled guns on back
 
+### ❗ `Change` Zombies are no-longer attracted to interaction noises (exluding doors)
 ________
 
 ## 🐛 Bugfixes
