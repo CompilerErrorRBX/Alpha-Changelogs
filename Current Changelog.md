@@ -66,3 +66,4 @@ ________
 - Fixed a bug which caused visual portions of world models to be shown while in first person.
 - Fixed a bug which prevented molotovs from doing damage to players.
 - Fixed a bug which prevented grenades from passing through open doors.
+- Fixed a bug which occasionally showed number inputs using words (eg. 1 shown as One)
