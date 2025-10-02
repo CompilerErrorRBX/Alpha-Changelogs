@@ -65,3 +65,4 @@ ________
 - Fixed a bug which occasionally casued attachments to be at the wrong angle on third person weapon models.
 - Fixed a bug which caused visual portions of world models to be shown while in first person.
 - Fixed a bug which prevented molotovs from doing damage to players.
+- Fixed a bug which prevented grenades from passing through open doors.
