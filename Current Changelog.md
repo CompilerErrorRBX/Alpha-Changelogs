@@ -21,7 +21,6 @@ ________
 
 ### 🔼 `Improvement` Various performance improvements
 >- Improved performance of bullet related tasks by ~1000%
->- Improved performance of various gun system related tasks by ~1000%
 >- Improved performance of various camera related tasks by ~230%
 >- Improved performance of sound related actions by roughly 35%
 >- Improved performance of blood and other particles by > 400%
