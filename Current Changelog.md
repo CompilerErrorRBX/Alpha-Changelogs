@@ -69,3 +69,4 @@ ________
 - Fixed a bug which occasionally showed number inputs using words (eg. 1 shown as One)
 - Fixed a bug which could delete an (1) item in a player's inventory upon rejoining if their inventory was max weight.
 - Fixed a bug which created a confusing amount of durability remaining on items (i.e. combining two water purification tabs might only be usable once).
+- Fixed a bug which prevented players from picking up an item if it would completely fill their inventory in some cases.
