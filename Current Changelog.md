@@ -1,6 +1,6 @@
 # 📑 Changelog 07/17/2025 - 10/08/2025
 
-## 🟢 Status `Unreleased`
+## 🟢 Status `Released`
 
 ## 💬 Patch Notes
 We have taken a lot of time this update to work on the performance of various systems in Aftermath. Our goal is to make this game mobile compatible in the future, and the first step is squeezing out as much performance as we can on the code side of things.
