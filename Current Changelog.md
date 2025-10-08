@@ -4,13 +4,7 @@
 
 ## 💬 Patch Notes
 We have taken a lot of time this update to work on the performance of various systems in Aftermath. Our goal is to make this game mobile compatible in the future, and the first step is squeezing out as much performance as we can on the code side of things.
-Gun fights should now be a lot less laggy for your fps and ping.
-________
-
-## 🗺️ Map Changes
-
-### General Changes
-
+Gun fights should now be a lot less laggy for your fps and ping. We know this update took awhile, and we thank you all for your patience! Reworking a lot of these internal systems to eliminate "code debt" can take quite awhile. Expect more regular updates from us going forward!
 ________
 
 ## 📢 Features and Improvements
