@@ -15,6 +15,8 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` `Duct Tape` now repairs more HP twice as much damage to Hazmat equipment.
+
+### ❗ `Change` Increased damage from radiation by about 300%
 ________
 
 ## 🐛 Bugfixes
