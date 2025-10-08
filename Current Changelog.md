@@ -1,4 +1,4 @@
-# 📑 Changelog 07/17/2025 - 09/xx/2025
+# 📑 Changelog 07/17/2025 - 10/08/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -23,9 +23,9 @@ ________
 >- Improved performance of sound related actions by roughly 35%
 >- Improved performance of blood and other particles by > 400%
 >- Improved performance of positioning FPV gun by 50%
->- Reduced network packet size by 90% in many cases.
 >- Improved performance around generating weapon models. Roughly 85% faster on average.
 >- Improved performance of positioning TPV gun models by ~400%
+>- Reduced network packet size by 90% in many cases.
 
 ### 🔼 `Improvement` Improved foley sounds when stepping and landing.
 >- All backpacks now make foley sounds
