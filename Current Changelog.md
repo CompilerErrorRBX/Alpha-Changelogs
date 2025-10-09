@@ -24,3 +24,4 @@ ________
 - Fixed a bug which allowed an item to be increased in quantity in a full inventory (weight).
 - Fixed a bug which caused player models to render at the position of their death.
 - Fixed a bug which caused your camera to be oriented incorrectly after respawning.
+- Fixed a bug which caused bear traps to not be breakable.
