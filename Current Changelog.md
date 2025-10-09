@@ -20,4 +20,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-
+- Fixed a bug which caused shotguns to visually load a shell two extra times on average.
