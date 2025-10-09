@@ -21,3 +21,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug which caused shotguns to visually load a shell two extra times on average.
+- Fixed a bug which allowed an item to be increased in quantity in a full inventory (weight).
