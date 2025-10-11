@@ -9,7 +9,7 @@ ________
 ## 📢 Features and Improvements
 
 ### 🔼 `Improvement` You no longer have to wait until rechambering is finished before attempting to shoot.
->- Previously if you clicked down before rechambering was finished, it would not shoot the gun once rechambering is complete.
+>- Previously if you clicked down before rechambering was finished, it would not shoot the gun once rechambering was complete.
 ________
 
 ## ⚖️ Changes
