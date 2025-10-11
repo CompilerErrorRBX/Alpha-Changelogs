@@ -8,8 +8,8 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement`
-
+### 🔼 `Improvement` You no longer have to wait until rechambering is finished before attempting to shoot.
+>- Previously if you clicked down before rechambering was finished, it would not shoot the gun once rechambering is complete.
 ________
 
 ## ⚖️ Changes
@@ -25,3 +25,4 @@ ________
 - Fixed a bug which caused player models to render at the position of their death.
 - Fixed a bug which caused your camera to be oriented incorrectly after respawning.
 - Fixed a bug which caused bear traps to not be breakable.
+- Fixed a bug which prevented players from being wallbanged.
