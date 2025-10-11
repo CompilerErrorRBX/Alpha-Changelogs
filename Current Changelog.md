@@ -26,3 +26,4 @@ ________
 - Fixed a bug which caused your camera to be oriented incorrectly after respawning.
 - Fixed a bug which caused bear traps to not be breakable.
 - Fixed a bug which prevented players from being wallbanged.
+- Fixed a bug which caused your fpv gun display while using an item.
