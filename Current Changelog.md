@@ -27,3 +27,4 @@ ________
 - Fixed a bug which caused bear traps to not be breakable.
 - Fixed a bug which prevented players from being wallbanged.
 - Fixed a bug which caused your fpv gun display while consuming an item.
+- Fixed a bug which caused your character to get stuck sliding on the ground like it's made of ice.
