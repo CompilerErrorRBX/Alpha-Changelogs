@@ -30,3 +30,4 @@ ________
 - Fixed a bug which prevented players from being wallbanged.
 - Fixed a bug which prevented players from digging up landmines
 - Fixed a bug which prevented the Chinese bunker from initializing properly (breaking the gas disable sequence).
+- Fixed a bug which caused you to shoot when placing items.
