@@ -28,5 +28,5 @@ ________
 - Fixed a bug which caused your fpv gun display while consuming an item.
 - Fixed a bug which caused your character to get stuck sliding on the ground like it's made of ice.
 - Fixed a bug which prevented players from being wallbanged.
-- Fixed a buh which prevented players from digging up landmines
+- Fixed a bug which prevented players from digging up landmines
 - Fixed a bug which prevented the Chinese bunker from initializing properly (breaking the gas disable sequence).
