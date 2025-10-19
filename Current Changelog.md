@@ -19,6 +19,10 @@ ________
 - Removed green ammo house.
 - Added more trees.
 
+### Nuclear Power Plant
+- Replaced cabinets in medical room with hospital cabinets.
+- Added more medical cabinets in medical room.
+
 ### General / Misc
 - Added basement hunting cabin near bomb shelter.
 
@@ -31,8 +35,9 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `MP-133 Reskin` 
-- Fresh new skin that is a bit more efficient.
+### ❗ `MP-133 Reskin` Fresh new skin that is a bit more efficient.
+
+### ❗ `Shovel` Buffed headshot damage multiplier from 1.4x to 1.6x (20% increase).
 ________
 
 ## 🐛 Bugfixes
