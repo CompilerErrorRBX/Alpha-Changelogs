@@ -19,6 +19,9 @@ ________
 - Removed green ammo house.
 - Added more trees.
 
+### General / Misc
+- Added basement hunting cabin near bomb shelter.
+
 ________
 
 ## 📢 Features and Improvements
