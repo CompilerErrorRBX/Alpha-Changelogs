@@ -31,7 +31,8 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` 
+### ❗ `MP-133 Reskin` 
+- Fresh new skin that is a bit more efficient.
 ________
 
 ## 🐛 Bugfixes
