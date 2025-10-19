@@ -6,6 +6,21 @@
 
 ________
 
+## 🗺️ Map Changes
+
+### D5-D7 Changes
+- Redid road design. Less straight, more curvey.
+- Added small town at intersection north of Flat Peak.
+- Added single military truck crash sight.
+- Added more trees/bushes
+
+### Flat Peak
+- Added more line-of-sight blocks in terrain.
+- Removed green ammo house.
+- Added more trees.
+
+________
+
 ## 📢 Features and Improvements
 
 ### 🔼 `Improvement` 
