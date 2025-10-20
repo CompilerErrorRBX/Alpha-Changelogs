@@ -32,7 +32,12 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` 
+### 🔼 `Day/Night Cycle` 
+- Day time is less "blue" tinted.
+- Overall less windy.
+- Cloudy days are less foggy.
+- Sunny days have less clouds in the sky.
+
 ________
 
 ## ⚖️ Changes
