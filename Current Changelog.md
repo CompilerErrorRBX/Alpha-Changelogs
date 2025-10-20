@@ -17,6 +17,7 @@ ________
 ### Flat Peak
 - Added more line-of-sight blocks in terrain.
 - Removed green ammo house.
+- Fixed lopsided roads at south entrance.
 - Added more trees.
 
 ### Nuclear Power Plant
@@ -25,6 +26,7 @@ ________
 
 ### General / Misc
 - Added basement hunting cabin near bomb shelter.
+- Improved terrain around main entrance to camp site.
 
 ________
 
