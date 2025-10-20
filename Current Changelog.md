@@ -45,6 +45,8 @@ ________
 ### ❗ `MP-133 Reskin` Fresh new skin that is a bit more efficient.
 
 ### ❗ `Shovel` Buffed headshot damage multiplier from 1.4x to 1.6x (20% increase).
+
+### ❗ `Bullet Whiz` Bullet Whiz sound effect is now 3d.
 ________
 
 ## 🐛 Bugfixes
