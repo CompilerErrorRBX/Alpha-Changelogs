@@ -1,53 +1,21 @@
-# 📑 Changelog 10/13/2025 - 10/XX/2025
+# 📑 Changelog 10/22/2025 - 10/25/2025
 
 ## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
-
-________
-
-## 🗺️ Map Changes
-
-### D5-D7 Rework
-- Redid road design. Less straight, more curvey.
-- Added small town at intersection north of Flat Peak.
-- Added single military truck crash sight.
-- Added more trees/bushes
-
-### Flat Peak
-- Added more line-of-sight blocks in terrain.
-- Removed green ammo house.
-- Fixed lopsided roads at south entrance.
-- Added more trees.
-
-### Nuclear Power Plant
-- Replaced cabinets in medical room with hospital cabinets.
-- Added more medical cabinets in medical room.
-
-### General / Misc
-- Added basement hunting cabin near bomb shelter.
-- Improved terrain around main entrance to camp site.
-
+Happy Halloween! The Revenant has been unleashed in the world of Aftermath! Kill him and his minions to be given some unique weapons and items. But be careful, he wont go down without a fight.
 ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Day/Night Cycle` 
-- Day time is less "blue" tinted.
-- Overall less windy.
-- Cloudy days are less foggy.
-- Sunny days have less clouds in the sky.
+### 🔼 `Improvement` 
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `MP-133 Reskin` Fresh new skin that is a bit more efficient.
+### ❗ `Change` Reduced damage of helicopter explosion by 0.25x.
 
-### ❗ `Shovel` Buffed headshot damage multiplier from 1.4x to 1.6x (20% increase).
-
-### ❗ `Bullet Whiz` Bullet Whiz sound effect is now 3d.
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug which caused ground items to become inaccessible until a player walked away and returned to it, typically with guns.
