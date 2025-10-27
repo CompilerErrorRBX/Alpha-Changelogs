@@ -13,7 +13,7 @@ ________
 - "Dark Fatigues" Tier3 Pants
 - "Pumpkin Patch" Duffle Bag
 - "Ghost Rider" Tier1 Helmet
-- "Cursed" Military Vest
+- "Trick Or Treat" Military Vest
 - "Cursed" AKM
 - "Cursed" Crossbow
 - "Cursed" Famas
