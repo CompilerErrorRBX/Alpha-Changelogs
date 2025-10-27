@@ -6,9 +6,35 @@
 Happy Halloween! The Revenant has been unleashed in the world of Aftermath! Kill him and his minions to be given some unique weapons and items. But be careful, he wont go down without a fight.
 ________
 
+## :gun: New Item Skins
+- "Revenants Skull" Tier2 Helmet
+- "Scare Crow" Tier2 Helmet
+- "Black Kevlar" Tier3 Shirt
+- "Dark Fatigues" Tier3 Pants
+- "Pumpkin Patch" Duffle Bag
+- "Ghost Rider" Tier1 Helmet
+- "Cursed" Military Vest
+- "Cursed" AKM
+- "Cursed" Crossbow
+- "Cursed" Famas
+- "Cursed" M4A1
+- "Cursed" MK14
+- "Cursed" MP133
+- "Cursed" PKM
+- "Cursed" TEC9
+- "Cursed" UMP45
+
+## :gun: Re-Released skins
+- "Spooky" AWM
+- "Bones" Uzi
+- "Bones" P226
+- "Candy Corn" MP5
+
+________
+
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` 
+### 🔼 `Improvement` Added Police Vest spawn to Police Weapon Lockers.
 
 ________
 
@@ -19,3 +45,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- Fixed bug causing cars to get "nan" health.
