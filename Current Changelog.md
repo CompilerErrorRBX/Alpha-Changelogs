@@ -12,6 +12,8 @@ ________
 - Clouds were almost always being mixed in too heavily to sunny days.
 - Fixed there never being rain. Still uncommon, but more than before.
 
+### 🔼 `Improvement` Improved UI/UX of compass
+
 ________
 
 ## ⚖️ Changes
