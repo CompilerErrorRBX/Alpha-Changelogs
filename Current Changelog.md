@@ -1,48 +1,24 @@
-# 📑 Changelog 10/22/2025 - 10/25/2025
+# 📑 Changelog 10/26/2025 - 11/???/2025
 
 ## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
-Happy Halloween! The Revenant has been unleashed in the world of Aftermath! Kill him and his minions to be given some unique weapons and items. But be careful, he wont go down without a fight.
-________
-
-## :gun: New Item Skins
-- "Revenants Skull" Tier2 Helmet
-- "Scare Crow" Tier2 Helmet
-- "Black Kevlar" Tier3 Shirt
-- "Dark Fatigues" Tier3 Pants
-- "Pumpkin Patch" Duffle Bag
-- "Ghost Rider" Tier1 Helmet
-- "Trick Or Treat" Military Vest
-- "Cursed" AKM
-- "Cursed" Crossbow
-- "Cursed" Famas
-- "Cursed" M4A1
-- "Cursed" MK14
-- "Cursed" MP133
-- "Cursed" PKM
-- "Cursed" TEC9
-- "Cursed" UMP45
-
-## :gun: Re-Released skins
-- "Spooky" AWM
-- "Bones" Uzi
-- "Bones" P226
-- "Candy Corn" MP5
 
 ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` Added Police Vest spawn to Police Weapon Lockers.
+### 🔼 `Improvement` Reworked weather system
+- Clouds were almost always being mixed in too heavily to sunny days.
+- Fixed there never being rain. Still uncommon, but more than before.
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Reduced damage of helicopter explosion by 0.25x.
+### ❗ `Change` Changed a contraversial thing.
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed bug causing cars to get "nan" health.
+- Fixed bug that was bugging out the game.
