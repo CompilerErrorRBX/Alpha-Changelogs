@@ -24,4 +24,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug which prevented interiors from modifying sounds profiles.
-- Fixed a bug where distant gunshot sounds did not play in the proper sound group.
+- Fixed a bug with several sounds not playing in the correct sound group.
