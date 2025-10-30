@@ -24,4 +24,5 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug which prevented interiors from modifying sounds profiles.
+- Fixed a bug which prevented rain from occurring.
 - Fixed a bug with several sounds not playing in the correct sound group.
