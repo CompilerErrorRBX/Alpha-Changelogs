@@ -3,6 +3,19 @@
 ## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
+________
+
+## 🗺️ Map Changes
+
+### North East Airfield POI
+- Redesigned small neighborhood to the north east of airfield.
+- Now has spawn locations for players.
+
+### Airfield
+- Larger POI than before.
+- More loot than before.
+- More spread out looting.
+- Added more hazmat zombies/medical spawns.
 
 ________
 
