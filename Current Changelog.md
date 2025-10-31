@@ -33,6 +33,9 @@ ________
 
 ### ❗ `Change` Changed a contraversial thing.
 
+### ❗ `Change` Made interaction selection more focused
+- Previously, interactions could be picked all the way out to the edge of the screen. Now, only interactions near the center of your screen will be selected.
+
 ________
 
 ## 🐛 Bugfixes
