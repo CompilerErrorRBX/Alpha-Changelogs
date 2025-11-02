@@ -36,6 +36,8 @@ ________
 ### ❗ `Change` Made interaction selection more focused
 - Previously, interactions could be picked all the way out to the edge of the screen. Now, only interactions near the center of your screen will be selected.
 
+### ❗ `Change` Increased spawn rate of NVG Tier 3 by significantly in high tier spawns
+
 ________
 
 ## 🐛 Bugfixes
