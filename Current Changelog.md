@@ -11,6 +11,9 @@ ________
 - Redesigned small neighborhood to the north east of airfield.
 - Now has spawn locations for players.
 
+### South East Airfield
+- Added some farm buildings near overpass.
+
 ### Airfield
 - Larger POI than before.
 - More loot than before.
