@@ -41,6 +41,8 @@ ________
 
 ### ❗ `Change` Humvees are now lootable. They contain military gear/weapons/ammo
 
+### ❗ `Change` Buffed Ghillie from T1 to T3 clothing
+
 ________
 
 ## 🐛 Bugfixes
