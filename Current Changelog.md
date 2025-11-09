@@ -30,6 +30,9 @@ ________
 
 ### 🔼 `Improvement` Improved UI/UX of compass
 
+### 🔼 `Improvement` [MINOR] Skinned items can have proper ground, character, and view models now.
+- Previously, only one model was allowed per skin.
+
 ________
 
 ## ⚖️ Changes
