@@ -45,6 +45,7 @@ ________
 
 ### ❗ `Change` Simplified item pool with tiered items
 - All items of the same tier are reskinnable to any other item in that tier (i.e. Duffle bag can be reskinned to Mulepack Black)
+- An exception exists for exceptional items such as Hazmat, Ghillie, etc.
 
 ________
 
