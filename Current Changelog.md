@@ -43,6 +43,9 @@ ________
 
 ### ❗ `Change` Buffed Ghillie from T1 to T3 clothing
 
+### ❗ `Change` Simplified item pool with tiered items
+- All items of the same tier are reskinnable to any other item in that tier (i.e. Duffle bag can be reskinned to Mulepack Black)
+
 ________
 
 ## 🐛 Bugfixes
