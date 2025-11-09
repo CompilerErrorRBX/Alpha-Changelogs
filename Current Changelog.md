@@ -50,7 +50,7 @@ ________
 ### ❗ `Change` Hunting clothing converted into tier 2 skin
 - Existing hunting shirts will be converted into a `Tier 3 Shirt` with the `Black Tactical` skin applied.
 - Existing hunting pants will be converted into `Tier 3 Pants` with the `Black Tactical` skin applied.
-- 
+
 ________
 
 ## 🐛 Bugfixes
