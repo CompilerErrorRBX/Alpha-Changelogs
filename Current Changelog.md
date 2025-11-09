@@ -24,7 +24,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` Reworked weather system
+### 🔼 `Improvement` Improved weather system
 - Clouds were almost always being mixed in too heavily to sunny days.
 - Fixed there never being rain. Still uncommon, but more than before.
 
