@@ -46,10 +46,6 @@ ________
 
 ### ❗ `Change` Buffed Ghillie from T1 to T3 clothing
 
-### ❗ `Change` Simplified item pool of tiered items
-- All items of the same tier are reskinnable to any other item in that tier (i.e. Duffle bag can be reskinned to Mulepack Black)
-- An exception exists for exceptional items such as Hazmat, Ghillie, etc. These will have their own skin pools (if/when we add skins for them).
-
 ### ❗ `Change` Hunting clothing converted into tier 2 skin
 - Existing hunting shirts will be converted into a `Tier 3 Shirt` with the `Black Tactical` skin applied.
 - Existing hunting pants will be converted into `Tier 3 Pants` with the `Black Tactical` skin applied.
