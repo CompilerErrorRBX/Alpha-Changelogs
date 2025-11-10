@@ -10,9 +10,7 @@ ________
 ### North East Airfield POI
 - Redesigned small neighborhood to the north east of airfield.
 - Now has spawn locations for players.
-
-### South East of Airfield
-- Added some farm buildings near overpass.
+- Added some farm buildings near overpass south east of airfield
 
 ### Airfield
 - Larger POI than before.
