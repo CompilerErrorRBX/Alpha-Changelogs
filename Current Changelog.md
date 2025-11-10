@@ -48,6 +48,8 @@ ________
 - Existing hunting shirts will be converted into a `Tier 3 Shirt` with the `Black Tactical` skin applied.
 - Existing hunting pants will be converted into `Tier 3 Pants` with the `Black Tactical` skin applied.
 
+### ❗ `Change` Welding Mask is now eyewear item instead of a facemask.
+
 ________
 
 ## 🐛 Bugfixes
