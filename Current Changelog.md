@@ -11,7 +11,7 @@ ________
 - Redesigned small neighborhood to the north east of airfield.
 - Now has spawn locations for players.
 
-### South East Airfield
+### South East of Airfield
 - Added some farm buildings near overpass.
 
 ### Airfield
