@@ -50,6 +50,8 @@ ________
 
 ### ❗ `Change` Welding Mask is now eyewear item instead of a facemask.
 
+### ❗ `Change` Old NVG is removed from the game.
+- Existing NVG will be replaced with the equivalent new NVG items (provided there is space in your inventory).
 ________
 
 ## 🐛 Bugfixes
