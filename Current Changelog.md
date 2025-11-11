@@ -31,6 +31,8 @@ ________
 ### 🔼 `Improvement` [MINOR] Skinned items can have proper ground, character, and view models now.
 - Previously, only one model was allowed per skin.
 
+### 🔼 `Improvement` [MINOR] Upon loading, if an item cannot be equipped it will attempt to put the item into your inventory.
+- Previously, the item would just be deleted.
 ________
 
 ## ⚖️ Changes
