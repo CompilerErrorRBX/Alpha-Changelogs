@@ -56,6 +56,16 @@ ________
 
 ### ❗ `Change` Old NVG is removed from the game.
 - Existing NVG will be replaced with the equivalent new NVG items (provided there is space in your inventory).
+
+### ❗ `Change` Run animations on rifles and pistols are now standardized.
+
+### ❗ `Change` Updated Fists animation set.
+
+### ❗ `Change` Updated Medkit animation set.
+
+### ❗ `Change` Updated Bandage animation set.
+
+### ❗ `Change` Updated Axe/Fire Axe animation set.
 ________
 
 ## 🐛 Bugfixes
