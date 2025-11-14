@@ -17,7 +17,14 @@ ________
 - More loot than before.
 - More spread out looting.
 - Added more hazmat zombies/medical spawns.
+________
 
+## 🔫 New Items
+
+### M79 Grenade Launcher
+- 40MM Grenade Launcher.
+- Found in high tier caches.
+  
 ________
 
 ## 📢 Features and Improvements
