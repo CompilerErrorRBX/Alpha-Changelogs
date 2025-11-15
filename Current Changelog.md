@@ -73,6 +73,8 @@ ________
 ### ❗ `Change` Updated Bandage animation set.
 
 ### ❗ `Change` Updated Axe/Fire Axe animation set.
+
+### ❗ `Change` Explosions now do 6x more damage to vehicles.
 ________
 
 ## 🐛 Bugfixes
