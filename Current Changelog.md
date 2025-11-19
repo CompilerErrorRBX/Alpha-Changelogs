@@ -23,7 +23,7 @@ ________
 
 ### M79 Grenade Launcher
 - 40MM Grenade Launcher.
-- Found in high tier caches.
+- Found in heli crash event.
   
 ________
 
