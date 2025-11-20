@@ -32,7 +32,7 @@ ________
 
 ### Makeshift Face Shield
 - Crafted face shield attachment for `Makeshift Helmet`. Increases head protection by 1 tier.
-- Recipe: 1x Duct Tape, 30x Scrap Cloth, 25x Scrap Metal, 1x Tier 1 Helmet (any)
+- Recipe: 30x Scrap Cloth, 25x Scrap Metal
 
 ________
 
