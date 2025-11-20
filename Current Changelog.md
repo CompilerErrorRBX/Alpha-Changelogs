@@ -89,6 +89,9 @@ ________
 - Shoes, Sneakers, and Boots all got new models
 - Large medkit got a new model
 
+### ❗ `Change` Phasing out Operator helmets
+> These are replaced with their respective basic military helmet. This is to facilitate the future hearing protection changes.
+
 ________
 
 ## 🐛 Bugfixes
