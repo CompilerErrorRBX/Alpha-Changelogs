@@ -48,6 +48,7 @@ ________
 
 ### 🔼 `Improvement` [MINOR] Skinned items can have proper ground, character, and view models now.
 - Previously, only one model was allowed per skin.
+- A consequence of doing this is that *nearly* every non-weapon equippable item in the game with durability will be repaired.
 
 ### 🔼 `Improvement` [MINOR] Upon loading, if an item cannot be equipped it will attempt to put the item into your inventory.
 - Previously, the item would just be deleted.
