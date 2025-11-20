@@ -24,7 +24,16 @@ ________
 ### M79 Grenade Launcher
 - 40MM Grenade Launcher.
 - Found in heli crash event.
-  
+
+### Makeshift Helmet
+- Crafted Tier 1-2 helmet (tier 2 with additional face shield attachment)
+- Has attachment slot for night vision, and makeshift face shield.
+- Recipe: 1x Duct Tape, 30x Scrap Cloth, 25x Scrap Metal, 1x Tier 1 Helmet (any)
+
+### Makeshift Face Shield
+- Crafted face shield attachment for `Makeshift Helmet`. Increases head protection by 1 tier.
+- Recipe: 1x Duct Tape, 30x Scrap Cloth, 25x Scrap Metal, 1x Tier 1 Helmet (any)
+
 ________
 
 ## 📢 Features and Improvements
@@ -75,6 +84,11 @@ ________
 ### ❗ `Change` Updated Axe/Fire Axe animation set.
 
 ### ❗ `Change` Explosions now do 6x more damage to vehicles.
+
+### ❗ `Change` Updated item models
+- Shoes, Sneakers, and Boots all got new models
+- Large medkit got a new model
+
 ________
 
 ## 🐛 Bugfixes
