@@ -19,6 +19,15 @@ ________
 - Added more hazmat zombies/medical spawns.
 ________
 
+## ✨ New Event
+
+### Mysterious CD-ROM
+- Bomb Shelter now has a chance of spawning a mysterious CD-ROM.
+- Take it to airfield for a surprise!
+- Not limited!
+
+________
+
 ## 🔫 New Items
 
 ### M79 Grenade Launcher
