@@ -95,6 +95,8 @@ ________
 
 ### ❗ `Change` Explosions now do 6x more damage to vehicles.
 
+### ❗ `Change` The delay when releasing a grenade from your hand is lessoned.
+
 ### ❗ `Change` Updated item models
 - Shoes, Sneakers, and Boots all got new models
 - Large medkit got a new model
