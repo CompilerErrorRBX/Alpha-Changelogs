@@ -110,3 +110,4 @@ ________
 - Fixed a bug which prevented interiors from modifying sounds profiles.
 - Fixed a bug which prevented rain from occurring.
 - Fixed a bug with several sounds not playing in the correct sound group.
+- Fixed a bug which caused gun ammo to become desynced from the server. Potentially preventing you from reloading or shooting.
