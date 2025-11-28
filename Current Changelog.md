@@ -105,10 +105,10 @@ ________
 > These are replaced with their respective basic military helmet. This is to facilitate the future hearing protection changes.
 
 ### ❗ `Change` Buffed rare zombie drops
-> Firefighter zombies now drop related items.
-> Police zombies drop weapons and ammo more often.
-> Sheriff zombies drop weapons and ammo more often.
-> Military zombies drop items more often.
+- Firefighter zombies now drop related items.
+- Police zombies drop weapons and ammo more often.
+- Sheriff zombies drop weapons and ammo more often.
+- Military zombies drop items more often.
 
 ________
 
