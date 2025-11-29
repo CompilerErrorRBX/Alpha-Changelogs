@@ -17,6 +17,10 @@ ________
 - More loot than before.
 - More spread out looting.
 - Added more hazmat zombies/medical spawns.
+
+### Neighborhood
+- New fresh-spawn neighborhood west of Almosta Town
+  
 ________
 
 ## ✨ New Event
