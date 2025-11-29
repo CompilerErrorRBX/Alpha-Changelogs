@@ -50,6 +50,13 @@ ________
 - Crafted face shield attachment for `Makeshift Helmet`. Increases head protection by 1 tier.
 - Recipe: 30x Scrap Cloth, 25x Scrap Metal
 
+### AS-VAL
+- Internally supressed assault rifle.
+- Takes 9x39MM ammunition.
+
+### 9x39MM Ammunition.
+- Subsonic round.
+
 ________
 
 ## 📢 Features and Improvements
