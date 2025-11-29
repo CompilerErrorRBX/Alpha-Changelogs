@@ -19,7 +19,10 @@ ________
 - Added more hazmat zombies/medical spawns.
 
 ### Neighborhood
-- New fresh-spawn neighborhood west of Almosta Town
+- New fresh-spawn neighborhood West of Almosta Town.
+
+### Radio Tower
+- Reduced mountain steepness.
   
 ________
 
