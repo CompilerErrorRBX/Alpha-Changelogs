@@ -108,6 +108,7 @@ ________
 ### ❗ `Change` Updated Axe/Fire Axe animation set.
 
 ### ❗ `Change` Explosions now do 6x more damage to vehicles.
+- They also now shake your screen.
 
 ### ❗ `Change` The delay when releasing a grenade from your hand is lessoned.
 
