@@ -31,7 +31,7 @@ ________
 ### Mysterious CD-ROM
 - Bomb Shelter now has a chance of spawning a mysterious CD-ROM.
 - Take it to airfield for a surprise!
-- Not limited!
+- Permenant Event!
 
 ________
 
