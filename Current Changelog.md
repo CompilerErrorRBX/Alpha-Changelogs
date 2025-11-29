@@ -54,7 +54,7 @@ ________
 - Internally supressed assault rifle.
 - Takes 9x39MM ammunition.
 
-### 9x39MM Ammunition.
+### 9x39MM Ammunition
 - Subsonic round.
 
 ________
