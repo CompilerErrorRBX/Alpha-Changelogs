@@ -28,10 +28,7 @@ ________
 
 ## ✨ New Event
 
-### Mysterious CD-ROM
-- Bomb Shelter now has a chance of spawning a mysterious CD-ROM.
-- Take it to airfield for a surprise!
-- Permenant Event!
+### Russian Airfield Raid
 
 ________
 
