@@ -104,6 +104,10 @@ ________
 
 ### ❗ `Change` Updated Axe/Fire Axe animation set.
 
+### ❗ `Change` SCAR-L animation set.
+
+### ❗ `Change` Makeshift Hatchet animation set.
+
 ### ❗ `Change` Explosions now do 6x more damage to vehicles.
 - They also now shake your screen.
 
