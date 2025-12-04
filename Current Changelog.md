@@ -54,6 +54,9 @@ ________
 ### 9x39MM Ammunition
 - Subsonic round.
 
+### Holo Sight
+- Similar to Red Dot Sight
+
 ________
 
 ## 📢 Features and Improvements
