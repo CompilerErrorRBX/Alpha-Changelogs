@@ -34,6 +34,11 @@ ________
 
 ## 🔫 New Items
 
+### Assault Pack
+- Tier 4 Backpack
+- 32 slot capacity
+- 4500μ weight capacity
+
 ### M79 Grenade Launcher
 - 40MM Grenade Launcher.
 - Found in heli crash event.
