@@ -72,6 +72,8 @@ ________
 
 ### 🔼 `Improvement` Improved UI/UX of compass.
 
+### 🔼 `Improvement` Improved UI/UX of skin selection UI.
+
 ### 🔼 `Improvement` Added screen shake effect when explosions explode nearby.
 
 ### 🔼 `Improvement` [MINOR] Skinned items can have proper ground, character, and view models now.
