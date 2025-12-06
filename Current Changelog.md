@@ -60,7 +60,7 @@ ________
 - Subsonic round.
 
 ### Holo Sight
-- Similar to Red Dot Sight
+- New reticle attachment found in tier3 crates
 
 ________
 
