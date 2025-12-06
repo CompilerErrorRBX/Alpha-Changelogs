@@ -73,6 +73,8 @@ ________
 ### 🔼 `Improvement` Improved UI/UX of compass.
 
 ### 🔼 `Improvement` Improved UI/UX of skin selection UI.
+> We'll be adding a `Make Default` option to skins in the selection UI in the next update.
+> Additionally, when clicking "Purchase" on a skin, the future shop UI will filter accordingly, showing actual purchases for that item.
 
 ### 🔼 `Improvement` Added screen shake effect when explosions explode nearby.
 
@@ -144,3 +146,5 @@ ________
 - Fixed a bug with several sounds not playing in the correct sound group.
 - Fixed a bug which caused gun ammo to become desynced from the server. Potentially preventing you from reloading or shooting.
 - Fixed a bug which occasionally prevented blood droplets from displaying on screen.
+- Fixed a bug where some items visually looked wrong on the ground
+- Fixed a bug where some items fell apart on the ground
