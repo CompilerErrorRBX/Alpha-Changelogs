@@ -7,7 +7,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` Added grenade bounce sound
+### 🔼 `Improvement` Added frag grenade bounce sound
 ________
 
 ## ⚖️ Changes
