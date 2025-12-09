@@ -28,4 +28,5 @@ ________
 > Should now take the tier 1 helmet from the equip slot and finish the craft.
 - Fixed a bug which prevented the `Camo Operator Helmet` from being reskinned to a `Multicam Military Helmet`
 - Fixed a sink-hole near Airfield.
+- Fixed a bug where the item info viewer would show an icon when it should show a model (especially for tier 1 helmets)
 - Removed mistakenly added dummy character in Airfield.
