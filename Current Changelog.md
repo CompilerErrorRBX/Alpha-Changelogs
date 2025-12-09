@@ -26,3 +26,6 @@ ________
 - Fixed a bug where zombie drops did not have their proper skin applied.
 - Fixed a bug which prevented crafting the `Makeshift Helmet` if your `Tier 1 Helmet` was equipped.
 > Should now take the tier 1 helmet from the equip slot and finish the craft.
+- Fixed a bug which prevented the `Camo Operator Helmet` from being reskinned to a `Multicam Military Helmet`
+- Fixed a sink-hole near Airfield.
+- Removed mistakenly added dummy character in Airfield.
