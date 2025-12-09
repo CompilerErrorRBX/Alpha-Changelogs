@@ -7,7 +7,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` Improved the thing!
+### 🔼 `Improvement` Added grenade bounce sound
 ________
 
 ## ⚖️ Changes
