@@ -12,7 +12,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Changed everything
+### ❗ `Change` Sheriff Zombie now always drops a hat if it has it equipped.
 
 ________
 
