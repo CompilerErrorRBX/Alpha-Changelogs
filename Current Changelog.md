@@ -8,6 +8,8 @@ ________
 ## 📢 Features and Improvements
 
 ### 🔼 `Improvement` Added frag grenade bounce sound
+
+### 🔼 `Improvement` Updated minimap image
 ________
 
 ## ⚖️ Changes
