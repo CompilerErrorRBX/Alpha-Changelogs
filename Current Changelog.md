@@ -1,4 +1,4 @@
-# 📑 Changelog 12/07/2025 - 12/???/2025
+# 📑 Changelog 12/10/2025 - 12/???/2025
 
 ## 🟢 Status `Unreleased`
 
@@ -17,4 +17,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed the bugs and things
+- Fixed a bug where your player would easily get "stuck" to other players and zombies.
