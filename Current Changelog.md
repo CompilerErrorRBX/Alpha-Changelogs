@@ -18,3 +18,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where your player would easily get "stuck" to other players and zombies.
+- Fixed a misconfiguration with the crowbar which prevented it from being reskinned.
