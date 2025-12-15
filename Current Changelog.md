@@ -7,7 +7,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` Removed the whole game
+### 🔼 `Improvement` You can now use stamina and sprint up ladders.
 ________
 
 ## ⚖️ Changes
