@@ -23,3 +23,4 @@ ________
 - Fixed a bug where the Mosin Nagant had invisible parts in the inventory screens and HUD.
 - Fixed a bug where guns vehicle damage multiplier was not properly accounted for.
 - Fixed a bug where if you shot while being aim punched (flinching) your bullet was rejected on the server.
+- Fixed a bug where ladders did not make footstep sounds while climbing.
