@@ -12,7 +12,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Changed everything. Rip
+### ❗ `Change` Weapons with a tiny accuracy are now represented with a dot instead of crosshairs.
 
 ________
 
