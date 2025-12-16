@@ -24,3 +24,4 @@ ________
 - Fixed a bug where guns vehicle damage multiplier was not properly accounted for.
 - Fixed a bug where if you shot while being aim punched (flinching) your bullet was rejected on the server.
 - Fixed a bug where ladders did not make footstep sounds while climbing.
+- Fixed a bug where your camera was too high when sitting in a vehicle in first person view mode.
