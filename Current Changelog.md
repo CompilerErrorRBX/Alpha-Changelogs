@@ -14,6 +14,7 @@ ________
 
 ### ❗ `Change` Weapons with a tiny accuracy are now represented with a dot instead of crosshairs.
 
+### ❗ `Change` Reduced price of equipment airdrop (from 249 -> 199) 
 ________
 
 ## 🐛 Bugfixes
