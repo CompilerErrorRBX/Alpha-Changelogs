@@ -7,7 +7,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` You can now use stamina and sprint up ladders.
+### 🔼 `Improvement` You can now use stamina to rapidly climb ladders
 ________
 
 ## ⚖️ Changes
