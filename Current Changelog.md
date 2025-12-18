@@ -27,3 +27,4 @@ ________
 - Fixed a bug where ladders did not make footstep sounds while climbing.
 - Fixed a bug where your camera was too high when sitting in a vehicle in first person view mode.
 - Fixed a bug where bad item spawn data was in the military helmet spawn pool, causing invisible items.
+- Fixed several tier 2 and 3 shirt skins that were set to `Purchase` instead of the `Pickup` unlock type as they should have been.
