@@ -15,6 +15,16 @@ ________
 ### ❗ `Change` Weapons with a tiny accuracy are now represented with a dot instead of crosshairs.
 
 ### ❗ `Change` Reduced price of equipment airdrop (from 249 -> 199) 
+
+### ❗ `Change` Changed the way the bullet minimum damage is applied.
+> Previously, minimum damage was applied after everything, including armor damage modifiers. This lead to
+> issues with shotguns doing more damage than intended. For example, an Altyn with a face shield should reduce maximum
+> damage from an MP-133 from 154 -> 38.5 but instead it just hit its minimum damage value of 80 (8 per pellet.)
+> The intention behind this minimum damage value was for a minimum damage at range, where bullets experience a damage
+> dropoff with distance. Now this minimum damage value simply applies before the armor modifier and the damage is as expected
+> with armor.
+>
+> This will feel like a massive buff to Altyn and Ratnik especially, since their modifiers are much more relevent now.
 ________
 
 ## 🐛 Bugfixes
