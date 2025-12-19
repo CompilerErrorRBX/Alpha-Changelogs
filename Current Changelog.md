@@ -1,8 +1,9 @@
-# 📑 Changelog 12/10/2025 - 12/???/2025
+# 📑 Changelog 12/10/2025 - 12/19/2025
 
-## 🟢 Status `Unreleased`
+## 🟢 Status `Released`
 
 ## 💬 Patch Notes
+Merry Christmas!
 ________
 
 ## ✨ New Event
@@ -21,7 +22,6 @@ ________
 ### ACRO Red Dot
 - Pistol optic
 ________
-
 
 ## 📢 Features and Improvements
 
