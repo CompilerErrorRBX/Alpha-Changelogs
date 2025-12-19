@@ -5,6 +5,12 @@
 ## 💬 Patch Notes
 ________
 
+## ✨ New Event
+
+### Santa Claus Crash
+> Santa is crash landing in Aftermath. Eliminate him and his Elf minions and claim the presents for yourselves!
+________
+
 ## 📢 Features and Improvements
 
 ### 🔼 `Improvement` You can now use stamina to rapidly climb ladders
