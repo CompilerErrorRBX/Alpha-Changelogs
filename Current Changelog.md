@@ -14,6 +14,8 @@ ________
 ## 📢 Features and Improvements
 
 ### 🔼 `Improvement` You can now use stamina to rapidly climb ladders
+
+### 🔼 `Improvement` Added the new boot, sneaker, and shoe colors to the spawn pool
 ________
 
 ## ⚖️ Changes
