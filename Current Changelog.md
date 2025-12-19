@@ -9,7 +9,19 @@ ________
 
 ### Santa Claus Crash
 > Santa is crash landing in Aftermath. Eliminate him and his Elf minions and claim the presents for yourselves!
+
+### Christmas Skin Crate
+
+### Winter Themed Map
+
 ________
+
+## 🔫 New Items
+
+### ACRO Red Dot
+- Pistol optic
+________
+
 
 ## 📢 Features and Improvements
 
