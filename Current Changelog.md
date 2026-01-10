@@ -12,6 +12,8 @@ ________
 ### ✅ `Feature` Added feature to perform product data recoveries.
 - Hopefully we never need to use this again, but it makes doing more complex data recoveries trivial in the future.
 
+### 🔼 `Improvement` Disabled chat for users who are not age verified.
+
 ### 🔼 `Improvement` Improvements to various moderation tools.
 ________
 
