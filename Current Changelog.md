@@ -9,7 +9,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement`
+### 🔼 `Improvement` Improvements to various moderation tools.
 ________
 
 ## ⚖️ Changes
@@ -19,3 +19,12 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- Fixed a bug which made the `Fallen Soldier` and `Bag 'O Tricks` graves skins inaccessible.
+- Fixed a bug which allowed airdrop products to be shown in the lobby shop.
+- Fixed a bug which prevented bleed outs from being registered as kills.
+- Fixed a bug which caused zombies to never load in certain conditions.
+- Fixed a bug which caused the camera to be messed up after dying in first person.
+- Fixed a bug which allowed cheaters to fly if they never touched the ground from spawn.
+- (Hopefully) fixed a bug which caused players to fall through the ground when their ping was really high.
+- Readded missing `Medical Airdrop` product to the shop.
+- Readded missing `Halloween Crate` product to the shop.
