@@ -1,4 +1,4 @@
-# 📑 Changelog 12/19/2025 - --/--/2025
+# 📑 Changelog 12/26/2025 - --/--/2025
 
 ## 🟢 Status `Unreleased`
 
