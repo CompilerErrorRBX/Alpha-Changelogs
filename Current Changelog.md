@@ -9,6 +9,9 @@ ________
 
 ## 📢 Features and Improvements
 
+### ✅ `Feature` Added feature to perform product data recoveries.
+- Hopefully we never need to use this again, but it makes doing more complex data recoveries trivial in the future.
+
 ### 🔼 `Improvement` Improvements to various moderation tools.
 ________
 
