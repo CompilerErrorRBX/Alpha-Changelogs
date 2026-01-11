@@ -15,6 +15,7 @@ ________
 ### 🔼 `Improvement` Disabled chat for users who are not age verified.
 
 ### 🔼 `Improvement` Significant fixes to server performance.
+> Should yield about 20-40 FPS improvements, obviously capped at 60FPS. Some servers were running as slowly as 10FPS due to these defects.
 - Santa Event contained CPU leaks which, over time, caused significant performance slowdowns on servers.
 - Found some old code which should not have been running which was consuming about 10% of available frame time to maintain 60 FPS on servers.
 
