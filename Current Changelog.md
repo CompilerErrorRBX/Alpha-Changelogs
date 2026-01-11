@@ -14,6 +14,10 @@ ________
 
 ### 🔼 `Improvement` Disabled chat for users who are not age verified.
 
+### 🔼 `Improvement` Significant fixes to server performance.
+- Santa Event contained CPU leaks which, over time, caused significant performance slowdowns on servers.
+- Found some old code which should not have been running which was consuming about 10% of available frame time to maintain 60 FPS on servers.
+
 ### 🔼 `Improvement` Improvements to various moderation tools.
 ________
 
