@@ -19,7 +19,11 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` 
+### ❗ `Change` Ended the Santa Christmas event.
+- Santa Bundle is no longer for sale.
+- Christmas crates are not longer for sale.
+- Snow Ghillie no longer obtainable.
+- Map returned to greener pastures.
 
 ________
 
