@@ -34,6 +34,7 @@ ________
 
 ## 🐛 Bugfixes
 - [Major] Fixed a bug which prevented the game from initializing in some cases, leading to an infinite loading screen.
+- Fixed a bug which would occasionally cause the title screen and game to get stuck in a bad state, pre-loaded.
 - Fixed a bug which made the `Fallen Soldier` and `Bag 'O Tricks` graves skins inaccessible.
 - Fixed a bug which allowed airdrop products to be shown in the lobby shop.
 - Fixed a bug which prevented bleed outs from being registered as kills.
