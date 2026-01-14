@@ -20,8 +20,6 @@ ________
 - Found some old code which should not have been running which was consuming about 10% of available frame time to maintain 60 FPS on servers.
 
 ### 🔼 `Improvement` Added experimental rendering optimization.
-> The game now, very conservatively, unrender building interiors on supported buildings.
-> This optimization is experimental, but feels reasonably stable for the time being, looking for feedback from players on this.
 
 ### 🔼 `Improvement` Improvements to various moderation tools.
 ________
