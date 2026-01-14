@@ -40,11 +40,11 @@ ________
 
 ## 🐛 Bugfixes
 - [Major] Fixed a bug which prevented the game from initializing in some cases, leading to an infinite loading screen.
+- [Major] Fixed a bug which caused zombies to never load in certain conditions.
 - Fixed a bug which would occasionally cause the title screen and game to get stuck in a bad state, pre-loaded.
 - Fixed a bug which made the `Fallen Soldier` and `Bag 'O Tricks` graves skins inaccessible.
 - Fixed a bug which allowed airdrop products to be shown in the lobby shop.
 - Fixed a bug which prevented bleed outs from being registered as kills.
-- Fixed a bug which caused zombies to never load in certain conditions.
 - Fixed a bug which caused the camera to be messed up after dying in first person.
 - Fixed a bug which allowed cheaters to fly if they never touched the ground from spawn.
 - Fixed a bug where consumables didn't make any sound in some cases.
