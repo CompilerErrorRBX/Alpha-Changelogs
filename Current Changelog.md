@@ -1,8 +1,9 @@
-# 📑 Changelog 12/26/2025 - --/--/2025
+# 📑 Changelog 12/26/2025 - 01/14/2025
 
-## 🟢 Status `Unreleased`
+## 🟢 Status `Released`
 
 ## 💬 Patch Notes
+Focused on several bug fixes and found a few low-hanging optimization opportunities. Did some prep work for the upcoming in-game currency and item stashing system.
 ________
 
 ________
