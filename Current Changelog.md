@@ -20,6 +20,7 @@ ________
 - Found some old code which should not have been running which was consuming about 10% of available frame time to maintain 60 FPS on servers.
 
 ### 🔼 `Improvement` Added experimental rendering optimization.
+> Saw improvements of up to 60FPS in some cases. This optimization is experimental and may not improve performance across all devices.
 
 ### 🔼 `Improvement` Improvements to various moderation tools.
 ________
