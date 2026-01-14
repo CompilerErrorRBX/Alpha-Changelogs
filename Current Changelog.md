@@ -22,6 +22,10 @@ ________
 ### 🔼 `Improvement` Added experimental rendering optimization.
 > Saw improvements of up to 60FPS in some cases. This optimization is experimental and may not improve performance across all devices.
 
+### 🔼 `Improvement` Improvements to first person view
+- 3rd person view models are now properly removed upon switching to first person view.
+- Decent performance improvement as a result of these changes as well.
+
 ### 🔼 `Improvement` Improvements to various moderation tools.
 ________
 
@@ -44,6 +48,7 @@ ________
 - Fixed a bug which caused zombies to never load in certain conditions.
 - Fixed a bug which caused the camera to be messed up after dying in first person.
 - Fixed a bug which allowed cheaters to fly if they never touched the ground from spawn.
+- Fixed a bug where consumables didn't make any sound in some cases.
 - (Hopefully) fixed a bug which caused the Gun HUD details to disappear.
 - (Hopefully) fixed a bug which caused players to fall through the ground when their ping was really high.
 - Readded missing `Medical Airdrop` product to the shop.
