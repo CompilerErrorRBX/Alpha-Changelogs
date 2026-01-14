@@ -6,8 +6,6 @@
 Focused on several bug fixes and found a few low-hanging optimization opportunities. Did some prep work for the upcoming in-game currency and item stashing system.
 ________
 
-________
-
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Added feature to perform product data recoveries.
