@@ -29,6 +29,8 @@ ________
 - Bullet speed change (from 875m/s - 330m/s)
 - Reduced volume of gun shots by 40%
 
+### ❗ `Change` MK-47 ammo type changed (from 223 Rem to 7.62 Soviet)
+
 ### ❗ `Change` Crafting Recipe for 9x39mm ammo
 - Reduced `Gun Powder` cost (from 8x -> 6x)
 - Reduced `Scrap Metal` cost (from 6x -> 4x)
