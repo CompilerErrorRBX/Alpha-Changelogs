@@ -38,12 +38,12 @@ ________
 - Side effect of this change is that .223 bullets inside of the gun will be deleted, sorry.
 
 ### ❗ `Change` Crafting Recipe for 9x39mm ammo
-- Reduced `Gun Powder` cost (from 12x -> 11x)
-- Reduced `Scrap Metal` cost (from 7x -> 6x)
-
-### ❗ `Change` Crafting Recipe for 7.62x54mmR ammo
 - Reduced `Gun Powder` cost (from 8x -> 6x)
 - Reduced `Scrap Metal` cost (from 6x -> 4x)
+
+### ❗ `Change` Crafting Recipe for 7.62x54mmR ammo
+- Reduced `Gun Powder` cost (from 12x -> 11x)
+- Reduced `Scrap Metal` cost (from 7x -> 6x)
 
 ### ❗ `Change` Increased spawn rate for 40mm Grenade (from 1% to 5%)
 - Spawns in high tier gear locations.
