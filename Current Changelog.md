@@ -23,8 +23,13 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` 
+### ❗ `Change` AS-VAL Stat Rework
+- RPM change (from 750 - 900)
+- Base damage change (from 30 - 18)
+- Bullet speed change (from 875m/s - 330m/s)
+- Reduced volume of gun shots by 40%
 
 ________
 
 ## 🐛 Bugfixes
+- Fixed a bug where zombies did not react to lower volume gunshots properly.
