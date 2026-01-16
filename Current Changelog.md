@@ -29,6 +29,13 @@ ________
 - Bullet speed change (from 875m/s - 330m/s)
 - Reduced volume of gun shots by 40%
 
+### ❗ `Change` Crafting Recipe for 9x39mm ammo
+- Reduced `Gun Powder` cost (from 8x -> 6x)
+- Reduced `Scrap Metal` cost (from 6x -> 4x)
+
+### ❗ `Change` Increased spawn rate for 40mm Grenade (from 1% to 5%)
+- Spawns in high tier gear locations.
+
 ________
 
 ## 🐛 Bugfixes
