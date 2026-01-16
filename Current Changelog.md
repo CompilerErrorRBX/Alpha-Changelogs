@@ -30,6 +30,7 @@ ________
 - Reduced volume of gun shots by 40%
 
 ### ❗ `Change` MK-47 ammo type changed (from 223 Rem to 7.62 Soviet)
+- Side effect of this change is that .223 bullets inside of the gun will be deleted, sorry.
 
 ### ❗ `Change` Crafting Recipe for 9x39mm ammo
 - Reduced `Gun Powder` cost (from 8x -> 6x)
