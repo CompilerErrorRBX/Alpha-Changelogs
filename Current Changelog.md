@@ -17,7 +17,7 @@ ________
 
 ### ✅ `Feature` 
 
-### 🔼 `Improvement` 
+### 🔼 `Improvement` Improved the performance of the new rendering optimization slightly.
 
 ________
 
@@ -29,10 +29,19 @@ ________
 - Bullet speed change (from 875m/s - 330m/s)
 - Reduced volume of gun shots by 40%
 
+### ❗ `Change` SVD Stats
+- Reduced Vehicle Damage Multiplier (from 5x -> 2.5x)
+-> This is much more on par with other DMRs.
+- Increased RPM (from 500 -> 600)
+
 ### ❗ `Change` MK-47 ammo type changed (from 223 Rem to 7.62 Soviet)
 - Side effect of this change is that .223 bullets inside of the gun will be deleted, sorry.
 
 ### ❗ `Change` Crafting Recipe for 9x39mm ammo
+- Reduced `Gun Powder` cost (from 12x -> 11x)
+- Reduced `Scrap Metal` cost (from 7x -> 6x)
+
+### ❗ `Change` Crafting Recipe for 7.62x54mmR ammo
 - Reduced `Gun Powder` cost (from 8x -> 6x)
 - Reduced `Scrap Metal` cost (from 6x -> 4x)
 
@@ -43,3 +52,6 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where zombies did not react to lower volume gunshots properly.
+- Fixed a bug where melee weapons did not consume stamina.
+- Fixed a bug which caused a medical airdrop to come when calling in a hazmat airdrop
+- (Hopefully) fixed a bug which caused doors to become desynced.
