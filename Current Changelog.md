@@ -51,6 +51,7 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- Fixed a misconfiguration where tier 2 body armor was only protecting the torso (Torso armor)
 - Fixed a bug where zombies did not react to lower volume gunshots properly.
 - Fixed a bug where melee weapons did not consume stamina.
 - Fixed a bug which caused a medical airdrop to come when calling in a hazmat airdrop
