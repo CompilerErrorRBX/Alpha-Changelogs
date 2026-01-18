@@ -56,4 +56,5 @@ ________
 - Fixed a bug where zombies did not react to lower volume gunshots properly.
 - Fixed a bug where melee weapons did not consume stamina.
 - Fixed a bug which caused a medical airdrop to come when calling in a hazmat airdrop
+- Fixed a bug with the Airfield event causing the NPCs, Crate, and Bomb to spawn at incorrect positions
 - (Hopefully) fixed a bug which caused doors to become desynced.
