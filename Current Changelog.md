@@ -23,7 +23,9 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change`
+### ❗ `Change` AS-VAL changes (buff)
+- Increased base damage (from 18 -> 22)
+- Increased headshot multiplier (from 2 -> 2.2)
 
 ________
 
