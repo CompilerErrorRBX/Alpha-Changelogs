@@ -48,6 +48,8 @@ ________
 
 ### ❗ `Change` M249 is now more rare
 
+### ❗ `Change` Industrial areas now spawn construction helmets (Tier1)
+
 ________
 
 ## 🐛 Bugfixes
