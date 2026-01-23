@@ -1,4 +1,4 @@
-# 📑 Changelog 01/14/2026 - xx/xx/2026
+# 📑 Changelog 01/19/2026 - 01/xx/2026
 
 ## 🟢 Status `Unreleased`
 
@@ -10,6 +10,10 @@ ________
 ### Assault Vest
 - Tier 3 Body Armor.
 - Found in Military zones.
+
+### Scissors
+- Used to craft medkits.
+- Spawns in `Bathroom Vanity`.
 
 ________
 
@@ -27,7 +31,16 @@ ________
 - Increased base damage (from 18 -> 22)
 - Increased headshot multiplier (from 2 -> 2.2)
 
+### ❗ `Change` Buffed Medical loot in apartments
+- Many apartment bathrooms have a closest which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
+- Added `Bathroom Vanity` ground items to bathroom shelves.
+
+### ❗ `Change` Medkits now require scissors to craft
+
+### ❗ `Change` M249 is now more rare
+
 ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where a players third person weapon models would get desynced.
+- Fixed a bug where removing an optic from your weapon didn't unhide the ironsights.
