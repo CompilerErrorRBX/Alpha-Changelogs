@@ -42,5 +42,5 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug where a players third person weapon models would get desynced.
+- Fixed a bug where players third person weapon models would get desynced.
 - Fixed a bug where removing an optic from your weapon didn't unhide the ironsights.
