@@ -14,6 +14,15 @@ ________
 ### Scissors
 - Used to craft medkits.
 - Spawns in `Bathroom Vanity`.
+________
+
+## 🗺️ Map Changes
+
+### North Paradise
+- Changed up the layout on the north side of Paradise.
+- More apartments
+- Removed farmland
+- Connected it with existing neighborhood
 
 ________
 
