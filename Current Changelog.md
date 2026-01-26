@@ -52,6 +52,8 @@ ________
 
 ### ❗ `Change` Industrial areas now spawn construction helmets (Tier1)
 
+### ❗ `Change` Residential garages now spawn more motorcycle helmets (Tier1)
+
 ________
 
 ## 🐛 Bugfixes
