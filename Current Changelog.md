@@ -19,10 +19,12 @@ ________
 ## 🗺️ Map Changes
 
 ### North Paradise
-- Changed up the layout on the north side of Paradise.
-- More apartments
-- Removed farmland
-- Connected it with existing neighborhood
+- More apartments.
+- Removed farmland.
+- Added neighborhood.
+- Connected it with existing neighborhood.
+- Added military checkpoint.
+- Added small survivor camp.
 
 ________
 
