@@ -9,7 +9,7 @@ ________
 
 ### Assault Vest
 - Tier 3 Body Armor.
-- Found in Military zones.
+- Found in Humvee.
 
 ### Scissors
 - Used to craft medkits.
