@@ -43,7 +43,7 @@ ________
 - Increased headshot multiplier (from 2 -> 2.2)
 
 ### ❗ `Change` Buffed Medical loot in apartments
-- Many apartment bathrooms have a closest which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
+- Many apartment bathrooms have a closets which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
 - Added `Bathroom Vanity` ground items to bathroom shelves.
 
 ### ❗ `Change` Medkits now require scissors to craft
