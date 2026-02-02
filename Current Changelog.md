@@ -11,6 +11,10 @@ ________
 - Tier 3 Body Armor.
 - Found in Humvee.
 
+### Firefighter Helmet
+- Tier1 Helmet skin.
+- Found near Fire Department and on Firefighter zombies
+
 ### Scissors
 - Used to craft medkits.
 - Spawns in `Bathroom Vanity`.
