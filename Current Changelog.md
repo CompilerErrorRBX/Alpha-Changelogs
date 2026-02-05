@@ -38,7 +38,8 @@ ________
 
 ### 🔼 `Improvement` Improved the look of the first person view arms
 > Previously, they had a long stretched out texture at the end. Now we pull detail from elsewhere in the texture for clothing.
-- Added support for gloves and other things attached to the arms
+- Added support for gloves and other things attached to the arms.
+- Ghillie suits are now visible on the first person arms model.
 
 ________
 
@@ -64,6 +65,7 @@ ________
 - Reduced spawn rate of construction helmets on construction zombies (from 100% -> 30%).
 - Firefighters zombies have a 6% gas mask drop rate (previously this never dropped).
 - Added tier 2 pants spawns where tier 2 shirts spawn (this was an oversight)
+- Added `Underbarrel` attachment point for the `FN-FAL`
 
 ________
 
