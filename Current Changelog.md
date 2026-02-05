@@ -63,6 +63,8 @@ ________
 
 ### ❗ `Change` M249 is now more rare
 
+### ❗ `Change` ADded `Under Barrel` attachment for `FN-FAL`
+
 ### ❗ `Change` Industrial areas now spawn construction helmets (Tier1)
 
 ### ❗ `Change` Residential garages now spawn more motorcycle helmets (Tier1)
