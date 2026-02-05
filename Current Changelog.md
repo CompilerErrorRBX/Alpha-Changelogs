@@ -41,6 +41,9 @@ ________
 - Added support for gloves and other things attached to the arms.
 - Ghillie suits are now visible on the first person arms model.
 
+### 🔼 `Improvement` Minor Improvements
+- Improved UV texture mapping of the ground pants model.
+- Improved UV texture mapping of the ground shirts model.
 ________
 
 ## ⚖️ Changes
