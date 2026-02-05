@@ -46,6 +46,8 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` AS-VAL changes (buff)
+> Future state of this weapon will be again buffed with changes to the armor system. This weapon will have a higher armor penetration value than things like .223 or 7.62 soviet.
+> This weapon belongs to a class of short-ranged, high damage, high armor penetration, high fire rate weapons. Think tier 3 SMGs.
 - Increased base damage (from 18 -> 22)
 - Increased headshot multiplier (from 2 -> 2.2)
 
