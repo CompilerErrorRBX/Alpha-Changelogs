@@ -44,6 +44,7 @@ ________
 ### 🔼 `Improvement` Minor Improvements
 - Improved UV texture mapping of the ground pants model.
 - Improved UV texture mapping of the ground shirts model.
+- Changed texture on ghillie suit to appear more grassy, and added a hood.
 ________
 
 ## ⚖️ Changes
