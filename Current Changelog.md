@@ -63,6 +63,7 @@ ________
 
 ### ❗ `Change` Minor Changes
 - Reduced spawn rate of construction helmets on construction zombies (from 100% -> 30%).
+- Reduced the spawn rate of `Duffle Bag` items in military gear spawns. This was unintentionally set to about 40% (when a backpack spawns) when it should have been about 4%.
 - Firefighters zombies have a 6% gas mask drop rate (previously this never dropped).
 - Added tier 2 pants spawns where tier 2 shirts spawn (this was an oversight)
 - Added `Underbarrel` attachment point for the `FN-FAL`
