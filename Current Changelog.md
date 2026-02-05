@@ -9,7 +9,7 @@ ________
 
 ### Assault Vest
 - Tier 3 Body Armor.
-- Found in Humvee.
+- Found in Humvee and bunk chests.
 
 ### Firefighter Helmet
 - Tier1 Helmet skin.
@@ -36,7 +36,9 @@ ________
 
 ### ✅ `Feature` 
 
-### 🔼 `Improvement` 
+### 🔼 `Improvement` Improved the look of the first person view arms
+> Previously, they had a long stretched out texture at the end. Now we pull detail from elsewhere in the texture for clothing.
+- Added support for gloves and other things attached to the arms
 
 ________
 
@@ -57,6 +59,11 @@ ________
 ### ❗ `Change` Industrial areas now spawn construction helmets (Tier1)
 
 ### ❗ `Change` Residential garages now spawn more motorcycle helmets (Tier1)
+
+### ❗ `Change` Minor Changes
+- Reduced spawn rate of construction helmets on construction zombies (from 100% -> 30%).
+- Firefighters zombies have a 6% gas mask drop rate (previously this never dropped).
+- Added tier 2 pants spawns where tier 2 shirts spawn (this was an oversight)
 
 ________
 
