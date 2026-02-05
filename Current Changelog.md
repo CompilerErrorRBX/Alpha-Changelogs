@@ -63,7 +63,7 @@ ________
 
 ### ❗ `Change` M249 is now more rare
 
-### ❗ `Change` ADded `Under Barrel` attachment for `FN-FAL`
+### ❗ `Change` Added `Under Barrel` attachment for `FN-FAL`
 
 ### ❗ `Change` Industrial areas now spawn construction helmets (Tier1)
 
@@ -74,7 +74,6 @@ ________
 - Reduced the spawn rate of `Duffle Bag` items in military gear spawns. This was unintentionally set to about 40% (when a backpack spawns) when it should have been about 6%.
 - Firefighters zombies have a 6% gas mask drop rate (previously this never dropped).
 - Added tier 2 pants spawns where tier 2 shirts spawn (this was an oversight)
-- Added `Underbarrel` attachment point for the `FN-FAL`
 
 ________
 
