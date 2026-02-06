@@ -12,8 +12,13 @@ ________
 - Found in Humvee and bunk chests.
 
 ### Firefighter Helmet
-- Tier1 Helmet skin.
-- Found near Fire Department and on Firefighter zombies
+- Tier1 Helmet.
+- Found near `Fire Department` and on `Firefighter zombies`.
+
+### Ballistic Helmet
+- Tier1 Helmet.
+- Replaces Tier2 `Military Helmet` in `Police Stations`.
+- Much more common than previous helmet.
 
 ### Scissors
 - Used to craft medkits.
@@ -74,6 +79,7 @@ ________
 - Reduced the spawn rate of `Duffle Bag` items in military gear spawns. This was unintentionally set to about 40% (when a backpack spawns) when it should have been about 6%.
 - Firefighters zombies have a 6% gas mask drop rate (previously this never dropped).
 - Added tier 2 pants spawns where tier 2 shirts spawn (this was an oversight)
+- Buffed `Helmet` and `Vest` spawn rates in police stations.
 
 ________
 
