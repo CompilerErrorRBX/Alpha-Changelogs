@@ -41,6 +41,7 @@ ________
 - Connected it with existing neighborhood.
 - Added military checkpoint.
 - Added small survivor camp.
+- Swapped south-east church and north-east barn.
 
 ________
 
