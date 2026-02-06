@@ -71,9 +71,10 @@ ________
 - Shotguns had aim speeds nerfed from 1x -> 0.9x
 
 ### ❗ `Change` Weapon Lockers
-- Separated `Military Weapon Lockers` and `Police Weapon Lockers`.
+- Separated `Military Weapon Lockers`, `Fire Station Lockers`, and `Police Weapon Lockers`.
 - Military Weapon Lockers now spawn exclusively military loot.
 - Police Weapon Lockers now spawn exclusively police loot.
+- Fire Station Lockers now spawn firefighter loot and weapons.
 
 ### ❗ `Change` Buffed Medical loot in apartments
 - Many apartment bathrooms have a closets which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
