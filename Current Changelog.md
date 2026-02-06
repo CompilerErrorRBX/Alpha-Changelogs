@@ -104,6 +104,7 @@ ________
 - Firefighters zombies have a 6% gas mask drop rate (previously this never dropped).
 - Added tier 2 pants spawns where tier 2 shirts spawn (this was an oversight)
 - Buffed `Helmet` and `Vest` spawn rates in police stations.
+- Retextured police vest.
 
 ________
 
