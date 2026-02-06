@@ -23,6 +23,13 @@ ________
 ### Scissors
 - Used to craft medkits.
 - Spawns in `Bathroom Vanity`.
+
+### Reflex Gloves (tier 1 - 3)
+- Dexterity glove class (other classes coming soon).
+- 10-30% aim speed buff
+- 10-30% climb speed buff
+- 10-30% reload speed buff
+
 ________
 
 ## 🗺️ Map Changes
