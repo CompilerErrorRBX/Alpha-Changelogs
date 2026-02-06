@@ -1,4 +1,4 @@
-# 📑 Changelog 01/19/2026 - 01/xx/2026
+# 📑 Changelog 01/19/2026 - 02/06/2026
 
 ## 🟢 Status `Unreleased`
 
@@ -63,6 +63,11 @@ ________
 ### ❗ `Change` Makeshift Sniper changes
 - Increased damage from 40 -> 50
 - Decreased max distance from 1361m -> 972m
+
+### ❗ `Change` Weapon Lockers
+- Separated `Military Weapon Lockers` and `Police Weapon Lockers`.
+- Military Weapon Lockers now spawn exclusively military loot.
+- Police Weapon Lockers now spawn exclusively police loot.
 
 ### ❗ `Change` Buffed Medical loot in apartments
 - Many apartment bathrooms have a closets which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
