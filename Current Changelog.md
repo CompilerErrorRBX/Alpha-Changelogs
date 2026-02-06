@@ -22,7 +22,7 @@ ________
 
 ### Scissors
 - Used to craft medkits.
-- Spawns in `Bathroom Vanity`.
+- Spawns in `Bathroom Vanity`, `Kitchen Cabinet`, and `Filing Cabinet`.
 
 ### Reflex Gloves (tier 1 - 3)
 - Dexterity glove class (other classes coming soon).
