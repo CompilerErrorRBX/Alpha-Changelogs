@@ -34,11 +34,10 @@ ________
 
 ## 🗺️ Map Changes
 
-### North Paradise
+### Paradise
 - More apartments.
 - Removed farmland.
-- Added neighborhood.
-- Connected it with existing neighborhood.
+- Added neighborhood on north side, connecfting with existing neighborhood.
 - Added military checkpoint.
 - Added small survivor camp.
 - Swapped south-east church and north-east barn.
