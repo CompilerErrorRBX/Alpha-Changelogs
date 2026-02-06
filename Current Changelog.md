@@ -113,3 +113,4 @@ ________
 - Fixed a bug where players third person weapon models would get desynced.
 - Fixed a bug where removing an optic from your weapon didn't unhide the ironsights.
 - Fixed a bug which caused Russian FSB balaclava to be reskinned as a black mask.
+- 8x scopes no longer clip in to the camera while aiming down sights.
