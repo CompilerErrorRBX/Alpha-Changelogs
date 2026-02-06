@@ -60,6 +60,10 @@ ________
 - Increased base damage (from 18 -> 22)
 - Increased headshot multiplier (from 2 -> 2.2)
 
+### ❗ `Change` Makeshift Sniper changes
+- Increased damage from 40 -> 50
+- Decreased max distance from 1361m -> 972m
+
 ### ❗ `Change` Buffed Medical loot in apartments
 - Many apartment bathrooms have a closets which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
 - Added `Bathroom Vanity` ground items to bathroom shelves.
