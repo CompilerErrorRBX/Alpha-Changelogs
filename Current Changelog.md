@@ -29,7 +29,6 @@ ________
 - 10-30% aim speed buff
 - 10-30% climb speed buff
 - 10-30% reload speed buff
-- 10-30% recoil control buff
 
 ________
 
