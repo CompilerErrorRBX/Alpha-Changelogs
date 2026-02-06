@@ -65,8 +65,9 @@ ________
 - Decreased max distance from 1361m -> 972m
 
 ### ❗ `Change` Weapon Aim Speeds
-- Rifles had aim speeds nerfed from 1x -> 0.9x
 - Pistols had aim speeds buffed from 1x -> 1.15x
+- SMGs had aim speeds buffed from 1x -> 1.05x
+- Rifles had aim speeds nerfed from 1x -> 0.9x
 - Snipers had aim speeds nerfed from 1x -> 0.85x
 - Shotguns had aim speeds nerfed from 1x -> 0.9x
 
