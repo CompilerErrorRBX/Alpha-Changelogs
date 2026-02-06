@@ -68,7 +68,7 @@ ________
 - Pistols had aim speeds buffed from 1x -> 1.15x
 - SMGs had aim speeds buffed from 1x -> 1.05x
 - Rifles had aim speeds nerfed from 1x -> 0.9x
-- Snipers had aim speeds nerfed from 1x -> 0.85x
+- Snipers had aim speeds nerfed from 1x -> 0.8x
 - Shotguns had aim speeds nerfed from 1x -> 0.9x
 
 ### ❗ `Change` Weapon Lockers
