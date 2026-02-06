@@ -64,6 +64,12 @@ ________
 - Increased damage from 40 -> 50
 - Decreased max distance from 1361m -> 972m
 
+### ❗ `Change` Weapon Aim Speeds
+- Rifles had aim speeds nerfed from 1x -> 0.9x
+- Pistols had aim speeds buffed from 1x -> 0.85x
+- Snipers had aim speeds nerfed from 1x -> 0.85x
+- Shotguns had aim speeds nerfed from 1x -> 0.9x
+
 ### ❗ `Change` Weapon Lockers
 - Separated `Military Weapon Lockers` and `Police Weapon Lockers`.
 - Military Weapon Lockers now spawn exclusively military loot.
