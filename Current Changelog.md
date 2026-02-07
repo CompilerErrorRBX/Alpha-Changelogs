@@ -86,8 +86,8 @@ ________
 
 ### ❗ `Change` Medkits
 - Buffed `Medkit` healing from 40hp -> 50hp.
-- Buffed `Medkit` weight from 75u to 70u.
-- Buffed `Large Medkit` weight from 125u to 100u.
+- Buffed `Medkit` weight from 75u -> 70u.
+- Buffed `Large Medkit` weight from 125u -> 100u.
 
 ### ❗ `Change` Buffed Medical loot in apartments
 - Many apartment bathrooms have a closets which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
