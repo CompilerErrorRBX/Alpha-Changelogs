@@ -25,7 +25,7 @@ ________
 - Spawns in `Bathroom Vanity`, `Kitchen Cabinet`, and `Filing Cabinet`.
 
 ### Reflex Gloves (tier 1 - 3)
-- Dexterity glove class (other classes coming soon).
+- Dexterity glove class.
 - 10-30% aim speed buff
 - 10-30% climb speed buff
 - 10-30% reload speed buff
