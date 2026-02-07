@@ -84,6 +84,11 @@ ________
 - Police Weapon Lockers now spawn exclusively police loot.
 - Fire Station Lockers now spawn firefighter loot and weapons.
 
+### ❗ `Change` Medkits
+- Buffed `Medkit` healing from 40hp -> 50hp.
+- Buffed `Medkit` weight from 75u to 70u.
+- Buffed `Large Medkit` weight from 125u to 100u.
+
 ### ❗ `Change` Buffed Medical loot in apartments
 - Many apartment bathrooms have a closets which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
 - Added `Bathroom Vanity` ground items to bathroom shelves.
@@ -104,7 +109,6 @@ ________
 - Firefighters zombies have a 6% gas mask drop rate (previously this never dropped).
 - Added tier 2 pants spawns where tier 2 shirts spawn (this was an oversight)
 - Buffed `Helmet` and `Vest` spawn rates in police stations.
-- Buffed `Medkit` healing from 40hp -> 50hp.
 - Retextured police vest.
 
 ________
