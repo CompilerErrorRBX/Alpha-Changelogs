@@ -88,6 +88,7 @@ ________
 - Buffed `Medkit` healing from 40hp -> 50hp.
 - Decreased `Medkit` weight from 75u -> 70u.
 - Decreased `Large Medkit` weight from 125u -> 100u.
+- Now require scissors to craft.
 
 ### ❗ `Change` Buffed Medical loot in apartments
 - Many apartment bathrooms have a closets which spawn `Industrial` items. Now they spawn `Bathroom Vanity` items.
