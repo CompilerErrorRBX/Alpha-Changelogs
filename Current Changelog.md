@@ -11,6 +11,9 @@ ________
 
 ## 🗺️ Map Changes
 
+Minor Changes
+- Redid smal neighborhood south of Paradise motel
+
 ________
 
 ## 📢 Features and Improvements
