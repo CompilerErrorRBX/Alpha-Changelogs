@@ -42,6 +42,10 @@ ________
 
 ### ❗ `Change` 
 
+Orange Supply Box
+- Now spawns loot from Tier2Gear loot pool.
+- Now spawns Tier1 Weapons.
+
 Medkits
 - Reduced `Saline` cost from 4 -> 2.
 - Replaced `DuctTape` requirement with `DressedBandage`
