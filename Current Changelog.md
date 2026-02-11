@@ -1,11 +1,8 @@
-# 📑 Changelog 02/09/2026 - 02/XX/2026
+# 📑 Changelog 02/09/2026 - 02/11/2026
 
 ## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
-________
-
-## 🔫 New Items
 
 ________
 
@@ -33,8 +30,6 @@ Locked Containers
 - Small locked containers will spawn in various POIs.
 - These can be broken in to with melee weapons.
 - Break them open to get good loot.
-
-### 🔼 `Improvement` 
 
 ________
 
