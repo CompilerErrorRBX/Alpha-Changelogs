@@ -11,14 +11,27 @@ ________
 
 ## 🗺️ Map Changes
 
+Almosta Town
+- Changed layout of the center of the town.
+- Moved Police Station.
+- Added many apartments.
+- Moved Diner.
+  
 Minor Changes
-- Redid smal neighborhood south of Paradise motel
+- Redid small neighborhood south of Paradise motel.
+- Hospital ground spawns now spawn `Saline`.
+- New skybox.
 
 ________
 
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` 
+
+Locked Containers
+- Small locked containers will spawn in various POIs.
+- These can be broken in to with melee weapons.
+- Break them open to get good loot.
 
 ### 🔼 `Improvement` 
 
@@ -28,6 +41,10 @@ ________
 
 ### ❗ `Change` 
 
+Medkits
+- Reduced `Saline` cost from 4 -> 2.
+- Replaced `DuctTape` requirement with `DressedBandage`
+  
 ________
 
 ## 🐛 Bugfixes
