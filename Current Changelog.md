@@ -20,6 +20,7 @@ Almosta Town
 Minor Changes
 - Redid small neighborhood south of Paradise motel.
 - Hospital ground spawns now spawn `Saline`.
+- Swapped out some building assets with higher quality ones.
 - New skybox.
 
 ________
