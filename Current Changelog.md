@@ -1,4 +1,4 @@
-# 📑 Changelog 02/09/2026 - 02/11/2026
+# 📑 Changelog 02/11/2026 - xx/xx/xxxx
 
 ## 🟢 Status `Unreleased`
 
@@ -6,46 +6,40 @@
 
 ________
 
+## 🔫 New Items
+
+### Sledge Hammer
+- Base damage 45, 3x headshot multiplier 135 damage.
+- 100 structure damage.
+
+________
+
 ## 🗺️ Map Changes
 
-Almosta Town
-- Changed layout of the center of the town.
-- Moved Police Station.
-- Added many apartments.
-- Moved Diner.
-  
-Minor Changes
-- Redid small neighborhood south of Paradise motel.
-- Hospital ground spawns now spawn `Saline`.
-- Swapped out some building assets with higher quality ones.
-- New skybox.
+### Area Name
+- Details
 
 ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` 
+### ✅ `Feature` FEATURE
 
-Locked Containers
-- Small locked containers will spawn in various POIs.
-- These can be broken in to with melee weapons.
-- Break them open to get good loot.
+### 🔼 `Improvement` Improvement
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` 
+### ❗ `Change` Change
 
-Orange Supply Box
-- Now spawns loot from Tier2Gear loot pool.
-- Now spawns Tier1 Weapons.
-
-Medkits
-- Reduced `Saline` cost from 4 -> 2.
-- Replaced `DuctTape` requirement with `DressedBandage`
-  
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug where gloves had a shoe item type.
+- Fixed a bug which caused containers to never close in the vicinity tab.
+- Fixed a bug which caused some locked containers to duplicate, making them appear to take no damage or be stacked inside eachother.
+
+________
+
+## 🗒️ Additional Notes
+- Additional details
