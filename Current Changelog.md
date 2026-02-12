@@ -12,6 +12,14 @@ ________
 - Base damage 45, 3x headshot multiplier 135 damage.
 - 100 structure damage.
 
+### Plant Fibers
+- Obtained by scrapping sticks.
+
+## 🔫 New Crafting Recipes
+
+### Spool of Twine
+- Crafted with plant fibers.
+
 ________
 
 ## 🗺️ Map Changes
