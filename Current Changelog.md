@@ -15,11 +15,6 @@ ________
 ### Plant Fibers
 - Obtained by scrapping sticks.
 
-## 🔫 New Crafting Recipes
-
-### Spool of Twine
-- Crafted with plant fibers.
-
 ### Locked Medical Cabinet
 - Spawns medical items.
 - Located in offices.
@@ -27,6 +22,11 @@ ________
 ### Locked Military Locker
 - Spawns Tier3 military loot.
 - Located in military POI
+
+## 🔫 New Crafting Recipes
+
+### Spool of Twine
+- Crafted with plant fibers.
   
 ________
 
