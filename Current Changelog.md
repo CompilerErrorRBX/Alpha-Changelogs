@@ -20,26 +20,33 @@ ________
 ### Spool of Twine
 - Crafted with plant fibers.
 
-________
+### Locked Medical Cabinet
+- Spawns medical items.
+- Located in offices.
 
-## 🗺️ Map Changes
-
-### Area Name
-- Details
-
+### Locked Military Locker
+- Spawns Tier3 military loot.
+- Located in military POI
+  
 ________
 
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` FEATURE
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Infection
+- Added new Infection stat type, similar to radiation.
+- Clothing now protects you from getting infected at the cost of durability.
+- Infections now raise your Infection stat.
+- As your Infection stat climbs you receive additional negative health effects.
 
 ________
 
 ## ⚖️ Changes
 
 ### ❗ `Change` Change
+- Antibiotics now stack similar to water purification tablets.
+- Buffed explosion damage to locked containers.
 
 ________
 
