@@ -46,6 +46,8 @@ ________
 
 ### ❗ `Change` Change
 - Antibiotics now stack similar to water purification tablets.
+- Antibiotics now have a max stack of 8 (previously 4).
+- Antibiotics now spawn with more than one quantity.
 - Buffed explosion damage to locked containers.
 
 ________
