@@ -36,8 +36,8 @@ ________
 
 ### 🔼 `Improvement` Infection
 - Added new Infection stat type, similar to radiation.
+- Infections from zombies/fire/bleeding/broken bones now raise your Infection stat.
 - Clothing now protects you from getting infected at the cost of durability.
-- Infections now raise your Infection stat.
 - As your Infection stat climbs you receive additional negative health effects.
 
 ________
