@@ -59,6 +59,7 @@ ________
 ## 🐛 Bugfixes
 - Fixed a bug which caused containers to never close in the vicinity tab.
 - Fixed a bug which caused some locked containers to duplicate, making them appear to take no damage or be stacked inside eachother.
+- Fixed a ghost bullet bug caused when you spam click the "Spawn" button upon joining a server.
 
 ________
 
