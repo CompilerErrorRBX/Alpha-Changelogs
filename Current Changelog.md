@@ -1,8 +1,9 @@
-# 📑 Changelog 02/11/2026 - xx/xx/xxxx
+# 📑 Changelog 02/11/2026 - 02/13/2025
 
-## 🟢 Status `Unreleased`
+## 🟢 Status `Released`
 
 ## 💬 Patch Notes
+Fixed some significant bugs, added new locked containers, and reworked infections. In the near future, we'll make it so players who die while infected (perhaps greater than 25) will turn into a zombie upon death.
 
 ________
 
@@ -32,8 +33,6 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` FEATURE
-
 ### 🔼 `Improvement` Infection
 - Added new Infection stat type, similar to radiation.
 - Infections from zombies/fire/bleeding/broken bones now raise your Infection stat.
@@ -62,8 +61,3 @@ ________
 - Fixed a ghost bullet bug caused when you spam click the "Spawn" button upon joining a server.
 - Fixed a bug which prevented sounds from being cleaned up properly, leading to major FPS loss over time.
 - Fixed a bug which prevented interaction data from being cleaned up, leading to minor FPS loss over time.
-
-________
-
-## 🗒️ Additional Notes
-- Additional details
