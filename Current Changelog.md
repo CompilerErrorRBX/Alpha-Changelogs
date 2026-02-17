@@ -12,17 +12,15 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` Infection
+### 🔼 `Improvement` 
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Antibiotics
-
-### ❗ `Change` Locked Containers
+### ❗ `Change` 
 
 ________
 
 ## 🐛 Bugfixes
-
+- (Hopefully) fixed a bug which caused gun shot sounds to be buggy.
