@@ -26,6 +26,11 @@ ________
 - Tool Cabinets now spawn `IndustrialCabinet` items instead of `KitchenCabinet` items.
 - This is the same spawn pool as `Industrial` ground items.
 
+### ❗ `Change` Office Desks
+- Previously all desks in the game spawned `Desk` items.
+- Office Desks now spawn `OfficeDesk` items instead of `Desk` items.
+
+
 ________
 
 ## 🐛 Bugfixes
