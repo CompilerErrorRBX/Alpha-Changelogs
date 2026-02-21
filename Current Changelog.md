@@ -51,3 +51,4 @@ ________
 - Fixed a (Roblox) bug which prevented location pings from being audible.
 - Fixed a bug where weapon models didn't show up in the character viewport inventory screen.
 - Fixed a bug where Fire Station was incorrectly spawning too much ground loot.
+- Fixed a bug where you can cough while dead.
