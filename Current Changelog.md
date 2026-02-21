@@ -34,6 +34,10 @@ ________
 - Buffed spawns from 4-6 to 5-8.
 - Reduced emptiness percentage from 50 to 25.
 
+### ❗ `Change` Locked Medical Locker
+- Reduced emptiness percentage from 50 to 45.
+- Added scissors to spawn pool.
+
 ________
 
 ## 🐛 Bugfixes
