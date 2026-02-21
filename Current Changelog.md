@@ -19,7 +19,7 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` Sheds
-- Buffed `Industrial` ground item spawns
+- Buffed `Industrial` ground item spawns.
 
 ### ❗ `Change` Tool Cabinets
 - Previously all tall cabinets in the game spawned `Kitchen` items.
@@ -30,6 +30,9 @@ ________
 - Previously all desks in the game spawned `Desk` items.
 - Office Desks now spawn `OfficeDesk` items instead of `Desk` items.
 
+### ❗ `Change` Locked Military Locker
+- Buffed spawns from 4-6 to 5-8.
+- Reduced emptiness percentage from 50 to 25.
 
 ________
 
