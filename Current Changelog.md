@@ -20,7 +20,11 @@ ________
 
 ### ❗ `Change` Sheds
 - Buffed `Industrial` ground item spawns
-- Cabinets now spawn `IndustrialCabinet` items instead of `KitchenCabinet` items.
+
+### ❗ `Change` Tool Cabinets
+- Previously all tall cabinets in the game spawned `Kitchen` items.
+- Tool Cabinets now spawn `IndustrialCabinet` items instead of `KitchenCabinet` items.
+- This is the same spawn pool as `Industrial` ground items.
 
 ________
 
