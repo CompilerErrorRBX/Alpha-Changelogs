@@ -38,6 +38,11 @@ ________
 - Reduced emptiness percentage from 50 to 45.
 - Added scissors to spawn pool.
 
+### ❗ `Change` Construction Zombie
+- Now spawns at construction areas.
+- Reduced spawn percentage in generic zombie spawns.
+- Drops `Industrial` items, `LowTierWeapon` items, and `IndustrialMelee` items.
+
 ________
 
 ## 🐛 Bugfixes
