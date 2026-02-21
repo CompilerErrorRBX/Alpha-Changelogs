@@ -18,7 +18,9 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` 
+### ❗ `Change` Sheds
+- Buffed `Industrial` ground item spawns
+- Cabinets now spawn `IndustrialCabinet` items instead of `KitchenCabinet` items.
 
 ________
 
