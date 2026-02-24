@@ -52,6 +52,8 @@ ________
 > It seems highly unlikely, but we feel that the complaints started at roughly the same time as when we implemented
 > this feature. So we'll disable this for a week or so to see how things are looking.
 
+### ❗ `Change` Fists now do damage to Locked Containers
+
 ________
 
 ## 🐛 Bugfixes
