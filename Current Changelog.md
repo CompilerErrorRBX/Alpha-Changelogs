@@ -18,6 +18,10 @@ ________
 
 ## ⚖️ Changes
 
+### ❗ `Change` Vehicle Spawns
+- Police cars now only spawn near police stations.
+- Sedans are now separate from Police cars, and have a few more colors
+
 ### ❗ `Change` Sheds
 - Buffed `Industrial` ground item spawns.
 
@@ -52,3 +56,4 @@ ________
 - Fixed a bug where weapon models didn't show up in the character viewport inventory screen.
 - Fixed a bug where Fire Station was incorrectly spawning too much ground loot.
 - Fixed a bug where you can cough while dead.
+- Fixed a bug where cars can spawn inside of eachother.
