@@ -20,7 +20,7 @@ ________
 
 ### ❗ `Change` Vehicle Spawns
 - Police cars now only spawn near police stations.
-- Sedans are now separate from Police cars, and have a few more colors
+- Sedans are now separate from Police cars, move a bit slower, and have a few more colors
 
 ### ❗ `Change` Sheds
 - Buffed `Industrial` ground item spawns.
