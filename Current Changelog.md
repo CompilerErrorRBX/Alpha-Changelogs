@@ -12,7 +12,9 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔼 `Improvement` 
+### 🔼 `Improvement` Improved performance of zombies outside of render distance.
+- Should be lower impact on animation step
+- Slightly increased CPU cost to toggle between rendering.
 
 ________
 
@@ -45,6 +47,11 @@ ________
 - Reduced spawn percentage in generic zombie spawns.
 - Drops `Industrial` items, `LowTierWeapon` items, and `IndustrialMelee` items.
 
+### ❗ `Change` Temporarily disabled interior rendering test
+> Checking to see if this might be what causes console users to have extremely low render distances.
+> It seems highly unlikely, but we feel that the complaints started at roughly the same time as when we implemented
+> this feature. So we'll disable this for a week or so to see how things are looking.
+
 ________
 
 ## 🐛 Bugfixes
@@ -55,3 +62,4 @@ ________
 - Fixed a bug where Fire Station was incorrectly spawning too much ground loot.
 - Fixed a bug where you can cough while dead.
 - Fixed a bug where cars can spawn inside of eachother.
+- Fixed a bug which caused zombies to appear to slide across your screen in certain cases.
