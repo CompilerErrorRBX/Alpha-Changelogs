@@ -10,6 +10,11 @@ ________
 
 ________
 
+## 👕 Blackout Camo Skin Bundle
+> Additionally we added a UCP and Blackout skin for the mulepack and the duffle bag.
+
+________
+
 ## 📢 Features and Improvements
 
 ### 🔼 `Improvement` Improved performance of zombies outside of render distance.
@@ -57,6 +62,8 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- (MAJOR) Fixed a significant performance issue with zombie audio over time.
+> This lead to significantly decreased framerates with long play sessions, as well as memory leaking.
 - (Hopefully) fixed a bug which caused gun shot sounds to be buggy.
 - (Hopefully} fixed a bug which caused the gun hud to disappear.
 - Fixed a (Roblox) bug which prevented location pings from being audible.
