@@ -17,6 +17,12 @@ ________
 
 ## 📢 Features and Improvements
 
+### 🔼 `Improvement` Added servers specifically for free play players during free days.
+- Named servers cannot be joined unless the player has purchased the game.
+
+### 🔼 `Improvement` Added 2-month old account age restrictions for free play servers.
+- During free days, in order to join free-play servers, the player's account must be at least 2 months old.
+
 ### 🔼 `Improvement` Improved performance of zombies outside of render distance.
 - Should be lower impact on animation step
 - Slightly increased CPU cost to toggle between rendering.
@@ -72,3 +78,4 @@ ________
 - Fixed a bug where you can cough while dead.
 - Fixed a bug where cars can spawn inside of eachother.
 - Fixed a bug which caused zombies to appear to slide across your screen in certain cases.
+- Fixed a bug where chat messages could add rich text, causing disruptions in a chat message chain.
