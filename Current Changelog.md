@@ -1,4 +1,4 @@
-# 📑 Changelog 02/13/2026 - xx/xx/2026
+# 📑 Changelog 02/13/2026 - 02/28/2026
 
 ## 🟢 Status `Released`
 
