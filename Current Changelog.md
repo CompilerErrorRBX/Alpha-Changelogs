@@ -62,7 +62,7 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- (MAJOR) Fixed a significant performance issue with zombie audio over time.
+- (MAJOR) Fixed a significant performance issue with certain audio over time.
 > This lead to significantly decreased framerates with long play sessions, as well as memory leaking.
 - (Hopefully) fixed a bug which caused gun shot sounds to be buggy.
 - (Hopefully} fixed a bug which caused the gun hud to disappear.
