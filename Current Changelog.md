@@ -20,3 +20,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where zombies did not attack doors
+- Fixed a bug where changing between third and first person while shooting would cause your bullets to become innaccurate
