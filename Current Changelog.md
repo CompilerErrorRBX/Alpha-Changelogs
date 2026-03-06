@@ -1,9 +1,6 @@
 # 📑 Changelog 02/28/2026 - 03/XX/2026
 
 ## 🟢 Status `Unreleased`
-
-## 🔫 New Items
-
 ________
 
 ## 📢 Features and Improvements
@@ -14,7 +11,15 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` 
+### ❗ `Change` Increased makeshift weapon durability
+- `Makeshift SMG` increased from 100 -> 500
+- `Makeshift Sniper` increased from 50 -> 200
+
+### ❗ `Change` Makeshift SMG recipe
+- Replaced requirement for chopped logs with sticks
+
+### ❗ `Change` Makeshift Sniper recipe
+- Replaced requirement for chopped logs with sticks
 
 ________
 
