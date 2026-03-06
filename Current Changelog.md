@@ -1,6 +1,6 @@
 # 📑 Changelog 02/28/2026 - 03/XX/2026
 
-## 🟢 Status `Uneeleased`
+## 🟢 Status `Unreleased`
 
 ## 🔫 New Items
 
@@ -19,5 +19,6 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug where zombies did not attack doors
-- Fixed a bug where changing between third and first person while shooting would cause your bullets to become innaccurate
+- Fixed a bug where zombies did not attack doors.
+- Fixed a bug which prevented users on a controller for placing or cancelling item placement.
+- Fixed a bug where changing between third and first person while shooting would cause your bullets to become innaccurate.
