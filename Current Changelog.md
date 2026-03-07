@@ -25,5 +25,6 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where zombies did not attack doors.
+- Fixed a bug where zombies did not sprint in some cases.
 - Fixed a bug which prevented users on a controller for placing or cancelling item placement.
 - Fixed a bug where changing between third and first person while shooting would cause your bullets to become innaccurate.
