@@ -21,6 +21,8 @@ ________
 ### ❗ `Change` Makeshift Sniper recipe
 - Replaced requirement for chopped logs with sticks
 
+### ❗ `Change` Swinging with melee weapons no longer cancels your run state
+
 ________
 
 ## 🐛 Bugfixes
