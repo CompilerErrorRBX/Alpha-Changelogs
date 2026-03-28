@@ -14,7 +14,8 @@ ________
 - SMGs have on average 0.1 armor penetration.
 - Melee has on average 0.1 armor penetration.
 - Shotguns have 0 armor penetration.
-- New damage multiplier calculation: lerp(0.9, 1 - (armor_modifier * armor_level), armor_pen)
+- New damage multiplier calculation: `lerp(0.9, 1 - (armor_modifier * armor_level), armor_pen)`
+- Old damage multiplier calculation: `1 - (armor_modifier * armor_level)`
 
 ### 🔼 `Improvement` Improved zombie collision handling
 - Should be less likely to pass through objects now, although probably not perfect.
