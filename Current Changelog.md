@@ -3,9 +3,23 @@
 ## 🟢 Status `Unreleased`
 ________
 
+## 🗺️ Map Changes
+
+### Nuclear
+- Moved a bit west of its current location.
+- Remade to be a lot larger.
+- Contains many lootable areas not in the gas zone.
+- Increased military loot.
+
+### Nuclear Apartments
+- Small apartment/residential area added west of Nuclear.
+- Good area for newly spawned players.
+
+________
+
 ## 📢 Features and Improvements
 
-### 🔼 `Feature` Armor Penetration
+### ✅ `Feature` Armor Penetration
 - Different guns now cause different amounts of armor penetration.
 - Guns with higher armor penetration now ignore more of the armors protection in that area.
 - Guns with lower armor penetration more closely resemble how damage previously felt with armor.
