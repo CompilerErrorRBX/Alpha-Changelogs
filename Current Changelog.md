@@ -41,6 +41,7 @@ ________
 - Max bleeds increased from 4 to 10.
 - Bleed damage reduced from 0.5 hp/s/tier to 0.25 hp/s/tier
 - Different guns cause different amounts of bleeding per shot. Snipers and Rifles deal more bleed damage than pistols and shotguns.
+- Medical Items reduce bleeding by more to compensate.
 
 ### ❗ `Change` Increased makeshift weapon durability
 - `Makeshift SMG` increased from 100 -> 500
