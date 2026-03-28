@@ -5,6 +5,17 @@ ________
 
 ## 📢 Features and Improvements
 
+### 🔼 `Feature` Armor Penetration
+- Different guns now cause different amounts of armor penetration.
+- Guns with higher armor penetration now ignore more of the armors protection in that area.
+- Guns with lower armor penetration more closely resemble how damage previously felt with armor.
+- Snipers have on average 0.5 armor penetration.
+- Rifles have on average 0.25 armor penetration.
+- SMGs have on average 0.1 armor penetration.
+- Melee has on average 0.1 armor penetration.
+- Shotguns have 0 armor penetration.
+- New damage multiplier calculation: lerp(0.9, 1 - (armor_modifier * armor_level), armor_pen)
+
 ### 🔼 `Improvement` Improved zombie collision handling
 - Should be less likely to pass through objects now, although probably not perfect.
 ________
