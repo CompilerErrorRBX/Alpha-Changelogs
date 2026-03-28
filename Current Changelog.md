@@ -23,7 +23,6 @@ ________
 
 ## ⚖️ Changes
 
-
 ### ❗ `Change` Bleeding System
 - Max bleeds increased from 4 to 10.
 - Bleed damage reduced from 0.5 hp/s/tier to 0.25 hp/s/tier
@@ -52,3 +51,5 @@ ________
 - Fixed a bug where zombies did not sprint in some cases.
 - Fixed a bug which prevented users on a controller for placing or cancelling item placement.
 - Fixed a bug where changing between third and first person while shooting would cause your bullets to become innaccurate.
+- Fixed a bug with shotguns where you could reload them while shooting.
+- Fixed some bugs with missing gun handling sounds.
