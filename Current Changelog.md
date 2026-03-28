@@ -11,6 +11,12 @@ ________
 
 ## ⚖️ Changes
 
+
+### ❗ `Change` Bleeding System
+- Max bleeds increased from 4 to 10.
+- Bleed damage reduced from 0.5 hp/s/tier to 0.25 hp/s/tier
+- Different guns cause different amounts of bleeding per shot. Snipers and Rifles deal more bleed damage than pistols and shotguns.
+
 ### ❗ `Change` Increased makeshift weapon durability
 - `Makeshift SMG` increased from 100 -> 500
 - `Makeshift Sniper` increased from 50 -> 200
@@ -22,6 +28,10 @@ ________
 - Replaced requirement for chopped logs with sticks
 
 ### ❗ `Change` Swinging with melee weapons no longer cancels your run state
+
+### ❗ `Change` Temporarily removed `Spring` crafting recipe
+
+### ❗ `Change` Increased `Bear Trap` `Spring` requirement from 4 to 7
 
 ________
 
