@@ -47,6 +47,14 @@ ________
 - `Makeshift SMG` increased from 100 -> 500
 - `Makeshift Sniper` increased from 50 -> 200
 
+### ❗ `Change` Spring
+- Removed crafting recipe.
+- Added to `Industrial` spawn pool.
+
+### ❗ `Change` Bear Trap
+- Increased crafting `Spring` requireement from 4 to 7.
+- Added to `Hunting Cabin` spawn pool
+
 ### ❗ `Change` Makeshift SMG recipe
 - Replaced requirement for chopped logs with sticks
 
@@ -54,12 +62,6 @@ ________
 - Replaced requirement for chopped logs with sticks
 
 ### ❗ `Change` Swinging with melee weapons no longer cancels your run state
-
-### ❗ `Change` Temporarily removed `Spring` crafting recipe
-
-### ❗ `Change` `Industrial` spawns can now spawn `Springs`
-
-### ❗ `Change` Increased `Bear Trap` `Spring` requirement from 4 to 7
 
 ________
 
