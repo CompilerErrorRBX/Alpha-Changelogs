@@ -57,6 +57,8 @@ ________
 
 ### ❗ `Change` Temporarily removed `Spring` crafting recipe
 
+### ❗ `Change` `Industrial` spawns can now spawn `Springs`
+
 ### ❗ `Change` Increased `Bear Trap` `Spring` requirement from 4 to 7
 
 ________
