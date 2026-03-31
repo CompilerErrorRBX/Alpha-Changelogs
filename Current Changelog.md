@@ -30,8 +30,7 @@ ________
 - Shotguns have 0 armor penetration.
 - New damage multiplier calculation: `lerp(1 - (armor_modifier * armor_level), 0.9, armor_pen)`
 - Old damage multiplier calculation: `1 - (armor_modifier * armor_level)`
-- Rebalanced guns headshot multipliers to account for increased damage from armor penetration.
-
+  
 ### 🔼 `Improvement` Improved zombie collision handling
 - Should be less likely to pass through objects now, although probably not perfect.
 ________
@@ -43,6 +42,11 @@ ________
 - Bleed damage reduced from 0.5 hp/s/tier to 0.25 hp/s/tier
 - Different guns cause different amounts of bleeding per shot. Snipers and Rifles deal more bleed damage than pistols and shotguns.
 - Medical Items now reduce bleeding by more to compensate.
+
+### ❗ `Change` Weapon Damage
+- Rebalanced guns headshot multipliers to account for increased damage from armor penetration.
+- Reduced torso damage multiplier from 1.2x -> 1.1x
+- Reduced arm damage multiplier from 1.1x -> 1.05x
 
 ### ❗ `Change` Increased makeshift weapon durability
 - `Makeshift SMG` increased from 100 -> 500
