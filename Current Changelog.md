@@ -77,3 +77,4 @@ ________
 - Fixed a bug where changing between third and first person while shooting would cause your bullets to become innaccurate.
 - Fixed a bug with shotguns where you could reload them while shooting.
 - Fixed some bugs with missing gun handling sounds.
+- Fixed a bug where shooting while reloading causes your gun to shoot once the reload completes.
