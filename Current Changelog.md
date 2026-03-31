@@ -68,6 +68,8 @@ ________
 
 ### ❗ `Change` Swinging with melee weapons no longer cancels your run state
 
+### ❗ `Change` Buffed explosion damage to vehicles by 33%
+
 ________
 
 ## 🐛 Bugfixes
