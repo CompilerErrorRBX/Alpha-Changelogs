@@ -30,6 +30,7 @@ ________
 - Shotguns have 0 armor penetration.
 - New damage multiplier calculation: `lerp(1 - (armor_modifier * armor_level), 0.9, armor_pen)`
 - Old damage multiplier calculation: `1 - (armor_modifier * armor_level)`
+- Rebalanced guns headshot multipliers to account for increased damage from armor penetration.
 
 ### 🔼 `Improvement` Improved zombie collision handling
 - Should be less likely to pass through objects now, although probably not perfect.
