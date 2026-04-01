@@ -47,7 +47,12 @@ ________
 - Rebalanced guns headshot multipliers to account for increased damage from armor penetration.
 - Reduced torso damage multiplier from 1.2x -> 1.1x
 - Reduced arm damage multiplier from 1.1x -> 1.05x
-
+- Buffed `Barret 50` base damage from 78 -> 84.
+- Buffed `AWM` base damage from 78 -> 83.
+- Buffed `MRAD` base damage from 78 -> 86.
+- Changed `Makeshift Sniper` to have better base stats than `R700`, but less armor penetration.
+- Changed `Makeshift SMG` to have better base stats than `UMP45`, buit less armor penetration.
+  
 ### ❗ `Change` Increased makeshift weapon durability
 - `Makeshift SMG` increased from 100 -> 500
 - `Makeshift Sniper` increased from 50 -> 200
