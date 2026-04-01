@@ -52,6 +52,7 @@ ________
 - Buffed `MRAD` base damage from 78 -> 86.
 - Changed `Makeshift Sniper` to have better base stats than `R700`, but less armor penetration.
 - Changed `Makeshift SMG` to have better base stats than `UMP45`, buit less armor penetration.
+- Configured `ASVAL` to have significantly better armor penetration compared to other Assault Rifles.
   
 ### ❗ `Change` Increased makeshift weapon durability
 - `Makeshift SMG` increased from 100 -> 500
