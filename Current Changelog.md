@@ -63,7 +63,7 @@ ________
 - Added to `Industrial` spawn pool.
 
 ### ❗ `Change` Bear Trap
-- Increased crafting `Spring` requireement from 4 to 7.
+- Increased crafting `Spring` requirement from 4 to 7.
 - Added to `Hunting Cabin` spawn pool
 
 ### ❗ `Change` Makeshift SMG recipe
