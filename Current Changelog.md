@@ -9,6 +9,12 @@ ________
 ### Makeshift Shotgun
 - Single-shot break-action shotgun.
 - New crafting recipe like all other makeshift weapons.
+
+### Clothwrap Shoes
+- Craftable shoes.
+- Low durability.
+- Quieter footstep sound.
+- Same speed buff as Tier1 shoes.
   
 ________
 
