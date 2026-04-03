@@ -8,13 +8,18 @@ ________
 
 ### Makeshift Shotgun
 - Single-shot break-action shotgun.
-- New crafting recipe like all other makeshift weapons.
+- Craftable with `Metal Pipe`
 
 ### Clothwrap Shoes
 - Craftable shoes.
 - Low durability.
 - Quieter footstep sound. (~40% less distance)
 - Same speed buff as Tier1 shoes.
+
+### Metal Pipe
+- Spawns in `Industrial` loot pool
+- Melee weapon
+- Used to craft Makeshift Shotgun
   
 ________
 
