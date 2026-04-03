@@ -8,7 +8,7 @@ ________
 
 ### Makeshift Shotgun
 - Single-shot break-action shotgun.
-- New crafting recipe like all other makeshift weapons
+- New crafting recipe like all other makeshift weapons.
   
 ________
 
