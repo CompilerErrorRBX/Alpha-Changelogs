@@ -1,9 +1,14 @@
 # 📑 Changelog 02/28/2026 - 03/XX/2026
 
 ## 🟢 Status `Unreleased`
+
 ________
+
 ## 🔫 New Items
 
+### Makeshift Shotgun
+- New crafting recipe like all other makeshift weapons
+  
 ________
 
 ## 🗺️ Map Changes
@@ -56,10 +61,12 @@ ________
 - Changed `Makeshift Sniper` to have better base stats than `R700`, but less armor penetration.
 - Changed `Makeshift SMG` to have better base stats than `UMP45`, buit less armor penetration.
 - Configured `ASVAL` to have significantly better armor penetration compared to other Assault Rifles.
-  
-### ❗ `Change` Increased makeshift weapon durability
-- `Makeshift SMG` increased from 100 -> 500
-- `Makeshift Sniper` increased from 50 -> 200
+
+### ❗ `Change` Makeshift Weapons
+- `Makeshift Sniper` base damage increased from 45 -> 55
+- `Makeshift Sniper` durability increased from 50 -> 200
+- `Makeshift SMG` base damage increased from 20 -> 25
+- `Makeshift SMG` durability increased from 100 -> 500
 
 ### ❗ `Change` Spring
 - Removed crafting recipe.
