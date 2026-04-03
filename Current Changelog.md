@@ -13,7 +13,7 @@ ________
 ### Clothwrap Shoes
 - Craftable shoes.
 - Low durability.
-- Quieter footstep sound.
+- Quieter footstep sound. (~40% less distance)
 - Same speed buff as Tier1 shoes.
   
 ________
