@@ -93,3 +93,4 @@ ________
 - Fixed a bug with shotguns where you could reload them while shooting.
 - Fixed some bugs with missing gun handling sounds.
 - Fixed a bug where shooting while reloading causes your gun to shoot once the reload completes.
+- Fixed a bug where `Prison` med-bay cabinets were spawning kitchen items.
