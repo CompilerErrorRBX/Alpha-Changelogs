@@ -21,7 +21,7 @@ ________
 - Increased military loot.
 
 ### Nuclear Apartments
-- Small apartment/residential area added west of Nuclear.
+- Small apartment/residential area added east of Nuclear.
 - Good area for newly spawned players.
 
 ________
