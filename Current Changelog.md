@@ -65,8 +65,10 @@ ________
 ### ❗ `Change` Makeshift Weapons
 - `Makeshift Sniper` base damage increased from 45 -> 55
 - `Makeshift Sniper` durability increased from 50 -> 200
+- `Makeshift Sniper` crafting recipe no longer requires `Chopped Logs`. It now requires `Sticks`
 - `Makeshift SMG` base damage increased from 20 -> 25
 - `Makeshift SMG` durability increased from 100 -> 500
+- `Makeshift SMG` crafting recipe no longer requires `Chopped Logs`. It now requires `Sticks`
 
 ### ❗ `Change` Spring
 - Removed crafting recipe.
@@ -75,12 +77,6 @@ ________
 ### ❗ `Change` Bear Trap
 - Increased crafting `Spring` requirement from 4 to 7.
 - Added to `Hunting Cabin` spawn pool
-
-### ❗ `Change` Makeshift SMG recipe
-- Replaced requirement for chopped logs with sticks
-
-### ❗ `Change` Makeshift Sniper recipe
-- Replaced requirement for chopped logs with sticks
 
 ### ❗ `Change` Swinging with melee weapons no longer cancels your run state
 
