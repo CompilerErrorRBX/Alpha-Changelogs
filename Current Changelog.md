@@ -2,6 +2,9 @@
 
 ## 🟢 Status `Unreleased`
 ________
+## 🔫 New Items
+
+________
 
 ## 🗺️ Map Changes
 
