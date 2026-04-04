@@ -105,3 +105,4 @@ ________
 - Fixed some bugs with missing gun handling sounds.
 - Fixed a bug where shooting while reloading causes your gun to shoot once the reload completes.
 - Fixed a bug where `Prison` med-bay cabinets were spawning kitchen items.
+- Fixed a bug where guns would instantly reload if they were empty and the gun had no empty animation defined.
