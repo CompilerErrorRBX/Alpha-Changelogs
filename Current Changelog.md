@@ -101,9 +101,10 @@ ________
 - Fixed a bug where zombies did not attack doors.
 - Fixed a bug where zombies did not sprint in some cases.
 - Fixed a bug which prevented users on a controller for placing or cancelling item placement.
-- Fixed a bug where changing between third and first person while shooting would cause your bullets to become innaccurate.
+- Fixed a bug where changing between third and first person while shooting would cause your bullets to become inaccurate.
 - Fixed a bug with shotguns where you could reload them while shooting.
 - Fixed some bugs with missing gun handling sounds.
 - Fixed a bug where shooting while reloading causes your gun to shoot once the reload completes.
 - Fixed a bug where `Prison` med-bay cabinets were spawning kitchen items.
 - Fixed a bug where guns would instantly reload if they were empty and the gun had no empty animation defined.
+- Fixed a bug which caused some military zombies to have invisible helmets.
