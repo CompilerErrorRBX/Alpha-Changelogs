@@ -8,7 +8,8 @@ ________
 
 ### Makeshift Shotgun
 - Single-shot break-action shotgun.
-- Craftable with `Metal Pipe`
+- Craftable with `Metal Pipe`.
+- Longer range than other shotguns.
 
 ### Clothwrap Shoes
 - Craftable shoes.
