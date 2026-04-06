@@ -7,6 +7,7 @@ ________
 
 ### Makeshift Tourniquet
 - Stops 6 bleeding in 2.5 seconds
+- Temporarily uses the same model as the regular Tourniquet (waiting on art).
 
 ________
 ## 🔫 Crafting Recipies
