@@ -41,9 +41,9 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` Bleeding System
-- Bandages now stack to 10x (from 8x)
-- Small Medkit now heal 6x (from 4x)
-- Large Medkit now heal 10x (from 6x)
+- `Bandages` now stack to 10x (from 8x)
+- `Small Medkit` now heal 6x (from 4x)
+- `Large Medkit` now heal 10x (from 6x)
 
 ### ❗ `Change` Weapon Damage
 
@@ -51,4 +51,6 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug which caused scrapping `Spool of Twine` to give `Scrap Metal`
+- Fixed a bug which caused scrapping `Spool of Twine` to give `Scrap Metal`.
+- Fixed a bug which made footsteps silent with `Clothwrap Shoes`.
+- Fixed a bug which made `Clothwrap Shoes` invisible.
