@@ -14,7 +14,8 @@ ________
 - New weapon that shoots .300 Blackout
 - Built in suppressor
 - Similar to AS-VAL. Short range, lower damage, higher armor penetration.
-
+- Located where you find most military loot.
+  
 ________
 
 ## 📢 Features and Improvements
