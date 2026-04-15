@@ -5,12 +5,12 @@ ________
 
 ## 🔫 New Items
 
-# 300 Blackout
+### 300 Blackout
 - New ammo type for guns chambered in .300 BLK
 - Generally harder hitting than SMGs, but weaker base damage than .223
 - More armor penetration than .223
 
-# Honey Badger
+### Honey Badger
 - New weapon that shoots .300 Blackout
 - Built in suppressor
 - Similar to AS-VAL. Short range, lower damage, higher armor penetration.
