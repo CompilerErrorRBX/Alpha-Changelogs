@@ -20,7 +20,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Added default skin setting
+### ✅ `Feature` [QOL] Added default skin setting
 > Items can be configured with a default skin from the item skinnning interface.
 > This will cause an item's skin to be set to your preferred default if the item was not skinned by another player.
 > One caveat to this is that this change required additional data to be recorded for the items, which means that existing skin settings
