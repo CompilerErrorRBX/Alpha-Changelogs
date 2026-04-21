@@ -20,7 +20,11 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` Added default skin setting
+> Items can be configured with a default skin from the item skinnning interface.
+> This will cause an item's skin to be set to your preferred default if the item was not skinned by another player.
+> One caveat to this is that this change required additional data to be recorded for the items, which means that existing skin settings
+> will not be recognized as "player set", so upon picking them up for the first time, their skin will be overridden to your preferred default (if set).
   
 ### 🔼 `Improvement` Zombies can visibly miss attacks now.
 - Previously zombies would not play an attack animation if they failed an attack.
@@ -43,4 +47,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug which caused zombies to never return to their spawn.
+- Fixed a bug which caused zombies to never return to their spawn. (this was especially disruptive during large combat scenarios, where zombies would arrive from much further away than intended)
