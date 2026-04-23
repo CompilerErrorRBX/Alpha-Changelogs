@@ -25,7 +25,10 @@ ________
 > This will cause an item's skin to be set to your preferred default if the item was not skinned by another player.
 > One caveat to this is that this change required additional data to be recorded for the items, which means that existing skin settings
 > will not be recognized as "player set", so upon picking them up for the first time, their skin will be overridden to your preferred default (if set).
-  
+
+### 🔼 `Improvement` Improvements to Skin UI
+- Highlights added for currently equipped skin and currently viewed skin.
+
 ### 🔼 `Improvement` Zombies can visibly miss attacks now.
 - Previously zombies would not play an attack animation if they failed an attack.
 - Now you will always see them attack regardless if they hit you or not.
