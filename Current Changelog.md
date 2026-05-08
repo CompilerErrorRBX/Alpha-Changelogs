@@ -53,7 +53,8 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug which caused zombies to never return to their spawn. (this was especially disruptive during large combat scenarios, where zombies would arrive from much further away than intended)
-- Fixed a bug which prevented zombies from matching target speed upon reaching attack range (this made them very difficult to hit up close
+- Fixed a bug which caused zombies to never return to their spawn. (this was especially disruptive during large combat scenarios, where zombies would arrive from much further away than intended).
+- Fixed a bug which prevented zombies from matching target speed upon reaching attack range (this made them very difficult to hit up close.
 - Fixed a bug which caused a new sound to be generated every time a player entered or exitted a vehicle, never being cleaned up.
-- Potentitally fixed a bug which caused vehicles to fling upon entering (some kind of Roblox physics change seems to be the culprit here)
+- Fixed a bug which caused vehicles to fling upon entering (some kind of Roblox physics change seems to be the culprit here).
+- Fixed a bug which caused building interiors to spin around when opening a door on rare occasions.
