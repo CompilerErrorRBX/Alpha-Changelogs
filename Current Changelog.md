@@ -26,6 +26,14 @@ ________
 - New weapon that shoots .300 Blackout
 - Similar to AS-VAL. Short range, lower damage, higher armor penetration.
 - Located where you find most military loot.
+
+________
+
+## 🗺️ Map Changes
+
+### Misc
+- Added road connecting `Nuclear Powerplant` with `Campsite`
+- Updated Minimap
   
 ________
 
