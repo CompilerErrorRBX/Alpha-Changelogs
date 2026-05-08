@@ -16,6 +16,16 @@ ________
 - Similar to AS-VAL. Short range, lower damage, higher armor penetration.
 - Located where you find most military loot.
   
+### MCX
+- New weapon that shoots .300 Blackout
+- Similar to AS-VAL. Short range, lower damage, higher armor penetration.
+- Located where you find most military loot.
+  
+### NSR Chainsaw
+- New weapon that shoots .300 Blackout
+- Similar to AS-VAL. Short range, lower damage, higher armor penetration.
+- Located where you find most military loot.
+  
 ________
 
 ## 📢 Features and Improvements
