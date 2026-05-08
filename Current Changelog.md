@@ -58,3 +58,4 @@ ________
 - Fixed a bug which caused a new sound to be generated every time a player entered or exitted a vehicle, never being cleaned up.
 - Fixed a bug which caused vehicles to fling upon entering (some kind of Roblox physics change seems to be the culprit here).
 - Fixed a bug which caused building interiors to spin around when opening a door on rare occasions.
+- Fixed a bug which allowed interactions to be completed while dead in some situations.
