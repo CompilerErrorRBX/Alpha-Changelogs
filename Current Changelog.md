@@ -9,6 +9,7 @@ ________
 - New ammo type for guns chambered in .300 BLK
 - Generally harder hitting than SMGs, but weaker base damage than .223
 - More armor penetration than .223
+- At a range they are less effective than AR's. Close-quarters they can outclass AR's with their high armor penetration and DPS
 
 ### Honey Badger
 - New weapon that shoots .300 Blackout
