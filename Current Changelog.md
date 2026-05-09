@@ -6,7 +6,7 @@ ________
 ## 🔫 New Items
 
 ### 300 Blackout
-- New ammo type for guns chambered in .300 BLK
+- New ammo type for guns chambered in .300 BLK (CQB SMGs)
 - Generally harder hitting than SMGs, but weaker base damage than .223
 - More armor penetration than .223
 - At a range they are less effective than AR's. With close-quarters they can outclass AR's with their high armor penetration and DPS
@@ -59,6 +59,7 @@ ________
 ### ❗ `Change` ASVAL
 - Increased bullet speed by 30%.
 - Increased base damage from 22 -> 24.
+- Increase max distance from 1800 studs to 1900 studs.
 
 ### ❗ `Change` Pistol Ammo
 - Reduced weight of 45 ACP from 1.6u to 1.2u
@@ -68,6 +69,10 @@ ________
 
 ### ❗ `Change` Military Zombies
 - Reduced health from 100 -> 90
+
+### ❗ `Change` Tier3 weapon spawn changes
+- Tier3 weapon spawners now have a 10% chance of spawning CQB SMGs.
+- Humvee now spawns more weapons overall (16% chance) but a severely reduced chance at spawning tier3 weapons.
 
 ________
 
