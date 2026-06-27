@@ -16,8 +16,8 @@ ________
 ### ✅ `Feature` Vehicle System Rework
 - Improved client-side performance for vehicle simulations.
 - Condensed all vehicle interactions into a single interaction with multiple options (hold interaction key)
--- Added ability to switch seats while inside of a car (hold interaction key)
--- Added storage slots to vehicles (hold interaction key to access storage)
+- Added ability to switch seats while inside of a car (hold interaction key)
+- Added storage slots to vehicles (hold interaction key to access storage)
 - Fixed a bug with cars which could improperly kill zombies, leading to a client/server desync and the infamous "invisible zombie" bug (not positive this is the *only* case)
 
 ### 🔼 `Improvement` Improvement
