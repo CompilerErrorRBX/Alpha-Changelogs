@@ -21,7 +21,7 @@ ________
 - Fixed a bug with cars which could improperly kill zombies, leading to a client/server desync and the infamous "invisible zombie" bug (not positive this is the *only* case)
 
 ### ✅ `Feature` Grave Equipment Slot
-- Choose your grave from a new slot in the equipment menu — click it to browse and preview every grave you own in 3D.
+- Choose your grave from a new slot in the equipment menu click it to browse and preview every grave you own in 3D.
 
 ### ✅ `Feature` Search Nearby Containers
 - Unsearched containers now show up around you ready to be searched, instead of staying hidden until opened.
@@ -32,13 +32,16 @@ ________
 - Items without a flat icon (grenades, weapons) now show their 3D model in the center of the menu.
 
 ### ✅ `Feature` Inventory & Nearby Items
-- Storage panels and loose items near you now lay out neatly — no more overlapping windows, items off the edge of the screen, or wasted empty space.
+- Storage panels and loose items near you now lay out neatly no more overlapping windows, items off the edge of the screen, or wasted empty space.
 - Storage slots now fill their panels evenly.
 - Ground piles can now stack without a limit.
 - The crafting menu no longer does hidden work while closed (small performance win).
 
+### ✅ `Feature` Support for multiple recipes to craft an item
+> This has greater future value than today. Eventually this will have greater use in crafting benches and other crafters.
+
 ### 🔼 `Improvement` Status Effect Redesign
-- Status effects now stack and queue properly — overlapping heals combine into one stronger effect instead of waiting in line.
+- Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
 
 ### 🔼 `Improvement` Console QOL Update
 - Better controller support across the board, including selecting weapons and quick use items from a radial menu.
