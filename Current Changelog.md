@@ -48,6 +48,8 @@ ________
 
 ### 🔼 `Improvement` Performance
 - Item models are now cached and reused everywhere they're shown, reducing stutter when browsing inventories and loot.
+- Item icons are almost all now images instead of viewport frames renders (some noticeable changes in item icons, but all representative still).
+- Reduced the resolution of several unnecessarily high resolution images.
 
 ________
 
