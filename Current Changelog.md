@@ -72,7 +72,8 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a very long standing bug where being invited to a squad would occasionally allow you to see where the members of that squad were.
-- Fixed weapons linked to the quick use bar never being cleared on death.
+- Fixed another very long standing bug where weapons linked to the quick use bar never being cleared on death.
+- Fixed a bug where quick craft items didn't show as greyed out when not craftable
 - Fixed inventories being able to hold one more item than their limit allowed in a specific case.
 - Fixed weapons on the ground showing the wrong attachments.
 - Fixed over-sized ground piles behaving incorrectly when picked up.
