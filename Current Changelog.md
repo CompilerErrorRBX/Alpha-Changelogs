@@ -34,11 +34,14 @@ ________
 ### ✅ `Feature` Inventory & Nearby Items
 - Storage panels and loose items near you now lay out neatly no more overlapping windows, items off the edge of the screen, or wasted empty space.
 - Storage slots now fill their panels evenly.
-- Ground piles can now stack without a limit.
-- The crafting menu no longer does hidden work while closed (small performance win).
 
 ### ✅ `Feature` Support for multiple recipes to craft an item
 > This has greater future value than today. Eventually this will have greater use in crafting benches and other crafters.
+
+### ✅ `Feature` Add search to several UIs
+- Settings is now fully searchable
+- Shop is searchable
+- Shop inventory is searchable
 
 ### 🔼 `Improvement` Status Effect Redesign
 - Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
@@ -46,10 +49,18 @@ ________
 ### 🔼 `Improvement` Console QOL Update
 - Better controller support across the board, including selecting weapons and quick use items from a radial menu.
 
+### 🔼 `Improvement` Quick Item Move
+- Items now move into a container from your inventory when you click them with a container open.
+- Holding Shift + click will move a specified amount.
+
+### 🔼 `Improvement` Purchase buttons take you to the product
+- Instead of just dropping you in the store, these buttons now accurately find the associated products that the item belongs to.
+
 ### 🔼 `Improvement` Performance
 - Item models are now cached and reused everywhere they're shown, reducing stutter when browsing inventories and loot.
-- Item icons are almost all now images instead of viewport frames renders (some noticeable changes in item icons, but all representative still).
+- Item icons are almost all images instead of viewport frame renders now (some noticeable changes in item icons, but all representative still).
 - Reduced the resolution of several unnecessarily high resolution images.
+- The crafting menu no longer does hidden work while closed.
 
 ________
 
