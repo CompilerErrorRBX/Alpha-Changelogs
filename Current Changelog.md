@@ -13,6 +13,11 @@ ________
 
 ## 📢 Features and Improvements
 
+### ✅ `Feature` Reworked the Combat Log system
+- Removed combat 2x in favor of a single stage system.
+- Upon leaving in combat, your character stays behind in game for the duration of the timer
+- If your character is killed, you lose your stuff, otherwise items are kept.
+
 ### ✅ `Feature` Vehicle System Rework
 - Improved client-side performance for vehicle simulations.
 - Condensed all vehicle interactions into a single interaction with multiple options (hold interaction key)
