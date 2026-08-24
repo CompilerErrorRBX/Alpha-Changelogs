@@ -87,3 +87,4 @@ ________
 - Fixed inventories being able to hold one more item than their limit allowed in a specific case.
 - Fixed weapons on the ground showing the wrong attachments.
 - Fixed over-sized ground piles behaving incorrectly when picked up.
+- Fixed a minor bug where a loot grave could collide with a player that the dead player was standing on.
