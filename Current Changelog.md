@@ -88,3 +88,5 @@ ________
 - Fixed weapons on the ground showing the wrong attachments.
 - Fixed over-sized ground piles behaving incorrectly when picked up.
 - Fixed a minor bug where a loot grave could collide with a player that the dead player was standing on.
+- Fixed a bug where you couldn't hear the burning effect from being on fire while in first person.
+- Fixed several other minor bugs.
