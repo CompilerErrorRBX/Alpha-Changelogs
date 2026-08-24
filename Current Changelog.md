@@ -56,11 +56,19 @@ ________
 ### 🔼 `Improvement` Purchase buttons take you to the product
 - Instead of just dropping you in the store, these buttons now accurately find the associated products that the item belongs to.
 
+### 🔼 `Improvement` Use With QOL Update
+- Clicking a use with item (water purification tablets) will now show a list of items it can be used with next to it.
+
+### 🔼 `Improvement` Various Shop Improvements
+
+### 🔼 `Improvement` Brought back guns on back
+
 ### 🔼 `Improvement` Performance
 - Item models are now cached and reused everywhere they're shown, reducing stutter when browsing inventories and loot.
 - Item icons are almost all images instead of viewport frame renders now (some noticeable changes in item icons, but all representative still).
 - Reduced the resolution of several unnecessarily high resolution images.
 - The crafting menu no longer does hidden work while closed.
+- Reduced amount of work performed on weapon slots.
 
 ________
 
@@ -75,6 +83,7 @@ ________
 - Fixed another very long standing bug where weapons linked to the quick use bar never being cleared on death.
 - Fixed a bug where quick craft items didn't show as greyed out when not craftable.
 - Fixed a bug where PS5 users would experience most items moving around in their inventory (Viewport frame bug in Roblox, now using images).
+- Fixed a bug where whistling and glass bottles breaking didn't attract zombies.
 - Fixed inventories being able to hold one more item than their limit allowed in a specific case.
 - Fixed weapons on the ground showing the wrong attachments.
 - Fixed over-sized ground piles behaving incorrectly when picked up.
