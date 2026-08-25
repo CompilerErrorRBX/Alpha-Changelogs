@@ -16,6 +16,9 @@ ________
 ### ✅ `Feature` Item Stashing
 - Players can store items indefinitely in their item stash, safe from loss on death and server restarts.
 
+### ✅ `Feature` Player Reporting
+- Players can now report other players for abusive actions such as cheating, harassment, etc.
+
 ### ✅ `Feature` Reworked the Combat Log system
 - Removed combat 2x in favor of a single stage system.
 - Upon leaving in combat, your character stays behind in game for the duration of the timer
