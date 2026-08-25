@@ -13,6 +13,9 @@ ________
 
 ## 📢 Features and Improvements
 
+### ✅ `Feature` Item Stashing
+- Players can store items indefinitely in their item stash, safe from loss on death and server restarts.
+
 ### ✅ `Feature` Reworked the Combat Log system
 - Removed combat 2x in favor of a single stage system.
 - Upon leaving in combat, your character stays behind in game for the duration of the timer
