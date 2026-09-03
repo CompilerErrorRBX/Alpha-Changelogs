@@ -19,6 +19,9 @@ ________
 ### ✅ `Feature` Player Reporting
 - Players can now report other players for abusive actions such as cheating, harassment, etc.
 
+### ✅ `Feature` In-game Appeals
+- Players can now appeal a moderation action from the lobby place.
+
 ### ✅ `Feature` Reworked the Combat Log system
 - Removed combat 2x in favor of a single stage system.
 - Upon leaving in combat, your character stays behind in game for the duration of the timer
