@@ -115,3 +115,4 @@ ________
 - Fixed a bug where some percentages showed a super long value (i.e. 32.000000000000002%)
 - Fixed a bug where the Gingerbread Helmet was missing the NVG attachment reference, so it wouldn't show NVGs.
 - Fixed a bug which allowed bear traps to be placed at odd angles on top of items.
+- Fixed a bug which allowed items to be dropped into the pipeline sections of the Chinese bunker.
