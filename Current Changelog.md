@@ -19,8 +19,9 @@ ________
 ### ✅ `Feature` Player Reporting
 - Players can now report other players for abusive actions such as cheating, harassment, etc.
 
-### ✅ `Feature` In-game Appeals
-- Players can now appeal a moderation action from the lobby place.
+### ✅ `Feature` Server Authoritative Movement
+> All movement systems in the game are now server authoritative. This should crack down heavily on all movement related cheats
+> such as flying, speed-hacking, bunny hopping, etc. Additionally, it allows us to clamp down on almost all server-side validations.
 
 ### ✅ `Feature` Reworked the Combat Log system
 - Removed combat 2x in favor of a single stage system.
