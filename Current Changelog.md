@@ -59,7 +59,7 @@ ________
 - Shop inventory is searchable.
 - Improved search in crafting UI.
 
-### 🔼 `Improvement` Status Effect Redesign
+### ✅ `Feature` Status Effect Redesign
 - Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
 
 ### 🔼 `Improvement` Console QOL Update
