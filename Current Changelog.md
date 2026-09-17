@@ -34,6 +34,7 @@ ________
 - Added ability to switch seats while inside of a car (hold interaction key)
 - Added storage slots to vehicles (hold interaction key to access storage)
 - Fixed a bug with cars which could improperly kill zombies, leading to a client/server desync and the infamous "invisible zombie" bug (not positive this is the *only* case)
+- Police car siren toggle with F (or whatever the Vehicle Special sound is bound to)
 
 ### ✅ `Feature` Grave Equipment Slot
 - Choose your grave from a new slot in the equipment menu click it to browse and preview every grave you own in 3D.
