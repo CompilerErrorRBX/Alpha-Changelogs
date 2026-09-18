@@ -1,4 +1,4 @@
-# 📑 Changelog 04/06/2026 - xx/xx/2026
+# 📑 Changelog 05/09/2026 - xx/xx/2026
 
 ## 🟢 Status `Unreleased`
 ________
@@ -63,6 +63,22 @@ ________
 ### ✅ `Feature` Status Effect Redesign
 - Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
 
+### ✅ `Feature` Server-authoritative movement
+- Walk, sprint, stance, and climb now simulate on both the client and the server.
+- This keeps your speed and stance in agreement reduces rubber-banding, and prevents speed hacks, teleport hacks, and fly hacks.
+
+### ✅ `Feature` Sprint-to-fire cooldown
+- Each gun has an internal cooldown after sprinting before you can fire.
+- Heavier guns have a longer cooldown.
+
+### ✅ `Feature` Weapon inspect
+- Added inspect animations.
+
+### ✅ `Feature` Controller auto-run
+- Pulling the stick now sprints.
+- Default setting is true.
+- Keyboard still uses Shift only.
+
 ### 🔼 `Improvement` Console QOL Update
 - Better controller support across the board, including selecting weapons and quick use items from a radial menu.
 
@@ -89,11 +105,26 @@ ________
 - The crafting menu no longer does hidden work while closed.
 - Reduced amount of work performed on weapon slots.
 
+### 🔼 `Improvement` You can no longer stand up while blocked
+
+### 🔼 `Improvement` Character Animation System
+- No longer use built-in Roblox animator.
+- Animations feel smoother.
+- Added upper-body counter rotating, so legs can move independently.
+- Speed improvement.
+
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` CHANGE
+### ❗ `Change` You can no longer prone while in the air
+
+### ❗ `Change` Reduced crouch-prone toggle button delay from 0.5s to 0.33s
+
+### ❗ `Change` Increased character interpolation speed
+
+### ❗ `Change` Reload Cancelling on Looped-Reloading Guns
+- Previously it would attempt to shoot, causing inconsistent behavior.
 
 ________
 
@@ -117,4 +148,25 @@ ________
 - Fixed a bug where some percentages showed a super long value (i.e. 32.000000000000002%)
 - Fixed a bug where the Gingerbread Helmet was missing the NVG attachment reference, so it wouldn't show NVGs.
 - Fixed a bug which allowed bear traps to be placed at odd angles on top of items.
+- Fixed a bug that caused you to get stuck in prone when you respawned.
+- Fixed a bug that caused you to stand up when pressing crouch while proning.
+- Fixed a bug where spamming crouch would bug out prone.
+- Fixed a bug where you get stuck rubber banding mid-life.
+- Fixed (another) bug causing player models to render at 0,0,0.
+- Fixed a bug that caused cached player models to incorrectly draw at 0,0,0.
+- Fixed a bug causing camera height not to reset on a new life.
+- Fixed a bug causing health to desync after respawn.
+- Fixed a bug which caused fps to affect turn speed on controllers.
+- Fixed a bug causing third-person characters not to render and inputs not to bind after the movement rewrite.
+- Fixed a bug where when you ADS your gun could be misaligned.
+- Fixed a bug where recoil would not reset properly after shooting.
+- Fixed a bug where if you take out the same weapon twice, it breaks weapon rendering.
+- Fixed a bug where you could take out the weapon slot you already have equipped.
+- Fixed a bug where you could attempt to take out a weapon slot that does not exist.
+- Fixed a bug where you would respawn with a sprinting animation but be moving at your walk-speed.
+- Fixed a bug where guns would sometimes reload way too quickly.
+- Fixed a bug where guns that have a looped reload animation would get out of sync.
+- Fixed a bug causing weapon-speed-modifier attribute to no longer get applied correctly.
+- Fixed a bug with player animations starting with an incorrect weight.
+- Fixed a bug causing melee traces to hit leftover player collision and fail to connect.
 - Fixed a bug which allowed items to be dropped into the pipeline sections of the Chinese bunker.
