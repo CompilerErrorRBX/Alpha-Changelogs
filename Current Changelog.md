@@ -35,6 +35,8 @@ ________
 - Added storage slots to vehicles (hold interaction key to access storage)
 - Fixed a bug with cars which could improperly kill zombies, leading to a client/server desync and the infamous "invisible zombie" bug (not positive this is the *only* case)
 - Police car siren toggle with F (or whatever the Vehicle Special sound is bound to)
+- Vehicles can now run over and damage players.
+- Vehicles can damage other vehicles by ramming them.
 
 ### ✅ `Feature` Grave Equipment Slot
 - Choose your grave from a new slot in the equipment menu click it to browse and preview every grave you own in 3D.
