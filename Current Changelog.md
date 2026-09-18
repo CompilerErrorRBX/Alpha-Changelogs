@@ -65,10 +65,6 @@ ________
 ### ✅ `Feature` Status Effect Redesign
 - Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
 
-### ✅ `Feature` Server-authoritative movement
-- Walk, sprint, stance, and climb now simulate on both the client and the server.
-- This keeps your speed and stance in agreement reduces rubber-banding, and prevents speed hacks, teleport hacks, and fly hacks.
-
 ### ✅ `Feature` Sprint-to-fire cooldown
 - Each gun has an internal cooldown after sprinting before you can fire.
 - Heavier guns have a longer cooldown.
