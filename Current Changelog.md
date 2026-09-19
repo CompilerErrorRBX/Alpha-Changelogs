@@ -111,6 +111,8 @@ ________
 - Added upper-body counter rotating, so legs can move independently.
 - Speed improvement.
 
+### 🔼 `Improvement` Chinese bunker NPCs have returned!
+
 ________
 
 ## ⚖️ Changes
