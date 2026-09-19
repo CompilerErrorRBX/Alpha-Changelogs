@@ -28,6 +28,9 @@ ________
 > All movement systems in the game are now server authoritative. This should crack down heavily on all movement related cheats
 > such as flying, speed-hacking, bunny hopping, etc. Additionally, it allows us to clamp down on almost all server-side validations.
 
+### ✅ `Feature` Death screen tells you what actually killed you
+- Zombie, fall, gas, burning, starvation, dehydration, bleeding, toxicity, radiation, infection, bear traps and landmines.
+
 ### ✅ `Feature` Reworked the Combat Log system
 - Removed combat 2x in favor of a single stage system.
 - Upon leaving in combat, your character stays behind in game for the duration of the timer
@@ -105,6 +108,11 @@ ________
 
 ### 🔼 `Improvement` Brought back guns on back
 
+### 🔼 `Improvement` Crafting list sorts by what you can actually make
+
+### 🔼 `Improvement` Breathing sounds match your gear
+- A gas mask sounds like a gas mask even when you're exhausted.
+
 ### 🔼 `Improvement` Performance
 - Item models are now cached and reused everywhere they're shown, reducing stutter when browsing inventories and loot.
 - Item icons are almost all images instead of viewport frame renders now (some noticeable changes in item icons, but all representative still).
@@ -119,7 +127,7 @@ ________
 - Animations feel smoother.
 - Added upper-body counter rotating, so legs can move independently.
 - Speed improvement.
-- 
+  
 ________
 
 ## ⚖️ Changes
