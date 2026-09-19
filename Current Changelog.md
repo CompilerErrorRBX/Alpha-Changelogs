@@ -16,6 +16,11 @@ ________
 ### ✅ `Feature` Item Stashing
 - Players can store items indefinitely in their item stash, safe from loss on death and server restarts.
 
+### ✅ `Feature` Chinese Bunker NPCs
+- Improved their combativeness.
+- Loosely work together to guard the bunker.
+- Able to use grenades.
+
 ### ✅ `Feature` Player Reporting
 - Players can now report other players for abusive actions such as cheating, harassment, etc.
 
@@ -77,6 +82,10 @@ ________
 - Default setting is true.
 - Keyboard still uses Shift only.
 
+### ✅ `Feature` Inventory Quick Sort
+
+### ✅ `Feature` Drag + Drop panel on right edge of inventory
+
 ### 🔼 `Improvement` Console QOL Update
 - Better controller support across the board, including selecting weapons and quick use items from a radial menu.
 
@@ -110,9 +119,7 @@ ________
 - Animations feel smoother.
 - Added upper-body counter rotating, so legs can move independently.
 - Speed improvement.
-
-### 🔼 `Improvement` Chinese bunker NPCs have returned!
-
+- 
 ________
 
 ## ⚖️ Changes
