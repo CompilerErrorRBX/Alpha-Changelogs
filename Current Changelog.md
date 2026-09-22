@@ -185,3 +185,4 @@ ________
 - Fixed a bug with player animations starting with an incorrect weight.
 - Fixed a bug causing melee traces to hit leftover player collision and fail to connect.
 - Fixed a bug which allowed items to be dropped into the pipeline sections of the Chinese bunker.
+- Fixed falling off a ladder dealing no fall damage.
