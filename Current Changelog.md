@@ -5,6 +5,19 @@ ________
 
 ## 🔫 New Items
 
+### Fuel Siphon
+- Allows the removal of fuel from a vehicle (and potentially other containers later, like gas pumps).
+- Fuel is a highly valuable commodity now, all vehicles consume fuel.
+
+### Biodiesel
+- Fuel for diesel vehicles.
+
+### Juice Box
+- More variety in drinks I guess :)
+
+### Biofuel renamed to Ethanol
+- Just removes some confusion with `Biodiesel`
+
 ________
 
 ## 🗺️ Map Changes
@@ -45,6 +58,7 @@ ________
 - Police car siren toggle with F (or whatever the Vehicle Special sound is bound to)
 - Vehicles can now run over and damage players.
 - Vehicles can damage other vehicles by ramming them.
+- Vehicles now consume fuel (ethanol or diesel)
 
 ### ✅ `Feature` Grave Equipment Slot
 - Choose your grave from a new slot in the equipment menu click it to browse and preview every grave you own in 3D.
@@ -119,8 +133,13 @@ ________
 - Reduced the resolution of several unnecessarily high resolution images.
 - The crafting menu no longer does hidden work while closed.
 - Reduced amount of work performed on weapon slots.
+- Huge improvements to animation performance.
 
 ### 🔼 `Improvement` You can no longer stand up while blocked
+
+### 🔼 `Improvement` Completely overhauled the item, equipment, and inventory systems.
+- Takes care of some old tech debt and vastly improves typing in the codebase.
+- Slightly increases networking cost, but overall more efficient CPU time.
 
 ### 🔼 `Improvement` Character Animation System
 - No longer use built-in Roblox animator.
