@@ -103,6 +103,12 @@ ________
 
 ### ✅ `Feature` Drag + Drop panel on right edge of inventory
 
+### 🔼 `Improvement` Zombies
+- Zombies near players get priority replication. Nearby zombies should appear much smoother.
+- Zombies can vault over obstacles.
+- Zombies now look at you while chasing.
+- Zombies look around randomly.
+
 ### 🔼 `Improvement` Console QOL Update
 - Better controller support across the board, including selecting weapons and quick use items from a radial menu.
 
@@ -146,6 +152,10 @@ ________
 - Animations feel smoother.
 - Added upper-body counter rotating, so legs can move independently.
 - Speed improvement.
+
+### 🔼 `Improvement` Redesigned the entire UI
+- All UIs are now more cohesive.
+- Added several new QOL features across the whole system.
   
 ________
 
