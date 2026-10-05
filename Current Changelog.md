@@ -156,7 +156,9 @@ ________
 ### 🔼 `Improvement` Redesigned the entire UI
 - All UIs are now more cohesive.
 - Added several new QOL features across the whole system.
-  
+
+### 🔼 `Improvement` Ground items can be dragged into slots now.
+
 ________
 
 ## ⚖️ Changes
