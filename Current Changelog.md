@@ -5,9 +5,26 @@ ________
 
 ## 🔫 New Items
 
+### Gas Grenade
+- Fills a room with gas. Countered with gas mask.
+
+### Molotov rework
+- Molotovs should be more effective in dealing damage
+- Added smoke, which causes the smoke inhalation status effect. Countered with gas mask.
+
+### Concussion Grenade
+- Reduces movement and camera speed and disorients the player temporarily.
+
+### Flashbang
+- Blinds players temporarily.
+
 ### Fuel Siphon
 - Allows the removal of fuel from a vehicle (and potentially other containers later, like gas pumps).
 - Fuel is a highly valuable commodity now, all vehicles consume fuel.
+
+### Tire Iron
+- Used in removing and attaching wheels to vehicles.
+- Also a very capable melee weapon.
 
 ### Biodiesel
 - Fuel for diesel vehicles.
@@ -20,56 +37,18 @@ ________
 
 ________
 
-## 🗺️ Map Changes
-
-________
-
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Item Condition System
-- Items can now take permanent condition damage, this cannot be repaired.
-- This prevents an item's durability from being fully repaired, causing it to break faster and faster over time.
-
-### ✅ `Feature` Vest Armor Rework
-- Armor for vests comes from the plates attached to them instead of a flat durability on the vest.
-- Plates can be swapped out at any time.
-- Worn vests cannot hold as many plates over time.
-
-### ✅ `Feature` Item Stashing
+### ✅ `Feature` [MAJOR] Item Stashing
 - Players can store items indefinitely in their item stash, safe from loss on death and server restarts.
+- With this change, loot also becomes server isolated.
 
-### ✅ `Feature` Status Effect Redesign
-- Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
-
-### ✅ `Feature` Sprint-to-fire cooldown
-- Each gun has an internal cooldown after sprinting before you can fire.
-- Heavier guns have a longer cooldown.
-
-### ✅ `Feature` Drop and Scrap X context actions
-- Holding `Shift` with the context menu open allows you to 
-
-### ✅ `Feature` Chinese Bunker NPCs
-- Improved their combativeness.
-- Loosely work together to guard the bunker.
-- Able to use grenades.
-- Can be given status effects (Bleed, infection, etc.) from being shot.
-
-### ✅ `Feature` Player Reporting
-- Players can now report other players for abusive actions such as cheating, harassment, etc.
-
-### ✅ `Feature` Server Authoritative Movement
+### ✅ `Feature` [MAJOR] Server Authoritative Movement
+- Anti-cheat, and improvements to physics on grenades and vehicles.
 > All movement systems in the game are now server authoritative. This should crack down heavily on all movement related cheats
 > such as flying, speed-hacking, bunny hopping, etc. Additionally, it allows us to clamp down on almost all server-side validations.
 
-### ✅ `Feature` Death screen tells you what actually killed you
-- Zombie, fall, gas, burning, starvation, dehydration, bleeding, toxicity, radiation, infection, bear traps and landmines.
-
-### ✅ `Feature` Reworked the Combat Log system
-- Removed combat 2x in favor of a single stage system.
-- Upon leaving in combat, your character stays behind in game for the duration of the timer
-- If your character is killed, you lose your stuff, otherwise items are kept.
-
-### ✅ `Feature` Vehicle System Rework
+### ✅ `Feature` [MAJOR] Vehicle System Rework
 - Improved client-side performance for vehicle simulations.
 - Condensed all vehicle interactions into a single interaction with multiple options (hold interaction key).
 - Added ability to switch seats while inside of a car (hold interaction key).
@@ -88,6 +67,41 @@ ________
 - Wheels can be removed and replaced with a `Tire Iron`.
 - Fuel can be siphoned from a vehicle with a `Fuel Siphon`.
 - Camera follows the vehicle's movement now.
+
+### ✅ `Feature` [MAJOR] Reworked the Combat Log system
+- Removed combat 2x in favor of a single stage system.
+- Upon leaving in combat, your character stays behind in game for the duration of the timer. If your character is killed, you lose your stuff, otherwise items are kept.
+
+### ✅ `Feature` [MAJOR] Sprint-to-fire cooldown
+- Each gun has an internal cooldown after sprinting before you can fire.
+- Heavier guns have a longer cooldown.
+
+### ✅ `Feature` Chinese Bunker NPCs
+- Improved their combativeness.
+- Loosely work together to guard the bunker.
+- Able to use grenades.
+- Can be given status effects (Bleed, infection, etc.) from being shot.
+
+### ✅ `Feature` Item Condition System
+- Items can now take permanent condition damage, this cannot be repaired.
+- This prevents an item's durability from being fully repaired, causing it to break faster and faster over time.
+
+### ✅ `Feature` Vest Armor Rework
+- Armor for vests comes from the plates attached to them instead of a flat durability on the vest.
+- Plates can be swapped out at any time.
+- Worn vests cannot hold as many plates over time.
+
+### ✅ `Feature` Status Effect Redesign
+- Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
+
+### ✅ `Feature` Drop and Scrap X context actions
+- Holding `Shift` with the context menu open allows you to 
+
+### ✅ `Feature` Player Reporting
+- Players can now report other players for abusive actions such as cheating, harassment, etc.
+
+### ✅ `Feature` Death screen tells you what actually killed you
+- Zombie, fall, gas, burning, starvation, dehydration, bleeding, toxicity, radiation, infection, bear traps and landmines.
 
 ### ✅ `Feature` Grave Equipment Slot
 - Choose your grave from a new slot in the equipment menu click it to browse and preview every grave you own in 3D.
@@ -125,7 +139,12 @@ ________
 
 ### ✅ `Feature` Chat filtering for all chat and squad chat.
 
-### 🔼 `Improvement` Zombies
+### ✅ `Feature` Prone now has its own keybind.
+
+### ✅ `Feature` Added a setting in interface to change your font type.
+- :)
+
+### 🔼 `Improvement` [MAJOR] Zombies
 - Zombies no longer spawn near players.
 - Zombies near players get priority replication. Nearby zombies should appear much smoother.
 - Zombies can vault over obstacles.
@@ -133,40 +152,8 @@ ________
 - Zombies look around randomly.
 - Zombies have more convincing animation speed, before they appeared to slide around and looked terrible.
 - Zombies have more stagger animations and can be knocked down by blunt weapons.
-
-### 🔼 `Improvement` Console QOL Update
-- Better controller support across the board, including selecting weapons and quick use items from a radial menu.
-
-### 🔼 `Improvement` Quick Item Move
-- Items now move into a container from your inventory when you click them with a container open.
-- Holding Shift + click will move a specified amount.
-
-### 🔼 `Improvement` Purchase buttons take you to the product
-- Instead of just dropping you in the store, these buttons now accurately find the associated products that the item belongs to.
-
-### 🔼 `Improvement` Use With QOL Update
-- Clicking a use with item (water purification tablets) will now show a list of items it can be used with next to it.
-
-### 🔼 `Improvement` Airdrop plane is now visible on the map
-
-### 🔼 `Improvement` Various Shop Improvements
-
-### 🔼 `Improvement` Brought back guns on back
-
-### 🔼 `Improvement` Crafting list sorts by what you can actually make
-
-### 🔼 `Improvement` Breathing sounds match your gear
-- A gas mask sounds like a gas mask even when you're exhausted.
-
-### 🔼 `Improvement` Performance
-- Item models are now cached and reused everywhere they're shown, reducing stutter when browsing inventories and loot.
-- Item icons are almost all images instead of viewport frame renders now (some noticeable changes in item icons, but all representative still).
-- Reduced the resolution of several unnecessarily high resolution images.
-- The crafting menu no longer does hidden work while closed.
-- Reduced amount of work performed on weapon slots.
-- Huge improvements to animation performance.
-
-### 🔼 `Improvement` You can no longer stand up while blocked
+- Runners and sprinters can be turned into crawlers by shooting or hitting their legs with melee.
+- Crawlers lunge towards the player now.
 
 ### 🔼 `Improvement` Completely overhauled the item, equipment, and inventory systems.
 - Takes care of some old tech debt and vastly improves typing in the codebase.
@@ -178,11 +165,45 @@ ________
 - Added upper-body counter rotating, so legs can move independently.
 - Speed improvement.
 
+### 🔼 `Improvement` [QOL] Ground items can be dragged into slots now.
+
+### 🔼 `Improvement` [QOL] Console QOL Update
+- Better controller support across the board, including selecting weapons and quick use items from a radial menu.
+
+### 🔼 `Improvement` [QOL] Quick Item Move
+- Items now move into a container from your inventory when you click them with a container open.
+- Holding Shift + click will move a specified amount.
+
+### 🔼 `Improvement` [QOL] Use With QOL Update
+- Clicking a use with item (water purification tablets) will now show a list of items it can be used with next to it.
+
+### 🔼 `Improvement` [QOL] Purchase buttons take you to the product
+- Instead of just dropping you in the store, these buttons now accurately find the associated products that the item belongs to.
+
+### 🔼 `Improvement` [QOL] Crafting list sorts by what you can actually make
+
+### 🔼 `Improvement` Airdrop plane is now visible on the map
+
+### 🔼 `Improvement` Various Shop Improvements
+
+### 🔼 `Improvement` Reimplemented guns on back visual
+
+### 🔼 `Improvement` Breathing sounds match your gear
+- A gas mask sounds like a gas mask even when you're exhausted.
+
+### 🔼 `Improvement` Performance improvements
+- Item models are now cached and reused everywhere they're shown, reducing stutter when browsing inventories and loot.
+- Item icons are almost all images instead of viewport frame renders now (some noticeable changes in item icons, but all representative still).
+- Reduced the resolution of several unnecessarily high resolution images.
+- The crafting menu no longer does hidden work while closed.
+- Reduced amount of work performed on weapon slots.
+- Huge improvements to animation performance.
+
+### 🔼 `Improvement` You can no longer stand up while blocked
+
 ### 🔼 `Improvement` Redesigned the entire UI
 - All UIs are now more cohesive.
 - Added several new QOL features across the whole system.
-
-### 🔼 `Improvement` Ground items can be dragged into slots now.
 
 ________
 
