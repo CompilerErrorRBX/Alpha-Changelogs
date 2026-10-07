@@ -26,13 +26,33 @@ ________
 
 ## 📢 Features and Improvements
 
+### ✅ `Feature` Item Condition System
+- Items can now take permanent condition damage, this cannot be repaired.
+- This prevents an item's durability from being fully repaired, causing it to break faster and faster over time.
+
+### ✅ `Feature` Vest Armor Rework
+- Armor for vests comes from the plates attached to them instead of a flat durability on the vest.
+- Plates can be swapped out at any time.
+- Worn vests cannot hold as many plates over time.
+
 ### ✅ `Feature` Item Stashing
 - Players can store items indefinitely in their item stash, safe from loss on death and server restarts.
+
+### ✅ `Feature` Status Effect Redesign
+- Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
+
+### ✅ `Feature` Sprint-to-fire cooldown
+- Each gun has an internal cooldown after sprinting before you can fire.
+- Heavier guns have a longer cooldown.
+
+### ✅ `Feature` Drop and Scrap X context actions
+- Holding `Shift` with the context menu open allows you to 
 
 ### ✅ `Feature` Chinese Bunker NPCs
 - Improved their combativeness.
 - Loosely work together to guard the bunker.
 - Able to use grenades.
+- Can be given status effects (Bleed, infection, etc.) from being shot.
 
 ### ✅ `Feature` Player Reporting
 - Players can now report other players for abusive actions such as cheating, harassment, etc.
@@ -51,14 +71,23 @@ ________
 
 ### ✅ `Feature` Vehicle System Rework
 - Improved client-side performance for vehicle simulations.
-- Condensed all vehicle interactions into a single interaction with multiple options (hold interaction key)
-- Added ability to switch seats while inside of a car (hold interaction key)
-- Added storage slots to vehicles (hold interaction key to access storage)
-- Fixed a bug with cars which could improperly kill zombies, leading to a client/server desync and the infamous "invisible zombie" bug (not positive this is the *only* case)
-- Police car siren toggle with F (or whatever the Vehicle Special sound is bound to)
+- Condensed all vehicle interactions into a single interaction with multiple options (hold interaction key).
+- Added ability to switch seats while inside of a car (hold interaction key).
+- Added storage slots to vehicles (hold interaction key to access storage).
+- Fixed a bug with cars which could improperly kill zombies, leading to a client/server desync and the infamous "invisible zombie" bug (not positive this is the *only* case).
+- Police car siren toggle with F (or whatever the Vehicle Special sound is bound to).
 - Vehicles can now run over and damage players.
 - Vehicles can damage other vehicles by ramming them.
-- Vehicles now consume fuel (ethanol or diesel)
+- Vehicles now consume fuel (ethanol or diesel).
+- Burnouts cause wear on the tires.
+- Added battery behaviors, headlights, police car siren, horn, starting the vehicle, hotwiring all cause battery drain. Running the engine recharges it.
+- Pulling the battery or spark plug stops the engine.
+- Some vehicles play a car alarm when hotwired.
+- Hard crashes damage the car and concuss everyone in the vehicle.
+- Improved the sound engine on vehicles, so we have much more control of how and when they play.
+- Wheels can be removed and replaced with a `Tire Iron`.
+- Fuel can be siphoned from a vehicle with a `Fuel Siphon`.
+- Camera follows the vehicle's movement now.
 
 ### ✅ `Feature` Grave Equipment Slot
 - Choose your grave from a new slot in the equipment menu click it to browse and preview every grave you own in 3D.
@@ -84,16 +113,6 @@ ________
 - Shop inventory is searchable.
 - Improved search in crafting UI.
 
-### ✅ `Feature` Status Effect Redesign
-- Status effects now stack and queue properly overlapping heals combine into one stronger effect instead of waiting in line.
-
-### ✅ `Feature` Sprint-to-fire cooldown
-- Each gun has an internal cooldown after sprinting before you can fire.
-- Heavier guns have a longer cooldown.
-
-### ✅ `Feature` Weapon inspect
-- Added inspect animations.
-
 ### ✅ `Feature` Controller auto-run
 - Pulling the stick now sprints.
 - Default setting is true.
@@ -101,13 +120,19 @@ ________
 
 ### ✅ `Feature` Inventory Quick Sort
 
-### ✅ `Feature` Drag + Drop panel on right edge of inventory
+### ✅ `Feature` Inventory Drag + Drop panel on right edge
+- Just an alternative to pressing the drop hotkey.
+
+### ✅ `Feature` Chat filtering for all chat and squad chat.
 
 ### 🔼 `Improvement` Zombies
+- Zombies no longer spawn near players.
 - Zombies near players get priority replication. Nearby zombies should appear much smoother.
 - Zombies can vault over obstacles.
 - Zombies now look at you while chasing.
 - Zombies look around randomly.
+- Zombies have more convincing animation speed, before they appeared to slide around and looked terrible.
+- Zombies have more stagger animations and can be knocked down by blunt weapons.
 
 ### 🔼 `Improvement` Console QOL Update
 - Better controller support across the board, including selecting weapons and quick use items from a radial menu.
