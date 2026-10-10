@@ -198,6 +198,7 @@ ________
 - The crafting menu no longer does hidden work while closed.
 - Reduced amount of work performed on weapon slots.
 - Huge improvements to animation performance.
+- Improved bullet tracer performance by ~500%.
 
 ### 🔼 `Improvement` You can no longer stand up while blocked
 
