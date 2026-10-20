@@ -144,6 +144,12 @@ ________
 ### ✅ `Feature` Added a setting in interface to change your font type.
 - :)
 
+### ✅ `Feature` Third person shoulder swapping with (Default Z keybind)
+
+### ✅ `Feature` Any carriable item can be thrown
+- Deals damage to players and zombies
+- Attracts zombies
+
 ### 🔼 `Improvement` [MAJOR] Zombies
 - Zombies no longer spawn near players.
 - Zombies near players get priority replication. Nearby zombies should appear much smoother.
@@ -206,6 +212,8 @@ ________
 - All UIs are now more cohesive.
 - Added several new QOL features across the whole system.
 
+### 🔼 `Improvement` Added and improved various 3rd person animations.
+
 ________
 
 ## ⚖️ Changes
@@ -263,4 +271,6 @@ ________
 - Fixed a bug with player animations starting with an incorrect weight.
 - Fixed a bug causing melee traces to hit leftover player collision and fail to connect.
 - Fixed a bug which allowed items to be dropped into the pipeline sections of the Chinese bunker.
-- Fixed falling off a ladder dealing no fall damage.
+- Fixed a bug which made falling off a ladder deal no fall damage.
+- Fixed a bug which broke the icons for tactical bacon and peas.
+- Fixed a bug which broke the icon for purified water (new model + image)
