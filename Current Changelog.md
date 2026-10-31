@@ -34,7 +34,20 @@ ________
 
 ### Biofuel renamed to Ethanol
 - Just removes some confusion with `Biodiesel`
+________
 
+## 🗺️ Map Changes
+
+### Terrain
+- New tree models. Similar triangle counts but much higher fidelity models.
+- New bush models. Similar triangle counts but much higher fidelity models.
+- New roads. Less triangles and much higher fidelity.
+- Improved some ugly terrain around the map
+
+### Quarry Highway
+- Added a massive traffic jam on the highway near quarry.
+- Great starter loot.
+  
 ________
 
 ## 📢 Features and Improvements
