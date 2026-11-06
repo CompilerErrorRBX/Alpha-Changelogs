@@ -1,14 +1,6 @@
-# 📑 Changelog 11/01/2026 - xx/xx/2026
+# 📑 Changelog 11/01/2026 - 11/06/2026
 
-## 🟢 Status `Unreleased`
-________
-
-## 🔫 New Items
-
-________
-
-## 🗺️ Map Changes
-
+## 🟢 Status `Released`
 ________
 
 ## 📢 Features and Improvements
