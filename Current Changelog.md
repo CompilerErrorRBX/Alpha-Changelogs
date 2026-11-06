@@ -24,7 +24,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Reduced weapon sprint cooldown by 50% across all weapons
+### ❗ `Change` Reduced weapon sprint cooldown by 50% for shotguns, pistols, and SMGs
 
 ________
 
