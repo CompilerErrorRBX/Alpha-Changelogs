@@ -34,6 +34,7 @@ ________
 - Fixed a major vehicle bug where vehicles would launch whenever colliding with trees in a certain way.
 - (Hopefully) Fixed a bug where players would get pushed away whenever exiting a vehicle in certain cases.
 - Fixed a bug where ghillie suits would cause sparking on vehicles.
+- Fixed a bug which made vehicles inaudible past a relatively short distance.
 - Fixed a bug where a passenger would cause impact sounds on repeat for the driver.
 - Fixed a bug where while having the engine UI open on a vehicle then trying to open the storage, nothing would happen.
 - Fixed a bug where a vehicle was still simulated by the player when they weren't driving it.
@@ -48,5 +49,4 @@ ________
 - Fixed a bug where craft max did not craft max in the Crafting UI.
 - Fixed a bug where you could not drag/drop an item into the quick craft slots.
 - Fixed a bug where you had to press the sprint key twice to sprint.
-- Fixed some bugs with vicinity containers not getting all containers in interaction radius, this is still not perfect, but closer.
 - Fixed a bug which made ladders difficult to descend.
