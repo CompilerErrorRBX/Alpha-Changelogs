@@ -46,3 +46,4 @@ ________
 - Fixed a bug which caused players to spawn in random locations when not spawning in fast enough.
 - Fixed a bug which caused stuck UI in the vicinity UI in several cases.
 - Fixed a bug where craft max did not craft max in the Crafting UI.
+- Fixed a bug where you could not drag/drop an item into the quick craft slots.
