@@ -17,14 +17,16 @@ ________
 
 ### ✅ `Feature` Added Take All button to vicinity.
 
-### 🔼 `Improvement` Increased the spawn rate of handcuffs and added spawns for handcuff key
-- More common in police spawns.
+### 🔼 `Improvement` Improved server performance by fixing physics replication leaks.
 
 ________
 
 ## ⚖️ Changes
 
 ### ❗ `Change` Reduced weapon sprint cooldown by 50% for shotguns, pistols, and SMGs
+
+### ❗ `Change` Increased the spawn rate of handcuffs and added spawns for handcuff key
+- More common in police spawns.
 
 ________
 
