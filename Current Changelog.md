@@ -48,3 +48,5 @@ ________
 - Fixed a bug where craft max did not craft max in the Crafting UI.
 - Fixed a bug where you could not drag/drop an item into the quick craft slots.
 - Fixed a bug where you had to press the sprint key twice to sprint.
+- Fixed some bugs with vicinity containers not getting all containers in interaction radius, this is still not perfect, but closer.
+- Fixed a bug which made ladders difficult to descend.
