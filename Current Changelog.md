@@ -7,6 +7,9 @@ ________
 
 ### ✅ `Feature` Feature
 
+### 🔼 `Improvement` Rewrote the anti-fly system
+- Hopefully should have far less false positives and deal with cheating faster.
+
 ### 🔼 `Improvement` Car engine interaction is now active while in the car, so batteries and sparkplugs can be managed while in the car.
 
 ### 🔼 `Improvement` Improved server performance
@@ -16,7 +19,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Made night a bit brighter.
 
 ________
 
