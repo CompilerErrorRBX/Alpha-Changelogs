@@ -5,6 +5,14 @@ ________
 
 ## 📢 Features and Improvements
 
+### ✅ `Feature` Play Solo mode
+- Players who have never purchased access to the game now have free access to a solo play version of the game with up to 3 friends.
+
+### ✅ `Feature` Multiplayer Paid Access
+- Multiplayer access can be gifted to other players.
+- Players who never purchased paid access now have the option to purchase multiplayer paid access instead.
+- All players who have already paid for access to Aftermath still have access to multiplayer in exactly the same capacity as before.
+
 ### ✅ `Feature` The helicopter now flies back for a second pass
 - If it isn't shot down, it turns around at the end of its route and flies back the way it came.
 - Damage carries over between passes.
