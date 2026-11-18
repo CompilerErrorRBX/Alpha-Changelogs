@@ -1,6 +1,9 @@
-# 📑 Changelog 11/14/2026 - 11/xx/2026
+# 📑 Changelog 11/14/2026 - 11/17/2026
 
-## 🟢 Status `Unreleased`
+Release of our first version of the free solo servers for Aftermath. We'll be expanding on this concept greatly in the coming months.
+For now, this gives players a taste of the game without having to buy anything.
+
+## 🟢 Status `Released`
 ________
 
 ## 📢 Features and Improvements
@@ -29,11 +32,5 @@ ________
 
 ________
 
-## ⚖️ Changes
-
-### ❗ `Change` Change
-
-________
-
 ## 🐛 Bugfixes
-- Bug
+- Fixed a bug where players could spawn where they left.
