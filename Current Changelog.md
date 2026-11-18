@@ -31,8 +31,6 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Halved the helicopter's health
-
 ### ❗ `Change` The helicopter flies 20% slower
 
 ________
