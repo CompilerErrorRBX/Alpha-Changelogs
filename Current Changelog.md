@@ -5,15 +5,27 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` The helicopter now flies back for a second pass
+- If it isn't shot down, it turns around at the end of its route and flies back the way it came.
+- Damage carries over between passes.
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Buffed helicopter crash box loot
+- Removed the Mossberg 500 and M40A1 from the weapon pool. Added more DMRs (M110K, MK14, MK18) and big snipers (AWM, MRAD, Barrett .50).
+- The Renelli M4 is more than twice as common, and the M79 is twice as common.
+- Vests now always come fully loaded with Reinforced armor plates.
+- Helmets now come with night vision mounted, usually Tier 2 and sometimes Tier 3.
+- Clothing is now Tier 3, with a rare chance of a full Ghillie set.
+- Added a rare chance of a Tier 4 Assault Backpack.
+- Scrip increased to 150 to 250 per box (was 5 to 10).
+- The crash box has more space to fit everything.
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Halved the helicopter's health
+
+### ❗ `Change` The helicopter flies 20% slower
 
 ________
 
