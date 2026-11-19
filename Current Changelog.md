@@ -32,5 +32,14 @@ ________
 
 ________
 
+## ⚖️ Changes
+
+### ❗ `Change` Ladder climbing is slower
+- Climbing a ladder is a little slower.
+- Sprinting up a ladder is much slower than before, but still faster than climbing normally.
+- Climbing while crouched is slower too.
+
+________
+
 ## 🐛 Bugfixes
 - Fixed a bug where players could spawn where they left.
