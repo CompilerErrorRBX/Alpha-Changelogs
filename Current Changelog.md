@@ -5,6 +5,10 @@ ________
 
 ## 📢 Features and Improvements
 
+### ✅ `Feature` [QOL] Added a Foliage Render Distance setting
+- Choose how far away trees are drawn: Low, Medium, High or Ultra.
+- Found in Settings under Graphics.
+
 ### 🔼 `Improvement` Improved accuracy of cheater refund loot
 - Previously, it could pull older data which might give worse loot in some cases.
 
