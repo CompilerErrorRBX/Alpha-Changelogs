@@ -12,6 +12,10 @@ ________
 ### 🔼 `Improvement` Improved accuracy of cheater refund loot
 - Previously, it could pull older data which might give worse loot in some cases.
 
+### 🔼 `Improvement` Distant trees are much cheaper to draw
+- Trees far away are now drawn as simplified versions, which should improve performance around forests.
+- They switch back to full trees as you get closer.
+
 ________
 
 ## ⚖️ Changes
