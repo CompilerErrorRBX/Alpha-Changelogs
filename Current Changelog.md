@@ -36,3 +36,4 @@ ________
 - Fixed a bug where the Chinese Bunker would occasional make crazy alien noises.
 - (Hopefully) Fixed a bug where vehicles would occasionally roll away when you got near them.
 - (Hopefully) Fixed some bugs preventing players from joining solo servers occasionally.
+- Fixed a bug where leaving a server didn't save where you were standing, so rejoining could put you back at an older spot.
